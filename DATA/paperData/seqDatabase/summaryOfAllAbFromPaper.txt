@@ -1,0 +1,65 @@
+approved:A
+sequence:S
+immunogenicity:I
+
+
+[A+ S+ I+] 5
+1.trastuzumab
+2.bevacizumab
+3.canakinumab
+4.ustekinumab
+5.denosumab
+
+[A- S+ I+] 1
+cantuzumab
+
+
+[A+ S+(in database) I-]  27
+avelumab
+sirukumab
+dupilumab
+romosozumab
+bezlotoxumab
+brodalumab
+sarilumab
+olaratumab
+atezolizumab
+ixekizumab
+
+obiltoxaximab
+daratumumab
+necitumumab
+idarucizumab
+alirocumab
+evolocumab
+dinutuximab
+secukinumab
+nivolumab
+blinatumomab
+
+pembrolizumab
+ramucirumab
+vedolizumab
+siltuximab
+obinutuzumab
+brentuximab vedotin
+ipilimumab
+
+
+[A+ S- I-] 14
+reslizumab
+mepolizumab
+raxibacumab
+pertuzumab
+belimumab
+tocilizumab
+golimumab
+catumaxomab
+eculizumab
+panitumumab
+natalizumab
+adalimumab
+alemtuzumab
+infliximab
+
+

@@ -1,0 +1,1855 @@
+INN No:  6559
+Name:  tuvirumab
+PL:  66
+RL:  32
+//
+INN No:  6560
+Name:  sevirumab
+PL:  66
+RL:  32
+//
+INN No:  6605
+Name:  imciromab
+PL:  66
+RL:  32
+//
+INN No:  6614
+Name:  maslimomab
+PL:  66
+RL:  32
+//
+INN No:  6658
+Name:  nebacumab
+PL:  66
+RL:  32
+//
+INN No:  6867
+Name:  biciromab
+PL:  66
+RL:  32
+//
+INN No:  6964
+Name:  enlimomab
+PL:  80
+RL:  41
+//
+INN No:  6977
+Name:  satumomab
+PL:  81
+RL:  43
+//
+INN No:  7046
+Name:  altumomab
+PL:  80
+RL:  41
+//
+INN No:  7056
+Name:  edobacomab
+PL:  80
+RL:  41
+//
+INN No:  7156
+Name:  detumomab
+PL:  80
+RL:  41
+//
+INN No:  7164
+Name:  daclizumab
+PL:  78
+RL:  40
+//
+INN No:  7165
+Name:  votumumab
+PL:  80
+RL:  41
+//
+INN No:  7200
+Name:  abciximab
+PL:  80
+RL:  41
+//
+INN No:  7201
+Name:  capromab
+PL:  80
+RL:  41
+//
+INN No:  7250
+Name:  regavirumab
+PL:  80
+RL:  41
+//
+INN No:  7253
+Name:  inolimomab
+PL:  80
+RL:  41
+//
+INN No:  7263
+Name:  priliximab
+PL:  80
+RL:  41
+//
+INN No:  7340
+Name:  afelimomab
+PL:  80
+RL:  41
+//
+INN No:  7364
+Name:  odulimomab
+PL:  81
+RL:  42
+//
+INN No:  7417
+Name:  arcitumomab
+PL:  74
+RL:  36
+//
+INN No:  7433
+Name:  igovomab
+PL:  86
+RL:  42
+//
+INN No:  7471
+Name:  edrecolomab
+PL:  74
+RL:  36
+//
+INN No:  7496
+Name:  faralimomab
+PL:  81
+RL:  43
+//
+INN No:  7513
+Name:  technetium (99mTc) pintumomab
+PL:  86
+RL:  42
+//
+INN No:  7514
+Name:  bectumomab
+PL:  81
+RL:  42
+//
+INN No:  7519
+Name:  sulesomab
+PL:  86
+RL:  42
+//
+INN No:  7546
+Name:  nerelimomab
+PL:  81
+RL:  42
+//
+INN No:  7560
+Name:  keliximab
+PL:  81
+RL:  43
+//
+INN No:  7567
+Name:  cedelizumab
+PL:  81
+RL:  42
+//
+INN No:  7578
+Name:  basiliximab
+PL:  81
+RL:  42
+//
+INN No:  7580
+Name:  lintuzumab
+PL:  86
+RL:  43
+//
+INN No:  7602
+Name:  infliximab
+PL:  77
+RL:  39
+//
+INN No:  7609
+Name:  rituximab
+PL:  77
+RL:  39
+//
+INN No:  7615
+Name:  clenoliximab
+PL:  77
+RL:  39
+//
+INN No:  7623
+Name:  felvizumab
+PL:  77
+RL:  39
+//
+INN No:  7637
+Name:  trastuzumab
+PL:  78
+RL:  40
+//
+INN No:  7646
+Name:  morolimumab
+PL:  79
+RL:  41
+//
+INN No:  7647
+Name:  atorolimumab
+PL:  80
+RL:  42
+//
+INN No:  7716
+Name:  natalizumab
+PL:  79
+RL:  41
+//
+INN No:  7753
+Name:  palivizumab
+PL:  79
+RL:  41
+//
+INN No:  7757
+Name:  vepalimomab
+PL:  80
+RL:  42
+//
+INN No:  7821
+Name:  minretumomab
+PL:  80
+RL:  42
+//
+INN No:  7827
+Name:  tositumomab
+PL:  80
+RL:  42
+//
+INN No:  7833
+Name:  epitumomab
+PL:  97
+RL:  44
+//
+INN No:  7860
+Name:  adalimumab
+PL:  85
+RL:  45
+//
+INN No:  7866
+Name:  sibrotuzumab
+PL:  86
+RL:  48
+//
+INN No:  7869
+Name:  rovelizumab
+PL:  81
+RL:  43
+//
+INN No:  7876
+Name:  mepolizumab
+PL:  81
+RL:  43
+//
+INN No:  7882
+Name:  lerdelimumab
+PL:  86
+RL:  46
+//
+INN No:  7906
+Name:  cetuximab
+PL:  82
+RL:  44
+//
+INN No:  7920
+Name:  epratuzumab
+PL:  82
+RL:  44
+//
+INN No:  7934
+Name:  mitumomab
+PL:  82
+RL:  44
+//
+INN No:  7965
+Name:  bivatuzumab
+PL:  86
+RL:  48
+//
+INN No:  8005
+Name:  alemtuzumab
+PL:  83
+RL:  45
+//
+INN No:  8014
+Name:  ruplizumab
+PL:  83
+RL:  45
+//
+INN No:  8017
+Name:  bevacizumab
+PL:  86
+RL:  48
+//
+INN No:  8024
+Name:  gemtuzumab
+PL:  83
+RL:  45
+//
+INN No:  8039
+Name:  omalizumab
+PL:  84
+RL:  46
+//
+INN No:  8046
+Name:  lemalesomab
+PL:  86
+RL:  48
+//
+INN No:  8054
+Name:  visilizumab
+PL:  84
+RL:  46
+//
+INN No:  8060
+Name:  gavilimomab
+PL:  84
+RL:  46
+//
+INN No:  8061
+Name:  ziralimumab
+PL:  84
+RL:  46
+//
+INN No:  8076
+Name:  erlizumab
+PL:  84
+RL:  46
+//
+INN No:  8087
+Name:  metelimumab
+PL:  88
+RL:  49
+//
+INN No:  8103
+Name:  matuzumab
+PL:  88
+RL:  50
+//
+INN No:  8106
+Name:  reslizumab
+PL:  85
+RL:  47
+//
+INN No:  8122
+Name:  efalizumab
+PL:  85
+RL:  47
+//
+INN No:  8127
+Name:  labetuzumab
+PL:  85
+RL:  47
+//
+INN No:  8132
+Name:  pritumumab
+PL:  89
+RL:  51
+//
+INN No:  8150
+Name:  technetium (99mTc) fanolesomab
+PL:  86
+RL:  48
+//
+INN No:  8153
+Name:  pexelizumab
+PL:  86
+RL:  47
+//
+INN No:  8183
+Name:  oregovomab
+PL:  86
+RL:  48
+//
+INN No:  8207
+Name:  vapaliximab
+PL:  87
+RL:  49
+//
+INN No:  8210
+Name:  apolizumab
+PL:  87
+RL:  49
+//
+INN No:  8211
+Name:  teneliximab
+PL:  87
+RL:  49
+//
+INN No:  8227
+Name:  pascolizumab
+PL:  87
+RL:  49
+//
+INN No:  8231
+Name:  eculizumab
+PL:  87
+RL:  49
+//
+INN No:  8232
+Name:  toralizumab
+PL:  87
+RL:  49
+//
+INN No:  8239
+Name:  ecromeximab
+PL:  87
+RL:  49
+//
+INN No:  8251
+Name:  siplizumab
+PL:  87
+RL:  49
+//
+INN No:  8264
+Name:  fontolizumab
+PL:  87
+RL:  49
+//
+INN No:  8276
+Name:  urtoxazumab
+PL:  90
+RL:  52
+//
+INN No:  8291
+Name:  aselizumab
+PL:  88
+RL:  50
+//
+INN No:  8298
+Name:  zanolimumab
+PL:  92
+RL:  53
+//
+INN No:  8313
+Name:  ranibizumab
+PL:  90
+RL:  52
+//
+INN No:  8332
+Name:  bertilimumab
+PL:  88
+RL:  50
+//
+INN No:  8339
+Name:  galiximab
+PL:  89
+RL:  51
+//
+INN No:  8370
+Name:  talizumab
+PL:  89
+RL:  51
+//
+INN No:  8371
+Name:  elsilimomab
+PL:  89
+RL:  51
+//
+INN No:  8380
+Name:  pertuzumab
+PL:  89
+RL:  51
+//
+INN No:  8381
+Name:  belimumab
+PL:  89
+RL:  51
+//
+INN No:  8394
+Name:  tocilizumab
+PL:  90
+RL:  52
+//
+INN No:  8406
+Name:  catumaxomab
+PL:  93
+RL:  55
+//
+INN No:  8407
+Name:  ertumaxomab
+PL:  93
+RL:  55
+//
+INN No:  8438
+Name:  sontuzumab
+PL:  94
+RL:  56
+//
+INN No:  8443
+Name:  lumiliximab
+PL:  90
+RL:  52
+//
+INN No:  8449
+Name:  adecatumumab
+PL:  90
+RL:  52
+//
+INN No:  8451
+Name:  besilesomab
+PL:  92
+RL:  54
+//
+INN No:  8481
+Name:  libivirumab
+PL:  91
+RL:  53
+//
+INN No:  8497
+Name:  golimumab
+PL:  91
+RL:  53
+//
+INN No:  8499
+Name:  panitumumab
+PL:  96
+RL:  57
+//
+INN No:  8500
+Name:  tefibazumab
+PL:  92
+RL:  54
+//
+INN No:  8536
+Name:  exbivirumab
+PL:  91
+RL:  53
+//
+INN No:  8545
+Name:  nimotuzumab
+PL:  94
+RL:  56
+//
+INN No:  8568
+Name:  ipilimumab
+PL:  94
+RL:  56
+//
+INN No:  8580
+Name:  raxibacumab
+PL:  92
+RL:  54
+//
+INN No:  8600
+Name:  volociximab
+PL:  93
+RL:  55
+//
+INN No:  8605
+Name:  zalutumumab
+PL:  93
+RL:  55
+//
+INN No:  8606
+Name:  ofatumumab
+PL:  93
+RL:  55
+//
+INN No:  8624
+Name:  bapineuzumab
+PL:  93
+RL:  55
+//
+INN No:  8635
+Name:  mapatumumab
+PL:  93
+RL:  55
+//
+INN No:  8636
+Name:  ocrelizumab
+PL:  95
+RL:  56
+//
+INN No:  8643
+Name:  pagibaximab
+PL:  93
+RL:  55
+//
+INN No:  8651
+Name:  tadocizumab
+PL:  94
+RL:  56
+//
+INN No:  8653
+Name:  denosumab
+PL:  94
+RL:  56
+//
+INN No:  8658
+Name:  efungumab
+PL:  95
+RL:  57
+//
+INN No:  8659
+Name:  abagovomab
+PL:  95
+RL:  57
+//
+INN No:  8683
+Name:  stamulumab
+PL:  95
+RL:  56
+//
+INN No:  8693
+Name:  motavizumab
+PL:  95
+RL:  57
+//
+INN No:  8713
+Name:  iratumumab
+PL:  94
+RL:  56
+//
+INN No:  8716
+Name:  tremelimumab
+PL:  97
+RL:  59
+//
+INN No:  8734
+Name:  bavituximab
+PL:  95
+RL:  57
+//
+INN No:  8753
+Name:  lexatumumab
+PL:  95
+RL:  57
+//
+INN No:  8818
+Name:  ibalizumab
+PL:  97
+RL:  59
+//
+INN No:  8832
+Name:  tenatumomab
+PL:  99
+RL:  60
+//
+INN No:  8836
+Name:  canakinumab
+PL:  97
+RL:  59
+//
+INN No:  8862
+Name:  etaracizumab
+PL:  99
+RL:  61
+//
+INN No:  8864
+Name:  otelixizumab
+PL:  99
+RL:  60
+//
+INN No:  8869
+Name:  teplizumab
+PL:  97
+RL:  59
+//
+INN No:  8887
+Name:  lucatumumab
+PL:  98
+RL:  60
+//
+INN No:  8888
+Name:  panobacumab
+PL:  100
+RL:  62
+//
+INN No:  8894
+Name:  gantenerumab
+PL:  108
+RL:  59
+//
+INN No:  8922
+Name:  milatuzumab
+PL:  98
+RL:  60
+//
+INN No:  8932
+Name:  veltuzumab
+PL:  98
+RL:  60
+//
+INN No:  8941
+Name:  tanezumab
+PL:  99
+RL:  61
+//
+INN No:  8942
+Name:  anrukinzumab
+PL:  98
+RL:  60
+//
+INN No:  8954
+Name:  ustekinumab
+PL:  99
+RL:  61
+//
+INN No:  8959
+Name:  dacetuzumab
+PL:  98
+RL:  60
+//
+INN No:  8979
+Name:  tigatuzumab
+PL:  98
+RL:  60
+//
+INN No:  8998
+Name:  racotumomab
+PL:  100
+RL:  62
+//
+INN No:  9028
+Name:  blinatumomab
+PL:  100
+RL:  62
+//
+INN No:  9029
+Name:  conatumumab
+PL:  99
+RL:  61
+//
+INN No:  9043
+Name:  obinutuzumab
+PL:  109
+RL:  69
+//
+INN No:  9051
+Name:  siltuximab
+PL:  100
+RL:  62
+//
+INN No:  9052
+Name:  rafivirumab
+PL:  100
+RL:  61
+//
+INN No:  9053
+Name:  foravirumab
+PL:  100
+RL:  61
+//
+INN No:  9067
+Name:  farletuzumab
+PL:  100
+RL:  62
+//
+INN No:  9074
+Name:  elotuzumab
+PL:  100
+RL:  62
+//
+INN No:  9083
+Name:  necitumumab
+PL:  100
+RL:  62
+//
+INN No:  9085
+Name:  figitumumab
+PL:  100
+RL:  62
+//
+INN No:  9092
+Name:  robatumumab
+PL:  100
+RL:  62
+//
+INN No:  9093
+Name:  vedolizumab
+PL:  100
+RL:  62
+//
+INN No:  9097
+Name:  solanezumab
+PL:  107
+RL:  68
+//
+INN No:  9098
+Name:  ramucirumab
+PL:  110
+RL:  71
+//
+INN No:  9099
+Name:  cixutumumab
+PL:  100
+RL:  62
+//
+INN No:  9107
+Name:  teprotumumab
+PL:  108
+RL:  63
+//
+INN No:  9114
+Name:  rontalizumab
+PL:  101
+RL:  63
+//
+INN No:  9116
+Name:  girentuximab
+PL:  101
+RL:  63
+//
+INN No:  9117
+Name:  iodine (124I) girentuximab
+PL:  101
+RL:  63
+//
+INN No:  9123
+Name:  rilotumumab
+PL:  101
+RL:  63
+//
+INN No:  9128
+Name:  daratumumab
+PL:  101
+RL:  63
+//
+INN No:  9134
+Name:  intetumumab
+PL:  101
+RL:  63
+//
+INN No:  9135
+Name:  sifalimumab
+PL:  104
+RL:  65
+//
+INN No:  9137
+Name:  fezakinumab
+PL:  101
+RL:  63
+//
+INN No:  9153
+Name:  briakinumab
+PL:  101
+RL:  63
+//
+INN No:  9158
+Name:  fresolimumab
+PL:  101
+RL:  63
+//
+INN No:  9165
+Name:  lebrikizumab
+PL:  101
+RL:  63
+//
+INN No:  9182
+Name:  secukinumab
+PL:  102
+RL:  64
+//
+INN No:  9185
+Name:  suvizumab
+PL:  102
+RL:  64
+//
+INN No:  9199
+Name:  glembatumumab
+PL:  102
+RL:  64
+//
+INN No:  9200
+Name:  dalotuzumab
+PL:  107
+RL:  68
+//
+INN No:  9233
+Name:  benralizumab
+PL:  102
+RL:  64
+//
+INN No:  9234
+Name:  mavrilimumab
+PL:  102
+RL:  64
+//
+INN No:  9235
+Name:  tralokinumab
+PL:  102
+RL:  64
+//
+INN No:  9255
+Name:  drozitumab
+PL:  103
+RL:  65
+//
+INN No:  9262
+Name:  enokizumab
+PL:  104
+RL:  66
+//
+INN No:  9290
+Name:  etrolizumab
+PL:  104
+RL:  66
+//
+INN No:  9300
+Name:  ensituximab
+PL:  103
+RL:  65
+//
+INN No:  9307
+Name:  samalizumab
+PL:  105
+RL:  66
+//
+INN No:  9308
+Name:  olaratumab
+PL:  103
+RL:  65
+//
+INN No:  9309
+Name:  foralumab
+PL:  103
+RL:  65
+//
+INN No:  9310
+Name:  gevokizumab
+PL:  104
+RL:  66
+//
+INN No:  9320
+Name:  oxelumab
+PL:  105
+RL:  65
+//
+INN No:  9321
+Name:  itolizumab
+PL:  103
+RL:  65
+//
+INN No:  9322
+Name:  ponezumab
+PL:  104
+RL:  66
+//
+INN No:  9323
+Name:  ganitumab
+PL:  103
+RL:  65
+//
+INN No:  9333
+Name:  olokizumab
+PL:  103
+RL:  65
+//
+INN No:  9334
+Name:  ublituximab
+PL:  104
+RL:  66
+//
+INN No:  9335
+Name:  roledumab
+PL:  103
+RL:  65
+//
+INN No:  9336
+Name:  atinumab
+PL:  104
+RL:  66
+//
+INN No:  9340
+Name:  radretumab
+PL:  104
+RL:  66
+//
+INN No:  9343
+Name:  amatuximab
+PL:  104
+RL:  66
+//
+INN No:  9354
+Name:  enavatuzumab
+PL:  104
+RL:  66
+//
+INN No:  9365
+Name:  urelumab
+PL:  104
+RL:  66
+//
+INN No:  9368
+Name:  onartuzumab
+PL:  104
+RL:  66
+//
+INN No:  9369
+Name:  ozoralizumab
+PL:  105
+RL:  67
+//
+INN No:  9370
+Name:  icrucumab
+PL:  104
+RL:  66
+//
+INN No:  9372
+Name:  carlumab
+PL:  104
+RL:  66
+//
+INN No:  9373
+Name:  fulranumab
+PL:  104
+RL:  66
+//
+INN No:  9374
+Name:  mogamulizumab
+PL:  104
+RL:  66
+//
+INN No:  9380
+Name:  vesencumab
+PL:  104
+RL:  66
+//
+INN No:  9382
+Name:  namilumab
+PL:  104
+RL:  66
+//
+INN No:  9413
+Name:  tregalizumab
+PL:  104
+RL:  66
+//
+INN No:  9415
+Name:  lirilumab
+PL:  107
+RL:  69
+//
+INN No:  9428
+Name:  pateclizumab
+PL:  105
+RL:  67
+//
+INN No:  9430
+Name:  tabalumab
+PL:  105
+RL:  67
+//
+INN No:  9431
+Name:  sirukumab
+PL:  105
+RL:  67
+//
+INN No:  9439
+Name:  vatelizumab
+PL:  105
+RL:  67
+//
+INN No:  9440
+Name:  blosozumab
+PL:  105
+RL:  67
+//
+INN No:  9447
+Name:  narnatumab
+PL:  105
+RL:  67
+//
+INN No:  9465
+Name:  ficlatuzumab
+PL:  105
+RL:  67
+//
+INN No:  9467
+Name:  ixekizumab
+PL:  105
+RL:  67
+//
+INN No:  9475
+Name:  brodalumab
+PL:  105
+RL:  67
+//
+INN No:  9476
+Name:  sarilumab
+PL:  106
+RL:  68
+//
+INN No:  9482
+Name:  crenezumab
+PL:  105
+RL:  67
+//
+INN No:  9509
+Name:  abituzumab
+PL:  109
+RL:  71
+//
+INN No:  9511
+Name:  caplacizumab
+PL:  106
+RL:  68
+//
+INN No:  9512
+Name:  inclacumab
+PL:  106
+RL:  68
+//
+INN No:  9519
+Name:  ontuxizumab
+PL:  109
+RL:  71
+//
+INN No:  9520
+Name:  flanvotumab
+PL:  106
+RL:  68
+//
+INN No:  9533
+Name:  romosozumab
+PL:  106
+RL:  68
+//
+INN No:  9537
+Name:  solitomab
+PL:  106
+RL:  68
+//
+INN No:  9541
+Name:  quilizumab
+PL:  106
+RL:  68
+//
+INN No:  9549
+Name:  patritumab
+PL:  106
+RL:  68
+//
+INN No:  9567
+Name:  placulumab
+PL:  107
+RL:  69
+//
+INN No:  9568
+Name:  actoxumab
+PL:  111
+RL:  72
+//
+INN No:  9572
+Name:  demcizumab
+PL:  107
+RL:  69
+//
+INN No:  9575
+Name:  enoticumab
+PL:  107
+RL:  69
+//
+INN No:  9578
+Name:  lampalizumab
+PL:  107
+RL:  69
+//
+INN No:  9589
+Name:  fasinumab
+PL:  107
+RL:  69
+//
+INN No:  9590
+Name:  ocaratuzumab
+PL:  107
+RL:  69
+//
+INN No:  9598
+Name:  imgatuzumab
+PL:  107
+RL:  69
+//
+INN No:  9599
+Name:  clazakizumab
+PL:  107
+RL:  69
+//
+INN No:  9608
+Name:  bezlotoxumab
+PL:  107
+RL:  69
+//
+INN No:  9611
+Name:  vorsetuzumab
+PL:  107
+RL:  69
+//
+INN No:  9612
+Name:  futuximab
+PL:  107
+RL:  69
+//
+INN No:  9613
+Name:  modotuximab
+PL:  110
+RL:  72
+//
+INN No:  9620
+Name:  alirocumab
+PL:  107
+RL:  69
+//
+INN No:  9623
+Name:  nivolumab
+PL:  111
+RL:  72
+//
+INN No:  9626
+Name:  simtuzumab
+PL:  107
+RL:  69
+//
+INN No:  9635
+Name:  orticumab
+PL:  107
+RL:  69
+//
+INN No:  9636
+Name:  concizumab
+PL:  108
+RL:  70
+//
+INN No:  9643
+Name:  evolocumab
+PL:  108
+RL:  70
+//
+INN No:  9646
+Name:  duligotuzumab
+PL:  110
+RL:  72
+//
+INN No:  9647
+Name:  parsatuzumab
+PL:  107
+RL:  69
+//
+INN No:  9648
+Name:  perakizumab
+PL:  108
+RL:  69
+//
+INN No:  9653
+Name:  ligelizumab
+PL:  107
+RL:  69
+//
+INN No:  9669
+Name:  dupilumab
+PL:  108
+RL:  70
+//
+INN No:  9672
+Name:  tildrakizumab
+PL:  108
+RL:  70
+//
+INN No:  9679
+Name:  dusigitumab
+PL:  108
+RL:  70
+//
+INN No:  9688
+Name:  nesvacumab
+PL:  108
+RL:  70
+//
+INN No:  9689
+Name:  pidilizumab
+PL:  108
+RL:  70
+//
+INN No:  9698
+Name:  idarucizumab
+PL:  115
+RL:  76
+//
+INN No:  9703
+Name:  ozanezumab
+PL:  108
+RL:  70
+//
+INN No:  9710
+Name:  seribantumab
+PL:  108
+RL:  70
+//
+INN No:  9711
+Name:  bimagrumab
+PL:  110
+RL:  70
+//
+INN No:  9723
+Name:  pritoxaximab
+PL:  108
+RL:  70
+//
+INN No:  9724
+Name:  setoxaximab
+PL:  108
+RL:  70
+//
+INN No:  9733
+Name:  lodelcizumab
+PL:  108
+RL:  70
+//
+INN No:  9746
+Name:  eldelumab
+PL:  109
+RL:  71
+//
+INN No:  9754
+Name:  dinutuximab
+PL:  109
+RL:  71
+//
+INN No:  9757
+Name:  tosatoxumab
+PL:  109
+RL:  71
+//
+INN No:  9759
+Name:  codrituzumab
+PL:  109
+RL:  71
+//
+INN No:  9762
+Name:  tarextumab
+PL:  109
+RL:  71
+//
+INN No:  9774
+Name:  guselkumab
+PL:  109
+RL:  71
+//
+INN No:  9778
+Name:  tovetumab
+PL:  109
+RL:  71
+//
+INN No:  9779
+Name:  vantictumab
+PL:  109
+RL:  71
+//
+INN No:  9798
+Name:  pembrolizumab
+PL:  110
+RL:  72
+//
+INN No:  9799
+Name:  margetuximab
+PL:  109
+RL:  71
+//
+INN No:  9800
+Name:  anifrolumab
+PL:  109
+RL:  71
+//
+INN No:  9814
+Name:  atezolizumab
+PL:  112
+RL:  74
+//
+INN No:  9825
+Name:  obiltoxaximab
+PL:  113
+RL:  75
+//
+INN No:  9832
+Name:  otlertuzumab
+PL:  110
+RL:  72
+//
+INN No:  9838
+Name:  aducanumab
+PL:  110
+RL:  72
+//
+INN No:  9840
+Name:  bococizumab
+PL:  110
+RL:  72
+//
+INN No:  9841
+Name:  ralpancizumab
+PL:  110
+RL:  72
+//
+INN No:  9854
+Name:  ulocuplumab
+PL:  110
+RL:  72
+//
+INN No:  9876
+Name:  fletikumab
+PL:  110
+RL:  72
+//
+INN No:  9878
+Name:  bimekizumab
+PL:  110
+RL:  72
+//
+INN No:  9921
+Name:  abrilumab
+PL:  111
+RL:  73
+//
+INN No:  9922
+Name:  diridavumab
+PL:  111
+RL:  73
+//
+INN No:  9932
+Name:  emibetuzumab
+PL:  111
+RL:  73
+//
+INN No:  9933
+Name:  varlilumab
+PL:  111
+RL:  73
+//
+INN No:  9937
+Name:  pasotuxizumab
+PL:  111
+RL:  73
+//
+INN No:  9950
+Name:  vanucizumab
+PL:  113
+RL:  73
+//
+INN No:  9951
+Name:  emactuzumab
+PL:  111
+RL:  73
+//
+INN No:  9952
+Name:  lumretuzumab
+PL:  111
+RL:  73
+//
+INN No:  9959
+Name:  begelomab
+PL:  111
+RL:  73
+//
+INN No:  9961
+Name:  imalumab
+PL:  111
+RL:  73
+//
+INN No:  9965
+Name:  lenzilumab
+PL:  111
+RL:  73
+//
+INN No:  9975
+Name:  firivumab
+PL:  111
+RL:  73
+//
+INN No:  9976
+Name:  navivumab
+PL:  113
+RL:  75
+//
+INN No:  9982
+Name:  brontictuzumab
+PL:  111
+RL:  73
+//
+INN No:  9985
+Name:  inebilizumab
+PL:  113
+RL:  75
+//
+INN No:  10002
+Name:  lokivetmab
+PL:  112
+RL:  74
+//
+INN No:  10010
+Name:  durvalumab
+PL:  112
+RL:  74
+//
+INN No:  10013
+Name:  evinacumab
+PL:  112
+RL:  74
+//
+INN No:  10035
+Name:  andecaliximab
+PL:  115
+RL:  
+//
+INN No:  10037
+Name:  lendalizumab
+PL:  114
+RL:  
+//
+INN No:  10041
+Name:  elgemtumab
+PL:  112
+RL:  74
+//
+INN No:  10051
+Name:  tesidolumab
+PL:  112
+RL:  74
+//
+INN No:  10053
+Name:  brolucizumab
+PL:  112
+RL:  74
+//
+INN No:  10059
+Name:  dectrekumab
+PL:  112
+RL:  74
+//
+INN No:  10060
+Name:  pamrevlumab
+PL:  113
+RL:  75
+//
+INN No:  10062
+Name:  avelumab
+PL:  113
+RL:  75
+//
+INN No:  10064
+Name:  nemolizumab
+PL:  112
+RL:  74
+//
+INN No:  10065
+Name:  sapelizumab
+PL:  114
+RL:  
+//
+INN No:  10068
+Name:  isatuximab
+PL:  112
+RL:  74
+//
+INN No:  10071
+Name:  lilotomab
+PL:  112
+RL:  74
+//
+INN No:  10082
+Name:  indusatumab
+PL:  112
+RL:  74
+//
+INN No:  10087
+Name:  trevogrumab
+PL:  113
+RL:  75
+//
+INN No:  10090
+Name:  opicinumab
+PL:  113
+RL:  75
+//
+INN No:  10106
+Name:  ascrinvacumab
+PL:  114
+RL:  75
+//
+INN No:  10113
+Name:  monalizumab
+PL:  113
+RL:  75
+//
+INN No:  10114
+Name:  bleselumab
+PL:  113
+RL:  75
+//
+INN No:  10115
+Name:  emicizumab
+PL:  113
+RL:  75
+//
+INN No:  10121
+Name:  cabiralizumab
+PL:  114
+RL:  76
+//
+INN No:  10124
+Name:  plozalizumab
+PL:  113
+RL:  75
+//
+INN No:  10128
+Name:  risankizumab
+PL:  113
+RL:  75
+//
+INN No:  10129
+Name:  xentuzumab
+PL:  114
+RL:  76
+//
+INN No:  10142
+Name:  rovalpituzumab
+PL:  113
+RL:  75
+//
+INN No:  10149
+Name:  ifabotuzumab
+PL:  115
+RL:  
+//
+INN No:  10165
+Name:  enoblituzumab
+PL:  114
+RL:  76
+//
+INN No:  10172
+Name:  tezepelumab
+PL:  113
+RL:  75
+//
+INN No:  10174
+Name:  refanezumab
+PL:  114
+RL:  76
+//
+INN No:  10175
+Name:  rinucumab
+PL:  113
+RL:  75
+//
+INN No:  10178
+Name:  afasevikumab
+PL:  113
+RL:  75
+//
+INN No:  10186
+Name:  tisotumab
+PL:  113
+RL:  75
+//
+INN No:  10187
+Name:  mirvetuximab
+PL:  114
+RL:  76
+//
+INN No:  10188
+Name:  landogrozumab
+PL:  113
+RL:  75
+//
+INN No:  10194
+Name:  blontuvetmab
+PL:  114
+RL:  76
+//
+INN No:  10195
+Name:  tamtuvetmab
+PL:  114
+RL:  76
+//
+INN No:  10196
+Name:  crotedumab
+PL:  114
+RL:  76
+//
+INN No:  10197
+Name:  rivabazumab
+PL:  114
+RL:  76
+//
+INN No:  10210
+Name:  vobarilizumab
+PL:  114
+RL:  76
+//
+INN No:  10213
+Name:  rozanolixizumab
+PL:  115
+RL:  
+//
+INN No:  10220
+Name:  navicixizumab
+PL:  114
+RL:  76
+//
+INN No:  10224
+Name:  prezalumab
+PL:  114
+RL:  76
+//
+INN No:  10237
+Name:  laprituximab
+PL:  114
+RL:  76
+//
+INN No:  10239
+Name:  naratuximab
+PL:  114
+RL:  76
+//
+INN No:  10242
+Name:  vadastuximab
+PL:  114
+RL:  76
+//
+INN No:  10244
+Name:  carotuximab
+PL:  114
+RL:  76
+//
+INN No:  10248
+Name:  timolumab
+PL:  114
+RL:  76
+//
+INN No:  10258
+Name:  lupartumab
+PL:  115
+RL:  
+//
+INN No:  10262
+Name:  depatuxizumab
+PL:  115
+RL:  
+//
+INN No:  10265
+Name:  lanadelumab
+PL:  114
+RL:  76
+//
+INN No:  10272
+Name:  pogalizumab
+PL:  114
+RL:  
+//
+INN No:  10277
+Name:  galcanezumab
+PL:  114
+RL:  76
+//
+INN No:  10286
+Name:  domagrozumab
+PL:  114
+RL:  76
+//
+INN No:  10296
+Name:  erenumab
+PL:  115
+RL:  
+//
+INN No:  10299
+Name:  fremanezumab
+PL:  115
+RL:  
+//
+INN No:  10301
+Name:  burosumab
+PL:  115
+RL:  
+//
+INN No:  10303
+Name:  suptavumab
+PL:  115
+RL:  
+//
+INN No:  10308
+Name:  eptinezumab
+PL:  115
+RL:  
+//
+INN No:  10316
+Name:  crizanlizumab
+PL:  115
+RL:  
+//
+INN No:  10319
+Name:  emapalumab
+PL:  115
+RL:  
+//
+INN No:  10344
+Name:  elezanumab
+PL:  115
+RL:  
+//
+INN No:  10345
+Name:  remtolumab
+PL:  115
+RL:  
+//
+INN No:  10347
+Name:  lutikizumab
+PL:  115
+RL:  
+//
+INN No:  10364
+Name:  dezamizumab
+PL:  115
+RL:  
+//
+INN No:  10366
+Name:  telisotuzumab
+PL:  115
+RL:  
+//
+INN No:  10382
+Name:  aprutumab
+PL:  115
+RL:  
+//
+INN No:  10385
+Name:  utomilumab
+PL:  115
+RL:  
+//
+INN No:  10399
+Name:  vunakizumab
+PL:  115
+RL:  
+//
+INN No:  10400
+Name:  camrelizumab
+PL:  115
+RL:  
+//
+INN No:  10415
+Name:  rosmantuzumab
+PL:  115
+RL:  
+//
+INN No:  10418
+Name:  sacituzumab
+PL:  115
+RL:  
+//
+INN No:  10420
+Name:  tavolixizumab
+PL:  115
+RL:  
+//
+INN No:  10422
+Name:  ranevetmab
+PL:  115
+RL:  
+//
+INN No:  10425
+Name:  brazikumab
+PL:  115
+RL:  
+//

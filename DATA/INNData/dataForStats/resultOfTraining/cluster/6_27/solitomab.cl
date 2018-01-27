@@ -1,0 +1,50 @@
+
+Cluster 1
+H10
+H108
+H9
+
+Cluster 2
+H100
+H19
+H28
+H30
+H31
+H33
+H52
+H54
+H56
+H57
+H58
+H70
+H73
+H96
+H97
+H98
+L50
+L53
+L94
+
+Cluster 3
+H23
+H5
+H75
+H76
+
+Cluster 4
+H60
+H61
+H62
+L1
+
+Cluster 5
+L14
+L15
+L17
+L18
+
+Cluster 6
+L30
+L30A
+L30E
+L92

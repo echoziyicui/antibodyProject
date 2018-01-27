@@ -1,0 +1,2784 @@
+WHO Drug Information, Vol. 18, No. 4, 2004                                                           Proposed INN: List 92
+
+
+
+International Nonproprietary Names for
+Pharmaceutical Substances (INN)
+Notice is hereby given that, in accordance with article 3 of the Procedure for the Selection of Recommended International
+Nonproprietary Names for Pharmaceutical Substances, the names given in the list on the following pages are under
+consideration by the World Health Organization as Proposed International Nonproprietary Names. The inclusion of a name
+in the lists of Proposed International Nonproprietary Names does not imply any recommendation of the use of the substance
+in medicine or pharmacy.
+
+
+Lists of Proposed (1–85) and Recommended (1–45) International Nonproprietary Names can be found in Cumulative List
+No. 10, 2002 (available in CD-ROM only). The statements indicating action and use are based largely on information
+supplied by the manufacturer. This information is merely meant to provide an indication of the potential use of new
+substances at the time they are accorded Proposed International Nonproprietary Names. WHO is not in a position either to
+uphold these statements or to comment on the efficacy of the action claimed. Because of their provisional nature, these
+descriptors will neither be revised nor included in the Cumulative Lists of INNs.
+
+
+
+Dénominations communes internationales des
+Substances pharmaceutiques (DCI)
+Il est notifié que, conformément aux dispositions de l'article 3 de la Procédure à suivre en vue du choix de Dénominations
+communes internationales recommandées pour les Substances pharmaceutiques les dénominations ci-dessous sont mises
+à l'étude par l'Organisation mondiale de la Santé en tant que dénominations communes internationales proposées.
+L'inclusion d'une dénomination dans les listes de DCI proposées n'implique aucune recommandation en vue de l'utilisation
+de la substance correspondante en médecine ou en pharmacie.
+
+On trouvera d'autres listes de Dénominations communes internationales proposées (1–85) et recommandées (1–45) dans
+la Liste récapitulative No. 10, 2002 (disponible sur CD-ROM seulement). Les mentions indiquant les propriétés et les
+indications des substances sont fondées sur les renseignements communiqués par le fabricant. Elles ne visent qu'à donner
+une idée de l'utilisation potentielle des nouvelles substances au moment où elles sont l'objet de propositions de DCI. L'OMS
+n'est pas en mesure de confirmer ces déclarations ni de faire de commentaires sur l'efficacité du mode d'action ainsi décrit.
+En raison de leur caractère provisoire, ces informations ne figureront pas dans les listes récapitulatives de DCI.
+
+
+
+
+Denominaciones Comunes Internacionales para
+las Sustancias Farmacéuticas (DCI)
+De conformidad con lo que dispone el párrafo 3 del "Procedimiento de Selección de Denominaciones Comunes
+Internacionales Recomendadas para las Sustancias Farmacéuticas", se comunica por el presente anuncio que las
+denominaciones detalladas en las páginas siguientes están sometidas a estudio por la Organización Mundial de La Salud
+como Denominaciones Comunes Internacionales Propuestas. La inclusión de una denominación en las listas de las DCI
+Propuestas no supone recomendación alguna en favor del empleo de la sustancia respectiva en medicina o en farmacia.
+
+Las listas de Denominaciones Comunes Internacionales Propuestas (1–85) y Recomendadas (1–45) se encuentran
+reunidas en Cumulative List No. 10, 2002 (disponible sólo en CD-ROM). Las indicaciones sobre acción y uso que aparecen
+se basan principalmente en la información facilitada por los fabricantes. Esta información tiene por objeto dar una idea
+únicamente de las posibilidades de aplicación de las nuevas sustancias a las que se asigna una DCI Propuesta. La OMS
+no está facultada para respaldar esas indicaciones ni para formular comentarios sobre la eficacia de la acción que se
+atribuye al producto. Debido a su carácter provisional, esos datos descriptivos no deben incluirse en las listas
+recapitulativas de DCI.
+
+
+
+
+                                                                                                                         323
+Proposed INN: List 92                                                       WHO Drug Information, Vol. 18, No. 4, 2004
+
+
+
+
+Proposed International Nonproprietary Names: List 92
+Comments on, or formal objections to, the proposed names may be forwarded by any person to the INN Programme of the
+World Health Organization within four months of the date of their publication in WHO Drug Information, i.e., for List 92
+Proposed INN not later than 16 May 2005.
+
+
+Dénominations communes internationales proposées: Liste 92
+Des observations ou des objections formelles à l'égard des dénominations proposées peuvent être adressées par toute
+personne au Programme des Dénominations communes internationales de l'Organisation mondiale de la Santé dans un
+délai de quatre mois à compter de la date de leur publication dans WHO Drug Information, c'est à dire pour la Liste 92 de
+DCI Proposées le 16 mai 2005 au plus tard.
+
+
+Denominaciones Comunes Internacionales Propuestas: Lista 92
+Cualquier persona puede dirigir observaciones u objeciones respecto de las denominaciones propuestas, al Programa de
+Denominaciones Comunes Internacionales de la Organización Mundial de la Salud, en un plazo de cuatro meses, contados
+desde la fecha de su publicación en WHO Drug Information, es decir, para la Lista 92 de DCI Propuestas el 16 de Mayo
+de 2005 a más tardar.
+
+ Proposed INN                                 Chemical name or description: Action and use: Molecular formula
+ (Latin, English, French, Spanish)            Chemical Abstracts Service (CAS) registry number: Graphic formula
+
+ DCI Proposée                                 Nom chimique ou description: Propriétés et indications: Formule brute
+                                              Numéro dans le registre du CAS: Formule développée
+
+ DCI Propuesta                                Nombre químico o descripción: Acción y uso: Fórmula empírica
+                                              Número de registro del CAS: Fórmula desarrollada
+
+
+
+
+ acidum salclobuzicum
+ salclobuzic acid                                   4-(4-chloro-2-hydroxybenzamido)butanoic acid
+                                                    pharmaceutical aid
+
+ acide salclobuzique                                acide 4-[(4-chloro-2-hydroxybenzoyl)amino]butanoïque
+                                                    adjuvant
+
+ ácido salclobúzico                                 ácido 4-[(4-cloro-2-hidroxibenzoil)amino]butanoico
+                                                    excipiente
+
+                                                    C11H12ClNO4                                387825-03-8
+
+                                                                  O
+
+                                                                       N       CO2H
+                                                                       H
+                                                    Cl            OH
+
+
+
+
+324
+WHO Drug Information, Vol. 18, No. 4, 2004                                                         Proposed INN: List 92
+
+
+
+
+ ancrivirocum
+ ancriviroc                                  3-({4-[(Z)-(4-bromophenyl)(ethoxyimino)methyl]-4'-methyl-
+                                             [1,4'-bipiperidin]-1'-yl}carbonyl)-2,4-dimethylpyridine1-oxide
+                                             antiviral
+
+ ancriviroc                                  4-[(Z)-(4-bromophényl)(éthoxyimino)méthyl]-1'-[(2,4-diméthyl-
+                                             1-oxydopyridin-3-yl)carbonyl]-4'-méthyl-1,4'-bipipéridinyle
+                                             antiviral
+
+ ancriviroc                                  4-[(Z)-(4-bromofenil)(etoxiimino)metil]-1'-[(2,4-dimetil-1-oxidopiridin-
+                                             3-il)carbonil]-4'-metil-1,4'-bipipéridinilo
+                                             antiviral
+
+                                             C28H37BrN4O3                                       370893-06-4
+
+                                                                                     O   CH3
+                                                                                 N
+
+                                                O-
+                                                N+       CH3             N
+                                                                                           Br
+                                                                         CH3
+                                                             N
+
+                                                CH3      O
+
+
+
+
+ artemifonum
+ artemifone                                  4-[(3R,5aS,6R,8aS,9R,10R,12R,12aR)-3,6,9-trimethyldecahydro-
+                                             12H-3,12-epoxypyrano[4,3-j][1,2]benzodioxepin-10-yl]=
+                                             thiomorpholine-1,1-dione
+                                             antimalarial
+
+ artémifone                                  1,1-dioxyde de 4-[(3R,5aS,6R,8aS,9R,10R,12R,12aR)-3,6,9-
+                                             triméthyldécahydro-3,12-époxypyrano[4,3-j]-1,2-benzodioxépin-
+                                             10-yl]thiomorpholine
+                                             antipaludique
+
+ artemifona                                  1,1-dióxido de 4-[(3R,5aS,6R,8aS,9R,10R,12R,12aR)-3,6,9-
+                                             trimetildecahidro-3,12-epoxipirano[4,3-j]-1,2-benzodioxepin-
+                                             10-il]tiomorfolina
+                                             antipalúdico
+
+                                             C19H31NO6S                                         255730-18-8
+
+                                                                                O
+                                                               CH3             S O
+                                                             H   H
+                                                                         N
+                                                H                        H
+                                                                     O
+                                             H3C
+                                                     H               H
+                                                             O   O
+
+                                                             O   CH3
+
+
+
+
+                                                                                                                     325
+Proposed INN: List 92                                      WHO Drug Information, Vol. 18, No. 4, 2004
+
+
+
+
+ atilmotinum
+ atilmotin              N-[(2S)-3-phenyl-2-(trimethylazaniumyl)propanoyl]-L-valyl-L-prolyl-
+                        L-isoleucyl-L-phenylalanyl-L-threonyl-L-tyrosylglycyl-L-glutamyl-
+                        L-leucyl-L-glutaminyl-D-arginyl-L-leucyl-L-lysinamide
+                        digestive agent
+
+ atilmotine             N-[(2S)-3-phényl-2-(triméthylammonio)propanoyl]-L-valyl-L-prolyl-
+                        L-isoleucyl-L-phénylalanyl-L-thréonyl-L-tyrosylglycyl-L-glutamyl-
+                        L-leucyl-L-glutaminyl-D-arginyl-L-leucyl-L-lysinamide
+                        régulateur des fonctions digestives
+
+ atilmotina             N-[(2S)-3-fenil-2-(trimetilamonio)propanoil]-L-valil-L-prolil-L-isoleucil-
+                        L-fenilalanil-L-treonil-L-tirosilglicil-L-glutamil-L-leucil-L-glutaminil-
+                        D-arginil-L-leucil-L-lisinamida
+                        digestivo
+
+                        C86H134N20O19                                               533927-56-9
+
+                               CH3        O                                                     O
+                                                                                           H
+                        H3C N+                Val    Pro    Ile       Phe Thr Tyr    Gly   N
+                         H3C
+                             H                                                             H
+
+                                                                                               CO2-
+
+
+                        Leu    Gln    D-Arg         Leu    Lys NH2
+
+
+
+ avanafilum
+ avanafil               4-{[(3-chloro-4-methoxyphenyl)methyl]amino}-2-[(2S)-
+                        2-(hydroxymethyl)pyrrolidin-1-yl]-N-(pyrimidin-2-ylmethyl)pyrimidine-
+                        5-carboxamide
+                        vasodilator
+
+ avanafil               4-[(3-chloro-4-méthoxybenzyl)amino]-2-[(2S)-2-(hydroxyméthyl)=
+                        pyrrolidin-1-yl]-N-(pyrimidin-2-ylméthyl)pyrimidine-5-carboxamide
+                        vasodilatateur
+
+ avanafilo              4-[(3-cloro-4-metoxibencil)amino]-2-[(2S)-2-(hidroximetil)pirrolidin-
+                        1-il]-N-(pirimidin-2-ilmetil)pirimidina-5-carboxamida
+                        vasodilatador
+
+                        C23H26ClN7O3                                                330784-47-9
+
+                                     N
+                                                    NH
+                                          N
+                                              O                   N       H
+                                                                              OH
+                                                    N      N          N
+                                                    H
+                        H3CO
+                                     Cl
+
+
+
+
+326
+WHO Drug Information, Vol. 18, No. 4, 2004                                                             Proposed INN: List 92
+
+
+ balicatibum
+ balicatib                                   N-{1-[(cyanomethyl)carbamoyl]cyclohexyl}-4-(4-propylpiperazin-
+                                             1-yl)benzamide
+                                             cathepsin K inhibitor
+
+ balicatib                                   N-[1-[(cyanométhyl)carbamoyl]cyclohexyl]-4-(4-propylpipérazin-
+                                             1-yl)benzamide
+                                             inhibiteur de la cathepsine K
+
+ balicatib                                   N-[1-[(cianometil)carbamoil]ciclohexil]-4-(4-propilpiperazin-
+                                             1-il)benzamida
+                                             inhibidor de la catepsina K
+
+                                             C23H33N5O2                                             354813-19-7
+
+                                             H3C
+                                                              N
+                                                                       N
+                                                                                            O
+                                                                                        H
+                                                                                        N
+                                                                                                N
+                                                                                                H        N
+                                                                                    O
+
+
+
+ becatecarinum
+ becatecarin                                 1,11-dichloro-6-[2-(diethylamino)ethyl]-12-(4-O-methyl-
+                                             β-D-glucopyranosyl)-12,13-dihydro-5H-indolo[2,3-a]pyrrolo=
+                                             [3,4-c]carbazole-5,7(6H)-dione
+                                             antineoplatic
+
+ bécatécarine                                1,11-dichloro-6-[2-(diéthylamino)éthyl]-12-(4-O-méthyl-
+                                             β-D-glucopyranosyl)-12,13-dihydro-5H-indolo[2,3-a]pyrrolo=
+                                             [3,4-c]carbazole-5,7(6H)-dione
+                                             antinéoplasique
+
+ becatecarina                                1,11-dicloro-6-[2-(dietilamino)etil]-12-(4-O-metil-β-D-glucopiranosil)-
+                                             12,13-dihidro-5H-indolo[2,3-a]pirrolo[3,4-c]carbazol-5,7(6H)-diona
+                                             antineoplásico
+
+                                             C33H34Cl2N4O7                                          119673-08-4
+
+                                              H3C         N           CH3
+
+
+
+                                                     O            N        O
+
+
+
+
+                                                          N           N
+                                                          H   OH
+                                              Cl                               Cl
+                                                                  O
+                                                          OH
+                                                   H3CO
+                                                                  OH
+
+
+
+
+                                                                                                                         327
+Proposed INN: List 92                               WHO Drug Information, Vol. 18, No. 4, 2004
+
+
+
+
+ becocalcidiolum
+ becocalcidiol          (1R,3R)-4-(2-{(1R,3aS,7aR)-1-[(2S)-butan-2-yl]-7a-methyloctahydro-
+                        4H-inden-4-ylidene}ethylidene)-2-methylidenecyclohexane-1,3-diol
+                        vitamin D analogue
+
+ bécocalcidiol          (1R,3R)-2-méthylidène-5-[(2E)-2-[(1R,3aS,7aR)-7a-méthyl-
+                        1-[(1S)-1-méthylpropyl]octahydro-4H-indén-4-ylidène]éthylidène]=
+                        cyclohexane-1,3-diol
+                        analogue de la vitamine D
+
+ becocalcidiol          (1R,3R)-2-metilideno-5-[(2E)-2-[(1R,3aS,7aR)-7a-metil-
+                        1-[(1S)-1-metilpropil]octahidro-4H-inden-4-ilideno]etilideno]=
+                        ciclohexano-1,3-diol
+                        análogo de la vitamina D
+
+                        C23H36O2                                       524067-21-8
+
+                                       H3C H
+                                       CH3          CH3
+                                                H
+
+
+                                       H
+
+
+
+
+                        HO                 OH
+                             H         H
+                                 CH2
+
+
+ bemotrizinolum
+ bemotrizinol           2,2'-[6-(4-methoxyphenyl)-1,3,5-triazine-2,4-diyl]bis=
+                        {5-[(2-ethylhexyl)oxy]phenol}
+                        sunscreen
+
+ bémotrizinol           2,2'-[6-(4-méthoxyphényl)-1,3,5-triazine-2,4-diyl]bis=
+                        [5-[(2-éthylhexyl)oxy]phénol]
+                        filtre solaire
+
+ bemotrizinol           2,2'-[6-(4-metoxifenil)-1,3,5-triazina-2,4-diil]bis=
+                        [5-[(2-etilhexil)oxi]fenol]
+                        filtro solar
+
+                        C38H49N3O5                                     187393-00-6
+
+                                                              OCH3
+
+
+
+
+                                                     OH   N       N   OH
+
+                                                              N
+
+                        H3C                     O                              O           CH3
+
+                                 H3C                                                 CH3
+
+
+
+
+328
+WHO Drug Information, Vol. 18, No. 4, 2004                                                      Proposed INN: List 92
+
+
+
+
+ besilesomabum
+ besilesomab                                 immunoglobulin G1, anti-(human CEA (carcinoembryonic
+                                             antigen)-related antigen) (mouse monoclonal BW 250/183 heavy
+                                             chain), disulfide with mouse monoclonal BW 250/183 κ-chain, dimer
+                                             radioimmunodiagnostic agent
+
+ bésilésomab                                 immunoglobuline G1, anti-(molécules de l’adhésion cellulaire,
+                                             antigènes carcinoembryonaires humains (CEA ou CD66)), dimère du
+                                             disulfure entre la chaîne lourde et la chaîne κ de l’anticorps
+                                             monoclonal de souris BW 250/183
+                                             produit pour immunodiagnostic
+
+ besilesomab                                 inmunoglobulina G1, anti-(moléculas de adhesión celular, antígenos
+                                             carcinoembrionarios humanos (CEA o CD66)), dímero del disulfuro
+                                             entre la cadena pesada y la cadena κ del anticuerpo monoclonal de
+                                             ratón BW 250/183
+                                             agente para radioinmunodiagnóstico
+
+                                                                                             537694-98-7
+
+
+
+
+ bisoctrizolum
+ bisoctrizole                                2,2'-methylenebis[6-(2H-benzotriazol-2-yl)-4-(2,4,4-trimethylpentan-
+                                             2-yl)phenol]
+                                             sunscreen
+
+ bisoctrizole                                2,2'-méthylènebis[6-(2H-benzotriazol-2-yl)-4-(1,1,3,3-tétraméthylbutyl)=
+                                             phénol]
+                                             filtre solaire
+
+ bisoctrizol                                 2,2'-metilenobis[6-(2H-benzotriazol-2-il)-4-(1,1,3,3-tetrametilbutil)=
+                                             fenol]
+                                             filtro solar
+
+                                             C41H50N6O2                                      103597-45-1
+
+
+                                                         N     OH           OH     N
+                                                         N                        N
+                                                     N                                 N
+
+                                                         CH3                      CH3
+                                                  H3C            CH3 H3C               CH3
+                                                   H3C          CH3   H3C             CH3
+
+
+
+
+                                                                                                                      329
+Proposed INN: List 92                                         WHO Drug Information, Vol. 18, No. 4, 2004
+
+
+
+
+ canfosfamidum
+ canfosfamide           N-γ-L-glutaminyl-3-(2-{bis[bis(2-chloroethyl)amino]phosphoryl}=
+                        ethanesulfonyl)-L-alanyl-(2R)-2-phenylglycine
+                        antineoplastic
+
+ canfosfamide           acide (2S)-2-amino-5-[[(1R)-1-[[[2-[[bis[bis(2-chloroéthyl)amino]=
+                        phosphinoyl]oxy]éthyl]sulfonyl]méthyl]-2-[[(R)-carboxyphénylméthyl]=
+                        amino]-2-oxoéthyl]amino]-5-oxopentanoïque
+                        antinéoplasique
+
+ canfosfamida           ácido (2S)-2-amino-5-[[(1R)-1-[[[2-[[bis[bis(2-cloroetil)amino]=
+                        fosfinoil]oxi]etil]sulfonil]metil]-2-[[(R)-carboxifenilmetil]amino]-
+                        2-oxoetil]amino]-5-oxopentanoico
+                        antineoplásico
+
+                        C26H40Cl4N5O10PS                                                   158382-37-7
+
+                                                      Cl                              Cl
+                                                                           N
+                                                                   O       P               Cl
+                                                                                N
+                                                                       O
+                                                  O                                   Cl
+                                                      S
+                                                O
+                                              O H
+                                                                H
+                        HO2C                                    N              CO2H
+                                                  N
+                              H NH2               H                H
+                                                           O
+
+
+
+
+ ceftobiprolum
+ ceftobiprole           (6R,7R)-7-[(2Z)-2-(5-amino-1,2,4-thiadiazol-3-yl)-2-(hydroxyimino)=
+                        acetamido]-8-oxo-3-[(E){(3'R)-2-oxo-[1,3'-bipyrrolidin]-3-ylidene}=
+                        methyl]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+                        antibiotic
+
+ ceftobiprole           acide (6R,7R)-7-[[(2Z)-(5-amino-1,2,4-thiadiazol-3-yl)=
+                        (hydroxyimino)acétyl]amino]-8-oxo-3-[(E)-[(3'R)-2-oxo-
+                        1,3'-bipyrrolidinyl-3-ylidène]méthyl]-5-thia-1-azabicyclo[4.2.0]=
+                        oct-2-ène-2-carboxylique
+                        antibiotique
+
+ ceftobiprol            ácido (6R,7R)-7-[[(2Z)-(5-amino-1,2,4-tiadiazol-3-il)=
+                        (hidroxiimino)acetil]amino]-8-oxo-3-[(E)-[(3'R)-2-oxo-1,3'-bipirrolidinil-
+                        3-ilideno]metil]-5-tia-1-azabiciclo[4.2.0]oct-2-eno-2-carboxílico
+                        antibiótico
+
+                        C20H22N8O6S2                                                       209467-52-7
+
+                                                               CO2H                   O
+                                          OH O
+                                      N                   N                                     NH
+                                              H                                       N
+                              N               N
+                                                               S                          H
+                          S                       H H
+                                  N       O
+                        H2N
+
+
+
+
+330
+WHO Drug Information, Vol. 18, No. 4, 2004                                                         Proposed INN: List 92
+
+
+
+
+ ceftobiprolum medocarilum
+ ceftobiprole medocaril                      (6R,7R)-7-[(2Z)-2-(5-amino-1,2,4-thiadiazol-3-yl)-2-(hydroxyimino)=
+                                             acetamido]-3-[(E){(3'R)-1'-[(5-methyl-2-oxo-1,3-dioxol-
+                                             4-yl)methoxycarbonyl]-2-oxo-[1,3'-bipyrrolidin]-3-ylidene}methyl]-
+                                             8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+                                             antibiotic
+
+ ceftobiprole médocaril                      acide (6R,7R)-7-[[(2Z)-(5-amino-1,2,4-thiadiazol-3-yl)=
+                                             (hydroxyimino)acétyl]amino]-3-[(E)-[(3'R)-1'-[[(5-méthyl-2-oxo-
+                                             1,3-dioxol-4-yl)méthoxy]carbonyl]-2-oxo-1,3'-bipyrrolidinyl-
+                                             3-ylidène]méthyl]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ène-
+                                             2-carboxylique
+                                             antibiotique
+
+ ceftobiprol medocarilo                      ácido (6R,7R)-7-[(2Z)-(5-amino-1,2,4-tiadiazol-3-il)(hidroxiimino)=
+                                             acetamido]-3-[(E)-[(3'R)-1'-[[(5-metil-2-oxo-1,3-dioxol-
+                                             4-il)metoxi]carbonil]-2-oxo-1,3'-bipirrolidinil-3-ilideno]metil]-8-oxo-
+                                             5-tia-1-azabiciclo[4.2.0]oct-2-eno-2-carboxílico
+                                             antibiótico
+
+                                             C26H26N8O11S2                                     376653-43-9
+
+                                                                                CO2H      O
+                                                                  OH O                                     O
+                                                              N             N                        N
+                                                                      H                    N
+                                                    N                 N                                    O               CH3
+                                                                                S              H
+                                                S                         H H
+                                                         N        O
+                                                                                                               O       O
+                                             H2N
+                                                                                                                   O
+
+
+
+
+ cintredekinum besudotoxum
+ cintredekin besudotox                       toxin hIL13-PE38QQR (plasmid phuIL13-Tx)
+                                             antineoplastic
+                                                    17       18
+ cintrédékine bésudotox                      [Met ,His ]précurseur de l’interleukine-13 humaine-(17-132)-
+                                             peptide (132→246')-protéine avec la
+                                                      365     366     367     368     369     370     371     372    373 374
+                                             dès-Ala ,Asp ,Val ,Val ,Ser ,Leu ,Thr ,Cys ,Pro ,Val
+                                                  375     376    377     378      379     380
+                                             ,Ala ,Ala ,Gly ,Glu ,Cys ,Ala -
+                                                  246     247     248     249     250     364     407     515    590
+                                             [Lys ,Ala ,Ser ,Gly ,Gly ,Asn ,Val ,Ser ,Gln ,
+                                                 606     613
+                                             Gln ,Arg ]exotoxine A (Pseudomonas aeruginosa)-(246-613)-
+                                             peptide
+                                             antinéoplasique
+
+ cintredekina besudotox                      toxina hIL13-PE38QQR (plásmido phuIL13-Tx)
+                                             antineoplásico
+
+
+
+
+                                                                                                                            331
+Proposed INN: List 92                                WHO Drug Information, Vol. 18, No. 4, 2004
+
+
+
+
+                        C2234H3512N650O682S10                           372075-36-0
+
+                        MHSPGPVPPS TALRELIEEL VNITQNQKAP LCNGSMVWSI
+                        NLTAGMYCAA LESLINVSGC SAIEKTQRML SGFCPHKVSA
+                        GQFSSLHVRD TKIEVAQFVK DLLLHLKKLF REGRFNKASG
+                        GPEGGSLAAL TAHQACHLPL ETFTRHRQPR GWEQLEQCGY
+                        PVQRLVALYL AARLSWNQVD QVIRNALASP GSGGDLGEAI
+                        REQPEQARLA LTLAAAESER FVRQGTGNDE AGAANGPADS
+                        GDALLERNYP TGAEFLGDGG DVSFSTRGTQ NWTVERLLQA
+                        HRQLEERGYV FVGYHGTFLE AAQSIVFGGV RARSQDLDAI
+                        WRGFYIAGDP ALAYGYAQDQ EPDARGRIRN GALLRVYVPR
+                        SSLPGFYRTS LTLAAPEAAG EVERLIGHPL PLRLDAITGP
+                        EEEGGRLETI LGWPLAERTV VIPSAIPTDP RNVGGDLDPS
+                        SIPDQEQAIS ALPDYASQPG QPPREDLR
+
+
+
+ davasaicinum
+ davasaicin             2-[4-(2-aminoethoxy)-3-methoxyphenyl]-N-[3-(3,4-dimethylphenyl)=
+                        propyl]acetamide
+                        topical analgesic
+
+ davasaïcine            2-[4-(2-aminoéthoxy)-3-méthoxyphényl]-N-[3-(3,4-diméthylphényl)=
+                        propyl]acétamide
+                        analgésique local
+
+ davasaicina            2-[4-(2-aminoetoxi)-3-metoxifenil]-N-[3-(3,4-dimetilfenil)=
+                        propil]acetamida
+                        analgésico tópico
+
+                        C22H30N2O3                                      147497-64-1
+
+                        H3C
+                                                 H
+                                                 N                  OCH3
+                        H3C
+                                                      O                      NH2
+                                                                    O
+
+
+
+ deferitrinum
+ deferitrin             (4S)-2-(2,4-dihydroxyphenyl)-4-methyl-4,5-dihydro-1,3-thiazole-
+                        4-carboxylic acid
+                        iron chelator
+
+ déféritrine            acide (+)-(4S)-2-(2,4-dihydroxyphényl)-4-méthyl-4,5-dihydrothiazole-
+                        4-carboxylique
+                        chélateur du fer
+
+ deferitrina            ácido (+)-(4S)-2-(2,4-dihidroxifenil)-4-metil-4,5-dihidrotiazol-
+                        4-carboxílico
+                        quelante del hierro
+
+
+
+
+332
+WHO Drug Information, Vol. 18, No. 4, 2004                                                                         Proposed INN: List 92
+
+
+                                             C11H11NO4S                                                        239101-33-8
+
+                                                                  H3C
+                                                                            CO2H
+                                                                N
+
+                                                                        S
+
+                                             HO                 OH
+
+ delmitidum
+ delmitide                                   (2R)-2-[(2R)-2-{(2R)-2-[(2R)-2-{(2R)-2-[(2R)-2-(D-arginylamino)=
+                                             hexanamido]hexanamido}hexanoyl-D-arginylamino]hexanamido}=
+                                             hexanamido]hexanoylglycyl-D-tyrosinamide
+                                             immunomodulator
+
+ delmitide                                   D-arginyl-(2R)-2-aminohexanoyl-(2R)-2-aminohexanoyl-
+                                             (2R)-2-aminohexanoyl-D-arginyl-(2R)-2-aminohexanoyl-
+                                             (2R)-2-aminohexanoyl-(2R)-2-aminohexanoylglycyl-D-tyrosinamide
+                                             immunomodulateur
+
+ delmitida                                   D-arginil-(2R)-2-aminohexanoil-(2R)-2-aminohexanoil-
+                                             (2R)-2-aminohexanoil-D-arginil-(2R)-2-aminohexanoil-
+                                             (2R)-2-aminohexanoil-(2R)-2-aminohexanoilglicil-D-tirosinamida
+                                             inmunomodulador
+
+                                             C59H105N17O11                                                     287096-87-1
+
+                                                   HN                           HN
+                                                            NH2                          NH2
+                                                   HN                           HN
+
+
+
+                                                  H                     O       H              O                        O
+                                                            H                            H                         H
+                                                            N                            N                         N
+                                             H2N                            N                          N                    NH2
+                                                                    H       H                  H       H               H
+                                                        O                            O                         O
+
+
+
+                                                                CH3                          CH3
+                                                                            3                          3
+                                                                                                                            OH
+
+
+
+ deutolperisonum
+                                                                    2                          2
+ deutolperisone                              2-methyl-1-{4-([ H3]methyl)[2,3,5,6- H4]phenyl}-3-(piperidin-
+                                             1-yl)propan-1-one
+                                             muscle relaxant
+                                                                                2                          2
+ deutolpérisone                              (2RS)-2-méthyl-1-(4-( H3)méthyl(2,3,5,6- H4)phényl)-3-(pipéridin-
+                                             1-yl)propan-1-one
+                                             relaxant musculaire
+                                                                            2                      2
+ deutolperisona                              (2RS)-2-metil-1-(4-[ H3]metil[2,3,5,6- H4]fenil)-3-(piperidin-
+                                             1-il)propan-1-ona
+                                             relajante muscular
+
+
+
+
+                                                                                                                                     333
+Proposed INN: List 92                                WHO Drug Information, Vol. 18, No. 4, 2004
+
+
+
+                              2
+                        C16H16 H7NO                                       474641-19-5
+
+                                         O    2
+                                                 H
+                                                      2
+                                                       H         and enantiomer
+                              N
+                                         H                       et énantiomère
+                                   H3C   2                       y enantiómero
+                                         H                C2H3
+                                              2
+                                                 H
+
+
+
+ efipladibum
+ efipladib              4-(3-{5-chloro-2-[2-({[(3,4-dichlorophenyl)methyl]sulfonyl}=
+                        amino)ethyl]-1-(diphenylmethyl)-1H-indol-3-yl}propyl)benzoic acid
+                        cytosolic phospholipase A2 inhibitor
+
+ éfipladib              acide 4-[3-[5-chloro-2-[2-[[(3,4-dichlorobenzyl)sulfonyl]amino]éthyl]-
+                        1-(diphénylméthyl)-1H-indol-3-yl]propyl]benzoïque
+                        inhibiteur de la phospholipase A2 cytosolique
+
+ efipladib              ácido 4-[3-[5-cloro-2-[2-[[(3,4-diclorobencil)sulfonil]amino]etil]-
+                        1-(difenilmetil)-1H-indol-3-il]propil]benzoico
+                        inhibidor de fosfolipasa A2 citosólica
+
+                        C40H35Cl3N2O4S                                    381683-94-9
+
+                                                                   Cl
+                                             O
+                                             O S
+                                                                    Cl
+                                                NH
+                                                                  CO2H
+                                    N
+
+
+
+
+                              Cl
+
+
+
+ elomotecanum
+ elomotecan             (5R)-9-chloro-5-ethyl-5-hydroxy-10-methyl-12-[(4-methylpiperidin-
+                        1-yl)methyl]-1,4,5,13-tetrahydro-3H,15H-oxepino=
+                        [3',4':6,7]indolizino[1,2-b]quinoline-3,15-dione
+                        antineoplastic
+
+ élomotécan             (5R)-9-chloro-5-éthyl-5-hydroxy-10-méthyl-12-[(4-méthylpipéridin-
+                        1-yl)méthyl]-1,4,5,13-tétrahydro-3H,15H-oxépino=
+                        [3’,4’:6,7]indolizino[1,2-b]quinoléine-3,15-dione
+                        antinéoplasique
+
+ elomotecán             (5R)-9-cloro-5-etil-5-hidroxi-10-metil-12-[(4-metilpiperidin-1-il)metil]-
+                        1,4,5,13-tetrahidro-3H,15H-oxepino[3’,4’:6,7]indolizino=
+                        [1,2-b]quinolina-3,15-diona
+                        antineoplásico
+
+
+
+
+334
+WHO Drug Information, Vol. 18, No. 4, 2004                                                            Proposed INN: List 92
+
+
+                                             C29H32ClN3O4                                         220998-10-7
+
+                                                                              O
+
+                                             H 3C          N                                O
+                                                                          N
+                                                                                                  O
+
+
+                                                                     N            HO
+                                                    H3C                                     CH3
+
+                                                          Cl
+
+
+
+ embeconazolum
+ embeconazole                                4-{(1E,3E)-4-(trans-5-{[(2R,3R)-3-(2,4-difluorophenyl)-3-hydroxy-
+                                             4-(1H-1,2,4-triazol-1-yl)butan-2-yl]sulfanyl}-1,3-dioxan-2-yl)buta-
+                                             1,3-dien-1-yl}-3-fluorobenzonitrile
+                                             antifungal
+
+ embéconazole                                (-)-4-[(1E,3E)-4-[trans-5-[[(1R,2R)-2-(2,4-difluorophényl)-2-hydroxy-
+                                             1-méthyl-3-(1H-1,2,4-triazol-1-yl)propyl]sulfanyl]-1,3-dioxan-
+                                             2-yl]buta-1,3-diényl]-3-fluorobenzonitrile
+                                             antifungique
+
+ embeconazol                                 (-)-4-[(1E,3E)-4-[trans-5-[[(1R,2R)-2-(2,4-difluorofenil)-2-hidroxi-
+                                             1-metil-3-(1H-1,2,4-triazol-1-il)propil]sulfanil]-1,3-dioxan-2-il]buta-
+                                             1,3-dienil]-3-fluorobenzonitrilo
+                                             antifúngico
+
+                                             C27H25F3N4O3S                                        329744-44-7
+
+                                                                                                       F
+
+                                                                                            F
+                                                                                            HO
+                                                     F                    O
+                                                                     H                 S
+                                                                                       H
+                                                                          O                H CH3 N
+                                                                                                      N
+                                             NC
+                                                                                                  N
+
+
+
+ epoetinum zeta
+ epoetin zeta                                1-165-erythropoietin (human clone B03XA01), glycoform ζ
+                                             antianaemic
+
+ époétine zêta                               1-165-érythropoïétine (humaine B03XA01), glycoforme ζ
+                                             antianémique
+
+ epoetina zeta                               1-165-eritropoyetina (humana B03XA01), glicoforma ζ
+                                             antianémico
+
+                                             C809H1301N229O240S5                                  604802-70-2
+
+
+
+
+                                                                                                                        335
+Proposed INN: List 92                               WHO Drug Information, Vol. 18, No. 4, 2004
+
+
+
+
+ eritoranum
+ eritoran               2-deoxy-3-O-[(3R)-3-methoxydecyl]-6-O-methyl-2-(octadec-
+                        11-enamido)-4-O-phosphono-β-D-glucopyranosyl-(1→6)-3-O-decyl-
+                        2-deoxy-2-(3-oxotetradecanamido)-α-D-glucopyranose
+                        1-(dihydrogen phosphate)
+                        bacterial lipopolysaccharide receptors antagonist
+
+ éritoran               dihydrogénophosphate de 3-O-décyl-2-désoxy-6-O-[2-désoxy-
+                        3-O-[(3R)-3-méthoxydécyl]-6-O-méthyl-2-[(11Z)-octadéc-
+                        11-énoylamino]-4-O-phosphono-β-D-glucopyranosyl]-
+                        2-[(3-oxotétradécanoyl)amino]-α-D-glucopyranosyle
+                        antagoniste des récepteurs des lipopolysaccharides bactériens
+
+ eritorán               dihidrógenofosfato de 3-O-decil-2-desoxi-6-O-[2-desoxi-
+                        3-O-[(3R)-3-metoxidecil]-6-O-metil-2-[(11Z)-octadec-11-enamido]-
+                        4-O-fosfono-β-D-glucopiranosil]-2-(3-oxotetradecanamido)-
+                        α-D-glucopiranosilo
+                        antagonista de los receptores de lipopolisacárido bacteriano
+
+                        C66H126N2O19P2                                         185955-34-4
+
+                                                   H3CO
+
+                                               H OCH3                                              CH3
+                                                                     O O
+                        H3C                                  O
+                                                         O                         O
+                                               H2O3P                      O
+                                                             O       NH
+                                                                       HO              O
+                                                                                           PO3H2
+                                                                           O       NH
+
+                                                   CH3                O
+
+                                    H3C
+
+
+
+
+ etalocibum
+ etalocib               2-(3-{3-[(5-ethyl-4'-fluoro-2-hydroxy-[1,1'-biphenyl]-4-yl)oxy]propoxy}-
+                        2-propylphenoxy)benzoic acid
+                        antineoplastic
+
+ étalocib               acide 2-[3-[3-[(5-éthyl-4'-fluoro-2-hydroxybiphényl-4-yl)oxy]propoxy]-
+                        2-propylphénoxy]benzoïque
+                        antinéoplasique
+
+ etalocib               ácido 2-[3-[3-[(5-etil-4'-fluoro-2-hidroxibifenil-4-il)oxi]propoxi]-
+                        2-propilfenoxi]benzoico
+                        antineoplásico
+
+                        C33H33FO6                                              161172-51-6
+
+                        F
+                                          OH
+
+
+
+
+                                               O                 O             O
+                                                             H3C                        CO2H
+                                           CH3
+
+
+
+
+336
+WHO Drug Information, Vol. 18, No. 4, 2004                                                     Proposed INN: List 92
+
+
+ farampatorum
+ farampator                                  5-[(piperidin-1-yl)carbonyl]-2,1,3-benzooxadiazole
+                                             antipsychotic
+
+ farampator                                  1-(2,1,3-benzoxadiazol-5-ylcarbonyl)pipéridine
+                                             antipsychotique
+
+ farampator                                  1-(2,1,3-benzoxadiazol-5-ilcarbonil)piperidina
+                                             antisicótico
+
+                                             C12H13N3O2                                    211735-76-1
+
+                                                              O
+
+                                                 N
+                                                                      N
+                                             O
+                                                 N
+
+
+
+ forodesinum
+ forodesine                                  7-(5-amino-1,5-dideoxy-β-D-ribofuranos-1-yl)-1,5-dihydro-
+                                             4H-pyrrolo[3,2-d]pyrimidin-4-one
+                                             antineoplastic
+
+ forodésine                                  (-)-7-[(2S,3S,4R,5R)-3,4-dihydroxy-5-(hydroxyméthyl)pyrrolidin-2-yl]-
+                                             1,5-dihydro-4H-pyrrolo[3,2-d]pyrimidin-4-one
+                                             antinéoplasique
+
+ forodesina                                  (-)-7-[(2S,3S,4R,5R)-3,4-dihidroxi-5-(hidroximetil)pirrolidin-2-il]-
+                                             1,5-dihidro-4H-pirrolo[3,2-d]pirimidin-4-ona
+                                             antineoplásico
+
+                                             C11H14N4O4                                    209799-67-7
+
+                                                         O
+                                                                  H
+                                                                  N
+                                                     N
+
+                                                         N
+                                                         H
+                                             HO          H
+                                                         N
+
+
+
+
+                                                     OH      OH
+
+
+
+ galsulfasum
+ galsulfase                                  N-acetylgalactosamine 4-sulfatase (human CSL4S-342 cell)
+                                             enzyme
+
+ galsulfase                                  N-acétylgalactosamine 4-sulfatase (cellule humaine CSL4S-342)
+                                             enzyme
+
+ galsulfasa                                  N-acetilgalactosamina 4-sulfatasa (célula humana CSL4S-342)
+                                             enzima
+
+
+
+
+                                                                                                                    337
+Proposed INN: List 92                            WHO Drug Information, Vol. 18, No. 4, 2004
+
+
+
+
+                        C2529H3843N689O716S16                     552858-79-4
+
+                        AGASRPPHLV       FLLADDLGWN       DVGFHGSRIR      TPHLDALAAG
+                        GVLLDNYYTQ       PLCTPSRSQL       LTGRYQIRTG      LQHQIIWPCQ
+                        PSCVPLDEKL       LPQLLKEAGY       TTHMVGKWHL      GMYRKECLPT
+                        RRGFDTYFGY       LLGSEDYYSH       ERCTLIDALN      VTRCALDFRD
+                        GEEVATGYKN       MYSTNIFTKR       AIALITNHPP      EKPLFLYLAL
+                        QSVHEPLQVP       EEYLKPYDFI       QDKNRHHYAG      MVSLMDEAVG
+                        NVTAALKSSG       LWNNTVFIFS       TDNGGQTLAG      GNNWPLRGRK
+                        WSLWEGGVRG       VGFVASPLLK       QKGVKNRELI      HISDWLPTLV
+                        KLARGHTNGT       KPLDGFDVWK       TISEGSPSPR      IELLHNIDPN
+                        FVDSSPCPRN       SMAPAKDDSS       LPEYSAFNTS      VHAAIRHGNW
+                        KLLTGYPGCG       YWFPPPSQYN       VSEIPSSDPP      TKTLWLFDID
+                        RDPEERHDLS       REYPHIVTKL       LSRLQFYHKH      SVPVYFPAQD
+                        PRCDPKATGV       WGPWM
+
+ glucarpidasum
+ glucarpidase           recombinant glutamate carboxypeptidase (carboxypeptidase G2)
+                        enzyme
+
+ glucarpidase           [405-arginine]précurseur de la carboxypeptidase G2 de
+                        Pseudomonas (RS-16), enzyme à zinc dimérique, glutamate
+                        carboxypeptidase
+                        enzyme
+
+ glucarpidasa           glutamato carboxipeptidasa recombinante (carboxipeptidasa G2)
+                        glutamato carboxipeptidasa
+
+                        C1950H3157N543O599S7 (monomer)            9074-87-7
+
+                        MRPSIHRTAI       AAVLATAFVA       GTALAQKRDN       VLFQAATDEQ
+                        PAVIKTLEKL       VNIETGTGDA       EGIAAAGNFL       EAELKNLGFT
+                        VTRSKSAGLV       VGDNIVGKIK       GRGGKNLLLM       SHMDTVYLKG
+                        ILAKAPFRVE       GDKAYGPGIA       DDKGGNAVIL       HTLKLLKEYG
+                        VRDYGTITVL       FNTDEEKGSF       GSRDLIQEEA       KLADYVLSFE
+                        PTSAGDEKLS       LGTSGIAYVQ       VNITGKASHA       GAAPELGVNA
+                        LVEASDLVLR       TMNIDDKAKN       LRFNWTIAKA       GNVSNIIPAS
+                        ATLNADVRYA       RNEDFDAAMK       TLEERAQQKK       LPEADVKVIV
+                        TRGRPAFNAG       EGGKKLVDKA       VAYYKEAGGT       LGVEERTGGG
+                        TDAAYAALSG       KPVIESLGLP       GFGYHSDKAE       YVDISAIPRR
+                        LYMARRLIMD       LGAGK
+
+ iboctadekinum
+ iboctadekin            a recombinant human interleukin-18 with 157 amino acids
+                        antineoplastic
+
+ iboctadékine           interleukine-18 humaine recombinante (157 aminoacides)
+                        antinéoplasique
+
+ iboctadekina           interleukina-18 humana recombinante (157 aminoácidos)
+                        antineoplásico
+
+
+
+338
+WHO Drug Information, Vol. 18, No. 4, 2004                                                   Proposed INN: List 92
+
+
+                                              C801H1264N212O252S10                       479198-61-3
+
+                                              YFGKLESKLS       VIRNLNDQVL       FIDQGNRPLF       EDMTDSDCRD
+                                              NAPRTIFIIS       MYKDSQPRGM       AVTISVKCEK       ISTLSCENKI
+                                              ISFKEMNPPD       NIKDTKSDII       FFQRSVPGHD       NKMQFESSSY
+                                              EGYFLACEKE       RDLFKLILKK       EDELGDRSIM       FTVQNED
+
+
+
+
+ icomucretum
+ icomucret                                    (5Z,8Z,11Z,13E,15S)-15-hydroxyicosa-5,8,11,13-tetraenoic acid
+                                              mucin secretion stimulator
+
+ icomucret                                    acide (5Z,8Z,11Z,13E,15S)-15-hydroxyicosa-5,8,11,13-tétraénoïque
+                                              stimulateur de la sécrétion de mucine
+
+ icomucret                                    ácido (5Z,8Z,11Z,13E,15S)-15-hidroxiicosa-5,8,11,13-tetraenoico
+                                              estimulante de la secreción de mucina
+
+                                              C20H32O3                                   54845-95-3
+
+                                                                                            CO2H
+
+
+
+
+                                                                  H
+                                              H3C
+                                                                 OH
+
+
+
+inotuzumabum ozogamicinum
+inotuzumab ozogamicin                        immunoglobulin G4, anti-(human CD22 (antigen)) (human-mouse
+                                             monoclonal G544 heavy chain), disulfide with human-mouse
+                                             monoclonal G544 κ-chain, dimer, conjugate with methyl
+                                             N-{(1R,4Z,8S,13E)-8-(4,6-dideoxy-4-{[(4-S-{4-[(6-deoxy-3-O-methyl-
+                                             α-L-mannopyranosyl)oxy]-3-iodo-5,6-dimethoxy-2-methylbenzoyl}-
+                                             4-thio-β-D-ribo-hexopyranosyl)oxy]amino}-
+                                             2-O-[4-(N-ethylacetamido)-2,4-dideoxy-3-O-methyl-α-L-threo-
+                                             pentopyranosyl]-β-D-glucopyranosyloxy)-13-[2-({4-[2-(1-{[4-(4-amino-
+                                             4-oxobutyl)oxy]phenyl}ethylidene)hydrazinyl]-2-methyl-4-oxobutan-
+                                             2-yl}disulfanyl)ethylidene]-1-hydroxy-11-oxobicyclo[7.3.1]trideca-
+                                             4,9-diene-2,6-diyn-10-yl}carbamate
+                                             antineoplastic
+
+inotuzumab ozogamicine                       N-[4-[4-[1-[[3-[[2-[(1R,4Z,8S,13E)-8-[[2-O-[4-(acétyléthylamino)-
+                                             2,4-didésoxy-3-O-méthyl-α-L-thréo-pentopyranosyl]-4,6-didésoxy-
+                                             4-[[[2,6-didésoxy-4-S-[4-[(6-désoxy-3-O-méthyl-
+                                             α-L-mannopyranosyl)oxy]-3-iodo-5,6-diméthoxy-2-méthylbenzoyl]-
+                                             4-thio-β-D-ribo-hexopyranosyl]oxy]amino]-β-D-glucopyranosyl]oxy]-
+                                             1-hydroxy-10-[(méthoxycarbonyl)amino]-11-oxobicyclo[7.3.1]tridéca-
+                                             4,9-diène-2,6-diyn-13-ylidène]éthyl]disulfanyl]-3-méthylbutanoyl]=
+                                             diazanylidène]éthyl]phénoxy]butanoyl]immunoglobuline G4,
+                                             anti-(antigène CD22 humain) dimère du disulfure entre la chaîne
+                                             lourde et la chaîne κ de l'anticorps monoclonal de souris G544
+                                             humanisé
+                                             antinéoplasique
+
+
+
+
+                                                                                                                  339
+Proposed INN: List 92                                WHO Drug Information, Vol. 18, No. 4, 2004
+
+
+
+
+ inotuzumab ozogamicina   N-[4-[4-[1-[[3-[[2-[(1R,4Z,8S,13E)-8-[[2-O-[4-(acetiletilamino)-
+                          2,4-didesoxi-3-O-metil-α-L-treo-pentopiranosil]-4,6-didesoxi-
+                          4-[[[2,6-didesoxi-4-S-[4-[(6-desoxi-3-O-metil-α-L-manopiranosil)oxi]-
+                          3-iodo-5,6-dimetoxi-2-metilbenzoil]-4-tio-β-D-ribo-hexopiranosil]=
+                          oxi]amino]-β-D-glucopiranosil]oxi]-1-hidroxi-10-[(metoxicarbonil)=
+                          amino]-11-oxobiciclo[7.3.1]trideca-4,9-dieno-2,6-diino-
+                          13-ilideno]etil]disulfanil]-3-metilbutanoil]diazanilideno]=
+                          etil]fenoxi]butanoil]inmunoglobulina G4, anti-(antigeno CD22
+                          humano) dimero del disulfuro entre la cadena pesada y la cadena κ
+                          del anticuerpo monoclonal humanizado de ratón G544
+                          antineoplásico
+
+                          C6518H10002N1738O2036S42                        635715-01-4
+
+                                                                                              OH
+                                                                                 O
+                                                                          O
+                          Ig-NH2 = inotuzumab
+                                                                H3C
+                                                                       O    N
+                                                                        CH3 H
+                                                                                 O O
+                                                                                         H
+                                                         CH3            OH                          S
+                                                                                          H3C
+                                                               O O NH                               S
+                                           OCH3 O                                        H3C
+                                  H3CO                                                   O
+                                                     S
+                                                               O       CH3       O
+                                                         OH                              HN
+                          HO         O O         CH3                                            N       CH3
+                                                         H3C       N         O
+                               CH3          I
+
+
+                           H3CO      OH
+                                                                       OCH3          O
+                                                                                                    O
+                                                                         Ig      N
+                                                                                 H
+
+
+
+
+ isalmadolum
+ isalmadol                3-{(1RS,2RS)-2-[(dimethylamino)methyl]-1-hydroxycyclohexyl}phenyl
+                          2-hydroxybenzoate
+                          analgesic
+
+ isalmadol                2-hydroxybenzoate de 3-[(1RS,2RS)-2-[(diméthylamino)méthyl]-
+                          1-hydroxycyclohexyl]phényle
+                          analgésique
+
+ isalmadol                2-hidroxibenzoato de 3-[(1RS,2RS)-2-[(dimetilamino)metil]-
+                          1-hidroxiciclohexil]fenilo
+                          analgésico
+
+
+
+
+340
+WHO Drug Information, Vol. 18, No. 4, 2004                                                        Proposed INN: List 92
+
+
+                                             C22H27NO4                                       269079-62-1
+
+                                                                     CH3
+                                                                     N
+                                                                          CH3
+                                                                H
+                                                           HO
+                                                                                 and enantiomer
+                                                                                 et énantiomère
+                                                                                 y enantiómero
+
+
+                                                          O
+
+                                                OH    O
+
+
+
+ ispinesibum
+ ispinesib                                   N-(3-aminopropyl)-N-[(1R)-1-(3-benzyl-7-chloro-4-oxo-
+                                             3,4-dihydroquinazolin-2-yl)-2-methylpropyl]-4-methylbenzamide
+                                             antineoplastic
+
+ ispinésib                                   N-(3-aminopropyl)-N-[(1R)-1-(3-benzyl-7-chloro-4-oxo-
+                                             3,4-dihydroquinazolin-2-yl)-2-méthylpropyl]-4-méthylbenzamide
+                                             antinéoplasique
+
+ ispinesib                                   N-(3-aminopropil)-N-[(1R)-1-(3-bencil-7-cloro-4-oxo-
+                                             3,4-dihidroquinazolin-2-il)-2-metilpropil]-4-metilbenzamida
+                                             antineoplásico
+
+                                             C30H33ClN4O2                                    336113-53-2
+
+
+                                                              H3C    CH3
+                                                              O
+                                                                      H
+                                                                           N         O
+                                                                N
+                                                                      N
+                                             H3C
+
+                                                                      NH2
+                                                                                Cl
+
+
+
+ levotofisopamum
+ levotofisopam                               (5S)-1-(3,4-dimethoxyphenyl)-5-ethyl-7,8-dimethoxy-4-methyl-
+                                             5H-2,3-benzodiazepine
+                                             anxiolytic
+
+ lévotofisopam                               (-)-(5S)-1-(3,4-diméthoxyphényl)-5-éthyl-7,8-diméthoxy-4-méthyl-
+                                             5H-2,3-benzodiazépine
+                                             anxiolytique
+
+ levotofisopam                               (-)-(5S)-1-(3,4-dimetoxifenil)-5-etil-7,8-dimetoxi-4-metil-
+                                             5H-2,3-benzodiazepina
+                                             ansiolítico
+
+
+
+
+                                                                                                                    341
+Proposed INN: List 92                                       WHO Drug Information, Vol. 18, No. 4, 2004
+
+
+
+
+                           C22H26N2O4                                        82059-51-6
+
+                                            CH3
+                                              H
+                                                      CH3
+                           H3CO
+                                                      N
+                           H3CO                   N
+
+
+
+
+                                                  OCH3
+                                    H3CO
+
+
+
+ linaprazanum
+ linaprazan                8-{[(2,6-dimethylphenyl)methyl]amino}-N-(2-hydroxyethyl)-
+                           2,3-dimethylimidazo[1,2-a]pyridine-6-carboxamide
+                           acid pump inhibitor
+
+ linaprazan                8-[(2,6-diméthylbenzyl)amino]-N-(2-hydroxyéthyl)-
+                           2,3-diméthylimidazo[1,2-a]pyridine-6-carboxamide
+                           inhibiteur de la pompe à protons
+
+ linaprazán                8-[(2,6-dimetilbencil)amino]-N-(2-hidroxietil)-2,3-dimetilimidazo=
+                           [1,2-a]piridina-6-carboxamida
+                           inhibidor de la bomba de protones
+
+                           C21H26N4O2                                        248919-64-4
+
+                                                          CH3
+                                    CH3
+                                                  N
+                                        H
+                                        N                    CH3
+                                                      N
+                              CH3
+
+                                                                OH
+                                            O         N
+                                                      H
+
+
+
+ morphinii glucuronidum
+ morphine glucuronide      3-hydroxy-17-methyl-4,5α-epoxymorphin-7-en-6α-yl
+                           β-D-glucopyranosiduronic acid
+                           analgesic
+
+ glucuronide de morphine   acide β-D-glucopyranosiduronique de 7,8-didéshydro-4,5α-époxy-
+                           3-hydroxy-17-méthylmorphinan-6α-yle
+                           analgésique
+
+ glucurónido de morfina    ácido β-D-glucopiranosidurónico de 7,8-dideshidro-4,5α-epoxi-
+                           3-hidroxi-17-metilmorfinan-6α-ilo
+                           analgésico
+
+
+
+
+342
+WHO Drug Information, Vol. 18, No. 4, 2004                                                     Proposed INN: List 92
+
+
+                                             C23H27NO9                                     20290-10-2
+
+                                                                 CH3
+                                                        H    N
+
+                                                        H
+
+
+
+                                                        O          H
+                                             HO            H
+                                                        CO2H O
+                                                           O
+                                                        OH
+                                                   HO
+                                                             OH
+
+
+
+ naveglitazarum
+ naveglitazar                                (2S)-2-methoxy-3-{4-[3-(4-phenoxyphenoxy)propoxy]=
+                                             phenyl}propanoic acid
+                                             antidiabetic
+
+ navéglitazar                                acide (2S)-2-méthoxy-3-[4-[3-(4-phénoxyphénoxy)=
+                                             propoxy]phényl]propanoïque
+                                             antidiabétique
+
+ naveglitazar                                ácido (2S)-2-metoxi-3-[4-[3-(4-fenoxifenoxi)propoxi]fenil]propanoico
+                                             hipoglucemiante
+
+                                             C25H26O6                                      476436-68-7
+
+                                                                       O       O
+                                                                                             H OCH3
+
+                                                        O                                         CO2H
+
+
+
+ omocianinum
+ omocianine                                  trihydrogen 2-{(1E,3E,5E)-7-[(2E)-3,3-dimethyl-5-sulfonato-
+                                             1-(2-sulfonatoethyl)-1,3-dihydro-2H-indol-2-ylidene]-4-methylhepta-
+                                             1,3,5-trienyl}-3,3-dimethyl-1-(2-sulfonatoethyl)-3H-indolium-
+                                             5-sulfonate
+                                             fluorescent diagnostic contrast agent
+
+ omocianine                                  trihydrogéno-2-[(1E,3E,5E)-7-[(2E)-3,3-diméthyl-5-sulfonato-
+                                             1-(2-sulfonatoéthyl)-1,3-dihydro-2H-indol-2-ylidène]-4-méthylhepta-
+                                             1,3,5-triényl]-3,3-diméthyl-1-(2-sulfonatoéthyl)-3H-indolium-
+                                             5-sulfonate
+                                             produit de contraste fluorescent
+
+ omocianine                                  trihidrógeno-2-[(1E,3E,5E)-7-[(2E)-3,3-dimetil-5-sulfonato-
+                                             1-(2-sulfonatoetil)-1,3-dihidro-2H-indol-2-ilideno]-4-metilhepta-
+                                             1,3,5-trienil]-3,3-dimetil-1-(2-sulfonatoetil)-3H-indolio-5-sulfonato
+                                             contraste para diagnóstico fluorescente
+
+
+
+
+                                                                                                                     343
+Proposed INN: List 92                                        WHO Drug Information, Vol. 18, No. 4, 2004
+
+
+
+
+                        C32H38N2O12S4                                           154082-13-0
+
+                                   -
+                                       O3S                                              SO3-
+                                                     N+                             N
+
+                        3 H+                                         CH3
+                                                            CH3            H3C
+                                                          CH3                H 3C
+                               -
+                                   O3S                                                  SO3-
+
+
+
+ peliglitazarum
+ peliglitazar           N-[(4-methoxyphenoxy)carbonyl]-N-[(1S)-1-{4-[2-(5-methyl-2-phenyl-
+                        1,3-oxazol-4-yl)ethoxy]phenyl}ethyl]glycine
+                        antidiabetic
+
+ péliglitazar           acide [[(4-méthoxyphénoxy)carbonyl][(1S)-1-[4-[2-(5-méthyl-
+                        2-phényloxazol-4-yl)éthoxy]phényl]éthyl]amino]acétique
+                        antidiabétique
+
+ peliglitazar           ácido [[(4-metoxifenoxi)carbonil][(1S)-1-[4-[2-(5-metil-2-feniloxazol-
+                        4-il)etoxi]fenil]etil]amino]acético
+                        hipoglucemiante
+
+                        C30H30N2O7                                              331744-64-0
+
+                                             N               O                  CO2H
+
+                                                                            N       O
+                                             O        CH3
+                                                                       H CH3 O
+                                                                                              OCH3
+
+
+
+ pemaglitazarum
+ pemaglitazar           (2S)-4-[(2-methylphenyl)sulfanyl]-2-[4-(trifluromethyl)phenoxy]=
+                        butanoic acid
+                        antidiabetic
+
+ pémaglitazar           (-)-acide (2S)-4-[(2-méthylphényl)sulfanyl]-2-[4-(trifluorométhyl)=
+                        phénoxy]butanoïque
+                        antidiabétique
+
+ pemaglitazar           (-)-ácido (2S)-4-[(2-metilfenil)sulfanil]-2-[4-(trifluorometil)=
+                        fenoxi]butanoico
+                        antidiabético
+
+                        C18H17F3O3S                                             496050-39-6
+
+                        F 3C                           H3C
+                                                 H CO2H
+
+                                                 O               S
+
+
+
+
+344
+WHO Drug Information, Vol. 18, No. 4, 2004                                                                      Proposed INN: List 92
+
+
+ perflisobutanum
+ perflisobutane                              1,1,1,2,3,3,3-heptafluoro-2-(trifluoromethyl)propane
+                                             ultrasound contrast agent
+
+ perflisobutane                              1,1,1,2,3,3,3-heptafluoro-2-(trifluorométhyl)propane
+                                             produit de contraste aux ultrasons
+
+ perflisobutano                              1,1,1,2,3,3,3-heptafluoro-2-(trifluorometil)propano
+                                             contraste para ultrasonidos
+
+                                             C4F10                                                        354-92-7
+
+                                                   F       CF3
+
+                                             F3C            CF3
+
+
+ piclozotanum
+ piclozotan                                  3-chloro-4-[4-(1',2',3',6'-tetrahydro-[2,4'-bipyridin]-1'-yl)butyl]-
+                                             1,4-benzoxazepin-5(4H)-one
+                                             serotonin receptor antagonist
+
+ piclozotan                                  3-chloro-4-[4-(3',6'-dihydro-2,4'-bipyridinyl-1'(2'H)-yl)butyl]-
+                                             1,4-benzoxazépin-5(4H)-one
+                                             antagoniste des récepteurs de la sérotonine
+
+ piclozotán                                  3-cloro-4-[4-(3',6'-dihidro-2,4'-bipiridinil-1'(2'H)-il)butil]-
+                                             1,4-benzoxazepin-5(4H)-ona
+                                             antagonista del receptor de serotonina
+
+                                             C23H24ClN3O2                                                 182415-09-4
+
+                                                       O                 Cl
+
+                                                                     N
+                                                                                      N
+                                                                 O
+
+                                                                                                   N
+
+
+ pralatrexatum
+ pralatrexate                                N-{4-[1-(2,4-diaminopteridin-6-yl)pent-4-yn-2-yl]benzoyl}-L-glutamic
+                                             acid
+                                             antineoplastic
+
+ pralatrexate                                acide (2S)-2-[[4-[(1RS)-1-[(2,4-diaminoptéridin-6-yl)méthyl]but-
+                                             3-ynyl]benzoyl]amino]pentanedioïque
+                                             antinéoplasique
+
+ pralatrexato                                ácido (2S)-2-[[4-[(1RS)-1-[(2,4-diaminopteridin-6-il)metil]but-
+                                             3-inil]benzoil]amino]pentanodioico
+                                             antineoplásico
+
+                                             C23H23N7O5                                                   146464-95-1
+
+                                                                                               O       H CO2H
+
+                                                            NH2                                    N             and epimer at C*
+                                                                                                   H             et l'épimère en C*
+                                                                     N            *
+                                                       N                                                    CO2H y el epímero en C*
+                                                                              H           CH
+                                             H2N            N        N
+
+
+
+                                                                                                                                  345
+Proposed INN: List 92                             WHO Drug Information, Vol. 18, No. 4, 2004
+
+
+
+
+ radoterminum
+ radotermin             growth differentiation factor 5 (human), homodimer
+                        growth factor
+
+ radotermine            facteur 5 humain de différenciation de la croissance, homodimère
+                        produit par E. coli
+                        facteur de croissance
+
+ radotermina            factor 5 humano de diferenciación del crecimiento homodímero
+                        producido por E. coli
+                        factor de crecimiento
+
+                        C1184H1844N330O350S22                      575458-75-2
+
+                         PLATRQGKRP SKNLKARCSR KALHVNFKDM GWDDWIIAPL
+                         EYEAFHCEGL CEFPLRSHLE PTNHAVIQTL MNSMDPESTP
+                         PTCCVPTRLS PISILFIDSA NNVVYKQYED MVVESCGCR
+                                                                                             2
+
+
+
+
+ raxibacumabum
+ raxibacumab            immunoglobulin G1, anti-(anthrax protective antigen) (human
+                        monoclonal PA heavy chain), disulfide with human monoclonal PA λ-
+                        chain, dimer
+                        antitoxin
+
+ raxibacumab            immunoglobuline G1, anti-(antigen protecteur de l'anthrax), dimère
+                        du disulfure entre la chaine lourde et la chaîne λ de l'anticorps
+                        monoclonal humain PA
+                        antitoxine
+
+ raxibacumab            inmunoglobulina G1, anti-(antígeno protector del antrax), dímero del
+                        disulfuro entre la cadena pesada y la cadena λ del anticuerpo
+                        monoclonal humano PA
+                        antitoxina
+
+                        C6320H9794N1702O1998S42                    565451-13-0
+
+
+
+
+ rimeporidum
+ rimeporide             N-(aminoiminomethyl)-4,5-bis(methanesulfonyl)-2-methylbenzamide
+                           + +
+                        Na /H antiport inhibitor
+
+ riméporide             N-carbamimidoyl-2-méthyl-4,5-bis(méthylsulfonyl)benzamide
+                                                  +   +
+                        inhibiteur de l'échange Na /H
+
+ rimeporida             N-carbamimidoil-2-metil-4,5-bis(metilsulfonil)benzamida
+                                                          +  +
+                        inhibidor del transporte activo Na /H
+
+
+
+
+346
+WHO Drug Information, Vol. 18, No. 4, 2004                                                    Proposed INN: List 92
+
+
+                                             C11H15N3O5S2                                 187870-78-6
+
+                                                 O O                 O        NH
+                                                    S
+                                             H3C                          N        NH2
+                                                                          H
+                                             H3C
+                                                  S                  CH3
+                                                 O O
+
+
+
+ saxagliptinum
+ saxagliptin                                 (1S,3S,5S)-2-{(2S)-2-amino-2-(3-hydroxyadamantan-1-yl)acetyl}-
+                                             2-azabicyclo[3.1.0]hexane-3-carbonitrile
+                                             antidiabetic
+                                                                                                  3,7
+ saxagliptine                                (1S,3S,5S)-2-[(2S)-amino(3-hydroxytricyclo[3.3.1.1 ]déc-
+                                             1-yl)acétyl]-2-azabicyclo[3.1.0]hexane-3-carbonitrile
+                                             antidiabétique
+                                                                                                3,7
+ saxagliptina                                (1S,3S,5S)-2-[(2S)-amino(3-hidroxitriciclo[3.3.1.1 ]dec-1-il)acetil]-
+                                             2-azabiciclo[3.1.0]hexano-3-carbonitrilo
+                                             hipoglucemiante
+
+                                             C18H25N3O2                                   361442-04-8
+
+                                                        O        H CN
+                                              H2N
+                                                             N
+                                                        H
+                                                         H
+                                                                         H
+
+                                                    OH
+
+
+
+ seliciclibum
+ seliciclib                                  (2R)-2-{[6-benzylamino-9-(propan-2-yl)-9H-purin-2-yl]amino}butan-
+                                             1-ol
+                                             antineoplastic
+
+ séliciclib                                  (-)-(2R)-2-[[6-(benzylamino)-9-(1-méthyléthyl)-9H-purin-2-yl]=
+                                             amino]butan-1-ol
+                                             antinéoplasique
+
+ seliciclib                                  (-)-(2R)-2-[[6-(bencilamino)-9-(1-metiletil)-9H-purin-2-il]amino]butan-
+                                             1-ol
+                                             antineoplásico
+
+                                             C19H26N6O                                    186692-46-6
+
+
+                                                             H                H
+                                                             N       N        N
+                                             H 3C
+                                                         H       N
+                                                        OH                    N
+                                                                      N
+                                                         H3C
+                                                                     CH3
+
+
+
+
+                                                                                                                     347
+Proposed INN: List 92                                          WHO Drug Information, Vol. 18, No. 4, 2004
+
+
+
+
+ sugammadexum
+ sugammadex             cyclooctakis-(1→4)-[6-S-(2-carboxyethyl)-6-thio-α-D-glucopyranosyl]
+                        pharmaceutical aid
+
+ sugammadex             cyclooctakis-(1→4)-[6-S-(2-carboxyéthyl)-6-thio-α-D-glucopyranosyl]
+                        adjuvant
+
+ sugammadex             ciclooctakis-(1→4)-[6-S-(2-carboxietil)-6-tio-α-D-glucopiranosil]
+                        excipiente
+
+                        C72H112O48S8                                                    343306-71-8
+
+                                                                   S
+                                                                           CO2H
+                                                     CO2H
+                                                                       O                    S
+                                     S                    O                O
+                                                 O
+                                                                                        O
+                                                           OH OH                                    CO2H
+                                                        OH      HO
+                        CO2H             O            OH          HO                     O
+
+                                 O                   OH                        HO                      S
+                           S                         OH                        HO               O
+
+                                         O            OH                  HO             O                 CO2H
+                                                        OH              HO
+                              HO2C                                 OH OH
+                                             O
+                                                                                    O
+                                                          O                O                    S
+                                         S                         O
+                                                                           HO2C
+                                                     HO2C
+                                                                       S
+
+
+
+ talabostatum
+ talabostat             {(2R)-1-[(2S)-2-amino-3-methylbutanoyl]pyrrolidin-2-yl}boronic acid
+                        antineoplastic
+
+ talabostat             acide [(2R)-1-[(2S)-2-amino-3-méthylbutanoyl]pyrrolidin-
+                        2-yl]boronique
+                        antinéoplasique
+
+ talabostat             ácido [(2R)-1-[(2S)-2-amino-3-metilbutanoil]pirrolidin-2-il]borónico
+                        antineoplásico
+
+                        C9H19BN2O3                                                      149682-77-9
+
+                                                       OH
+                               CH3       O       H
+                                                       B
+                                                              OH
+                        H3C                  N
+                                H NH2
+
+
+
+
+348
+WHO Drug Information, Vol. 18, No. 4, 2004                                                            Proposed INN: List 92
+
+
+ talactoferrinum alfa
+ talactoferrin alfa                          lactoferrin (recombinant human LF00)
+                                             recombinant human lactoferrin
+
+ talactoferrine alfa                         [11-L-thréonine,29-L-arginine]lactotransferrine humaine produite par
+                                             Aspergillus niger var. awamori
+                                             lactoferrine humaine recombinante
+
+ talactoferrina alfa                         [11-L-treonina,29-L-arginina]lactotransferrina humana producida por
+                                             Aspergillus niger var. awamori
+                                             lactoferrina humana recombinante
+
+                                             C3345H5215N963O1015S37 (peptide)                   308240-58-5
+
+                                               GRRRRSVQWC         TVSQPEATKC          FQWQRNMRRV          RGPPVSCIKR
+                                               DSPIQCIQAI         AENRADAVTL          DGGFIYEAGL          APYKLRPVAA
+                                               EVYGTERQPR         THYYAVAVVK          KGGSFQLNEL          QGLKSCHTGL
+                                               RRTAGWNVPI                *
+                                                                  GTLRPFLNWT          GPPEPIEAAV          ARFFSASCVP
+                                               GADKGQFPNL         CRLCAGTGEN          KCAFSSQEPY          FSYSGAFKCL
+                                               RDGAGDVAFI         RESTVFEDLS          DEAERDEYEL          LCPDNTRKPV
+                                               DKFKDCHLAR         VPSHAVVARS          VNGKEDAIWN          LLRQAQEKFG
+                                               KDKSPKFQLF         GSPSGQKDLL          FKDSAIGFSR          VPPRIDSGLY
+                                               LGSGYFTAIQ         NLRKSEEEVA          ARRARVVWCA          VGEQELRKCN
+                                               QWSGLSEGSV         TCSSASTTED          CIALVLKGEA          DAMSLDGGYV
+                                               YTAGKCGLVP         VLAENYKSQQ          SSDPDPNCVD          RPVEGYLAVA
+                                               VVRRSDTSLT         WNSVKGKKSC          HTAVDRTAGW                  *
+                                                                                                          NIPMGLLFNQ
+                                               TGSCKFDEYF         SQSCAPGSDP          RSNLCALCIG          DEQGENKCVP
+                                               NSNERYYGYT         GAFRCLAENA          GDVAFVKDVT          VLQNTDGNNN
+                                               EAWAKDLKLA         DFALLCLDGK          RKPVTEARSC          HLAMAPNHAV
+                                               VSRMDKVERL         KQVLLHQQAK          FGRNGSDCPD          KFCLFQSETK
+                                               NLLFNDNTEC         LARLHGKTTY          EKYLGPQYVA          GITNLKKCST
+                                               SPLLEACEFL         RK
+                                                                        * glycosylation site
+                                                                        * sites de glycosylation
+                                                                        * posición de glicosilación
+
+
+ talaglumetadum
+ talaglumetad                                (1S,2S,5R,6S)-2-[(2S)-2-aminopropanamido]bicyclo[3.1.0]hexane-
+                                             2,6-dicarboxylic acid
+                                             anxiolytic
+
+ talaglumétad                                acide (1S,2S,5R,6S)-2-[[(2S)-2-aminopropanoyl]amino]=
+                                             bicyclo[3.1.0]hexane-2,6-dicarboxylique
+                                             anxiolytique
+
+ talaglumetad                                ácido (1S,2S,5R,6S)-2-[[(2S)-2-aminopropanoil]amino]=
+                                             biciclo[3.1.0]hexano-2,6-dicarboxílico
+                                             ansiolítico
+
+                                             C11H16N2O5                                         441765-98-6
+
+                                                             H
+                                                                   CO2H
+                                                                       H
+                                                     O
+                                                                   H
+                                             H2N
+                                                       N         CO2H
+                                                 H CH3 H
+
+
+                                                                                                                        349
+Proposed INN: List 92                              WHO Drug Information, Vol. 18, No. 4, 2004
+
+
+
+
+ tanogitranum
+ tanogitran             N-[(2R)-2-{2-[(4-carbamimidoylanilino)methyl]-1-methyl-
+                        1H-benzimidazol-5-yl}-1-oxo-1-(pyrrolidin-1-yl)propan-2-yl]glycine
+                        antithrombotic
+
+ tanogitran             acide [[(1R)-1-[2-[[(4-carbamimidoylphényl)amino]méthyl]-1-méthyl-
+                        1H-benzimidazol-5-yl]-1-méthyl-2-oxo-2-(pyrrolidin-1-yl)éthyl]=
+                        amino]acétique
+                        antithrombotique
+
+ tanogitrán             ácido [[(1R)-1-[2-[[(4-carbamimidoilfenil)amino]metil]-1-metil-
+                        1H-bencimidazol-5-il]-1-metil-2-oxo-2-(pirrolidin-1-il)etil]=
+                        amino]acético
+                        antitrombótico
+
+                        C25H31N7O3                                       637328-69-9
+
+
+
+                                                               N
+                         HN                              O         CH3
+                                           NH      N
+                                                                    N      CO2H
+                        H2N                                         H
+                                                   N
+                                                H 3C
+
+
+
+ tefibazumabum
+ tefibazumab            immunoglobulin G1, anti-(Staphylococcus aureus protein ClfA
+                        (clumping factor A)) (human-Mus musculus monoclonal Aurexis
+                        heavy chain), disulfide with human-Mus musculus monoclonal
+                        Aurexis κ-chain, dimer
+                        antitoxin
+
+ téfibazumab            immunoglobuline G1, anti-(protéine ClfA (facteur A d'agrégation) de
+                        Staphylococcus aureus) dimère du disulfure entre la chaîne lourde et
+                        la chaîne κ de l'anticorps monoclonal Mus-musculus Aurexis
+                        humanisé
+                        antitoxine
+
+ tefibazumab            inmunoglobulina G1, anti-(proteína ClfA (factor A de agregación) de
+                        Staphylococcus aureus) dimero del disulfuro entre la cadena pesada
+                        y la cadena κ del anticuerpo monoclonal humano Mus-musculus
+                        Aurexis
+                        antitoxina
+
+                        C6548H10122N1730O2034S44                         521079-87-8
+
+
+
+
+350
+WHO Drug Information, Vol. 18, No. 4, 2004                                                           Proposed INN: List 92
+
+
+
+
+ temserolimusum
+ temsirolimus                                (1R,2R,4S)-4-{(2R)-2-[(3S,6R,7E,9R,10R,12R,14S,15E,17E,19E,
+                                             21S,23S,26R,27R,34aS)-9,27-dihydroxy-10,21-dimethoxy-
+                                             6,8,12,14,20,26-hexamethyl-1,5,11,28,29-pentaoxo-1,4,5,6,9,10,11,
+                                             12,13,14,21,22,23,24,25,26,27,28,29,31,32,33,34,34a-
+                                             tetracosahydro-3H-23,27-epoxypyrido[2,1-c][1,4]=
+                                             oxazacyclohentriacontin-3-yl]propyl}-2-methoxycyclohexyl
+                                             3-hydroxy-2-(hydroxymethyl)-2-methylpropanoate
+                                             immunosuppressant
+
+ temsirolimus                                3-hydroxy-2-(hydroxyméthyl)-2-méthylpropanoate de (1R,2R,4S)-4-
+                                             [(2R)-2-[(3S,6R,7E,9R,10R,12R,14S,15E,17E,19E,21S,23S,26R,
+                                             27R,34aS)-9,27-dihydroxy-10,21-diméthoxy-
+                                             6,8,12,14,20,26-hexaméthyl-1,5,11,28,29-pentaoxo-1,4,5,6,9,10,11,
+                                             12,13,14,21,22,23,24,25,26,27,28,29,31,32,33,34,34a-
+                                             tétracosahydro-23,27-époxy-3H-pyrido[2,1-c][1,4]=
+                                             oxazacyclohentriacontin-3-yl]propyl]-2-méthoxycyclohexyle
+                                             immunodépresseur
+
+ temserolimus                                3-hidroxi-2-(hidroximetil)-2-metilpropanoato de (1R,2R,4S)-4-[(2R)-2-
+                                             [(3S,6R,7E,9R,10R,12R,14S,15E,17E,19E,21S,23S,26R,27R,34aS)-
+                                             9,27-dihidroxi-10,21-dimetoxi-6,8,12,14,20,26-hexametil-
+                                             1,5,11,28,29-pentaoxo-1,4,5,6,9,10,11,12,13,14,21,22,23,24,25,
+                                             26,27,28,29,31,32,33,34,34a-tetracosahidro-23,27-epoxi-
+                                             3H-pirido[2,1-c][1,4]oxazaciclohentriacontin-3-il]propil]-
+                                             2-metoxiciclohexilo
+                                             inmunosupresor
+
+                                             C56H87NO16                                      162635-04-3
+
+                                             HO
+                                                          CH3
+
+                                             HO
+                                                  O       O
+                                                      H
+                                                  H
+                                              H3CO
+                                                                     H
+                                                                         CH3
+                                                           O             H O         H OH
+                                                      H          H                               O
+                                                                 O
+                                                                                      H
+                                                      N          O        H 3C   H CH3 OCH3
+                                                                                  CH3
+                                                                 OH  H                  H 3C H
+                                                                   O                                  H
+                                                      O
+                                                                                                     CH3
+                                                           H                H OCH3
+                                                          H 3C
+
+
+
+
+                                                                                                                       351
+Proposed INN: List 92                               WHO Drug Information, Vol. 18, No. 4, 2004
+
+
+
+
+ thrombomodulinum alfa
+ thrombomodulin alfa     1-498-thrombomodulin (human clone TMP26/TMJ1 protein moiety
+                         reduced)
+                         prevention and treatment of thrombosis
+
+ thrombomoduline alfa    [473-valine]précurseur de la thrombomoduline humaine-(19-516)-
+                         peptide (protéine soluble)
+                         anticoagulant
+
+ trombomodulina alfa     [473-valina]precursor de la trombomodulina humana-(19-516)-
+                         péptido (proteína soluble)
+                         prevención y tratamiento de la trombosis
+
+                         C2230H3357N633O718S50                           120313-91-9
+
+                                                  AP           AEPQPGGSQC       VEHDCFALYP
+                               *
+                         GPATFLNASQ       ICDGLRGHLM           TVRSSVAADV       ISLLLNGDGG
+                                                                                     *
+                         VGRRRLWIGL       QLPPGCGDPK           RLGPLRGFQW       VTGDNNTSYS
+                         RWARLDLNGA       PLCGPLCVAV           SAAEATVPSE       PIWEEQQCEV
+                         KADGFLCEFH       FPATCRPLAV           EPGAAAAAVS       ITYGTPFAAR
+                         GADFQALPVG       SSAAVAPLGL           QLMCTAPPGA       VQGHWAREAP
+                         GAWDCSVENG       GCEHACNAIP           GAPRCQCPAG       AALQADGRSC
+                                                   *
+                         TASATQSCND LCEHFCVPNP DQPGSYSCMC ETGYRLAADQ
+                         HRCEDVDDCI LEPSPCPQRC VNTQGGFECH CYPNYDLVDG
+                                                *
+                         ECVEPVDPCF RANCEYQCQP LNQTSYLCVC AEGFAPIPHE
+                                 *
+                         PHRCQMFCNQ TACPADCDPN TQASCECPEG YILDDGFICT
+                         DIDECENGGF CSGVCHNLPG TFECICGPDS ALVRHIGTDC
+                                     *     * *    * *
+                         DSGKVDGGDS GSGEPPPSPT PGSTLTPPAV GLVHSG
+                                                 * glycosylation site
+                                                 * sites de glycosylation
+                                                 * posición de glicosilación
+
+
+
+
+352
+WHO Drug Information, Vol. 18, No. 4, 2004                                                            Proposed INN: List 92
+
+
+Names for Radicals and Groups
+Some substances for which a proposed international nonproprietary name has been established may be used in the form of
+salts or esters. The radicals or groups involved may be of complex composition and it is then inconvenient to refer to them in
+a systematic chemical nomenclature. Consequently, shorter nonproprietary names for some radicals and groups have been
+devised or selected, and they are suggested for use with the proposed international nonproprietary names.
+
+Dénominations applicables aux radicaux et groupes
+Certaines substances pour lesquelles une dénomination commune internationale proposée a été établie sont parfois
+utilisées sous forme de sels ou d'esters. Les radicaux ou groupes correspondants sont alors quelques fois si complexes
+qu'il est malcommode de les désigner conformément à la nomenclature chimique systématique. Des dénominations
+communes abrégées ont donc été formées ou choisies pour certains d'entre eux et il est suggéré de les employer avec les
+dénominations communes internationales proposées.
+
+Denominaciones para Radicales y Grupos
+Ciertas sustancias para las cuales hay establecidas una denominación común internacional pueden usarse en forma de
+sales o de ésteres. Los radicales o grupos correspondientes pueden llegar a tener una composición tan compleja que
+resulte incómodo referirse a ellos mediante la nomenclatura química sistemática. Las siguientes denominaciones comunes
+abreviadas han sido ideadas o elegidas para algunos de estos radicales y grupos y se sugiere que se empleen con las
+denominaciones comunes internacionales propuestas.
+tetraxetanum
+tetraxetan                                          [4,7,10-tris(carboxymethyl)-1,4,7,10-tetraazacyclodec-1-yl]acetyl
+tétraxétan                                          [4,7,10-tris(carboxyméthyl)-1,4,7,10-tétraazacyclodéc-1-yl]acétyle
+tetraxetán                                          [4,7,10-tris(carboximetil)-1,4,7,10-tetraazaciclodec-1-il]acetilo
+
+
+                                                                .
+                                                    C16H27N4O7 (radical)                        60239-18-1 (for the acid)
+
+
+                                                    HO2C                    C
+                                                               N      N
+                                                                            O
+
+                                                               N      N
+                                                    HO2C                    CO2H
+
+
+
+
+                              AMENDMENTS TO PREVIOUS LISTS
+                      MODIFICATIONS APPORTÉES AUX LISTES ANTÉRIEURES
+                          MODIFICACIONES A LAS LISTAS ANTERIORES
+
+
+Proposed International Non Proprietary Names (Prop. INN): List 87
+Dénominations communes internationales proposées (DCI Prop.): Liste 87
+Denominaciones Comunes Internacionales Propuestas (DCI Prop.): Lista 87
+(WHO Drug Information, Vol. 16, No. 2, 2002)
+
+p. 179   delete/ supprimer/ suprimase         insert/ insérer/ insértese:
+
+         palindorum                           aplindorum
+         palindore                            aplindore
+         palindore                            aplindore
+         palindor                             aplindor
+
+
+
+
+                                                                                                                            353
+Proposed INN: List 92                                                    WHO Drug Information, Vol. 18, No. 4, 2004
+
+
+
+
+Proposed International Non Proprietary Names (Prop. INN): List 90
+Dénominations communes internationales proposées (DCI Prop.): Liste 90
+Denominaciones Comunes Internacionales Propuestas (DCI Prop.): Lista 90
+(WHO Drug Information, Vol. 18, No. 1, 2004)
+
+p. 48    beminafilum
+         beminafil                  replace the graphic formula by the following:
+         béminafil                  remplacer la formule développée par:
+         beminafilo                 sustitúyase la fórmula desarrollada por:
+
+
+
+                                                             S
+
+                                                                 N
+
+                                                       N     N
+                                                       H
+                                     H3CO                                   CO2H
+                                              Cl
+
+p. 53    emapunilum
+         emapunil                   delete the entry
+         émapunil                   supprimer le nom
+         emapunilo                  suprímase el nombre
+
+p. 68    zanolimumabum
+         zanolimumab                delete the graphic formula
+         zanolimumab                supprimer la formule développée
+         zanolimumab                suprímase la fórmula desarrollada
+
+
+
+Proposed International Non Proprietary Names (Prop. INN): List 91
+Dénominations communes internationales proposées (DCI Prop.): Liste 91
+Denominaciones Comunes Internacionales Propuestas (DCI Prop.): Lista 91
+(WHO Drug Information, Vol. 18, No. 2, 2004)
+
+p. 160   carmoterolum
+         carmoterol                 replace chemical name by the following:
+
+                                    8-hydroxy-5-[(1R)-1-hydroxy-2-{[(1R)-2-(4-methoxyphenyl)-1-methylethyl]amino}=
+                                    ethyl]quinolin-2(1H)-one
+
+
+
+p. 162   depelestatum
+         depelestat                 replace the description by the following:
+         dépélestat                 remplacer la description par la suivante:
+         depelestat                 sustitúyase la descripción por la siguiente:
+
+                                    human recombinant neutrophil elastase inhibitor, homologue of the second Kunitz
+                                    domain of Inter-alpha-trypsin inhibitor light chain:
+                                        285  297     300   301    302
+                                    [Glu ,Ile ,Phe ,Pro ,Arg ]AMBP protein precursor-(285-340)-peptide
+                                    (human)
+
+
+
+354
+WHO Drug Information, Vol. 18, No. 4, 2004                                                            Proposed INN: List 92
+
+
+                                             285   297    300    301   302
+                                        [Glu ,Ile ,Phe ,Pro ,Arg ]précurseur de la protéine AMBP
+                                        humaine-(285-340)-peptide, homologue du second domaine Kunitz de la chaîne
+                                        légère de l’inhibiteur de l’Inter-alpha-trypsine, inhibiteur de l’élastase neutrophile
+                                             285   297    300    301   302
+                                        [Glu ,Ile ,Phe ,Pro ,Arg ]precursor de la proteína AMBP
+                                        humana-(285-340)-péptido, homólogo del segundo dominio Kunitz de la cadena
+                                        ligera del inhibidor de la Inter-alfa-tripsina, inhibidor de la elastasa neutrófila
+
+p. 168   imiglitazarum
+         imiglitazar                    replace the description by the following:
+
+                                        (4E)-4-[({4-[(5-methyl-2-phenyl-1,3-oxazol-4-yl)methoxy]phenyl}methoxy)imino]-
+                                        4-phenylbutanoic acid
+
+
+
+p. 173   delete/ supprimer/ suprimase   insert/ insérer/ insértese:
+         mecaserminum rinfabatum        mecaserminum rinfabas
+
+
+
+p. 175   delete/ supprimer/ suprimase   insert/ insérer/ insértese:
+         paclitaxel ceribatum           paclitaxelum ceribas
+
+
+
+p. 178   perflubutanum
+         perflubutane                   replace the molecular formula by the following:
+         perflubutane                   remplacer la formule brute par:
+         perflubutano                   sustitúyase la fórmula molecular por:
+
+                                        C4F10
+
+
+
+p. 181   delete/ supprimer/ suprimase   insert/ insérer/ insértese:
+         rilpivirineum                  rilpivirinum
+
+
+
+
+                                                                                                                           355
+Proposed INN: List 92                                                                 WHO Drug Information, Vol. 18, No. 4, 2004
+
+
+
+
+                                                               Annex 1
+
+         PROCEDURE FOR THE SELECTION OF RECOMMENDED INTERNATIONAL
+           NONPROPRIETARY NAMES FOR PHARMACEUTICAL SUBSTANCES*
+The following procedure shall be followed by the World Health Organization in the selection of recommended international
+nonproprietary names for pharmaceutical substances, in accordance with the World Health Assembly resolution WHA3.11:
+
+1. Proposals for recommended international nonproprietary names shall be submitted to the World Health Organization on
+the form provided therefore.
+
+2. Such proposals shall be submitted by the Director-General of the World Health Organization to the members of the
+Expert Advisory Panel on the International Pharmacopoeia and Pharmaceutical Preparations designated for this purpose,
+for consideration in accordance with the “General principles for guidance in devising International Nonproprietary Names”,
+appended to this procedure. The name used by the person discovering or first developing and marketing a pharmaceutical
+substance shall be accepted, unless there are compelling reasons to the contrary.
+
+3. Subsequent to the examination provided for in article 2, the Director-General of the World Health Organization shall give
+notice that a proposed international nonproprietary name is being considered.
+
+      A. Such notice shall be given by publication in the Chronicle of the World Health Organization1 and by letter to Member
+      States and to national pharmacopoeia commissions or other bodies designated by Member States.
+
+             (i) Notice may also be sent to specific persons known to be concerned with a name under consideration.
+
+      B. Such notice shall:
+
+             (i) set forth the name under consideration;
+
+             (ii) identify the person who submitted a proposal for naming the substance, if so requested by such person;
+
+             (iii) identify the substance for which a name is being considered;
+
+             (iv) set forth the time within which comments and objections will be received and the person and place to whom they
+                 should be directed;
+
+             (v) state the authority under which the World Health Organization is acting and refer to these rules of procedure.
+
+      C. In forwarding the notice, the Director-General of the World Health Organization shall request that Member States
+      take such steps as are necessary to prevent the acquisition of proprietary rights in the proposed name during the period
+      it is under consideration by the World Health Organization.
+
+4. Comments on the proposed name may be forwarded by any person to the World Health Organization within four months
+of the date of publication, under article 3, of the name in the Chronicle of the World Health Organization.1
+
+5. A formal objection to a proposed name may be filed by any interested person within four months of the date of
+publication, under article 3, of the name in the Chronicle of the World Health Organization.1
+
+      A. Such objection shall:
+
+       (i)          identify the person objecting;
+__________________
+* Text adopted by the Executive Board of WHO in resolution EB15.R7 (Off. Rec. Wld Health Org., 1955, 60, 3) and amended by the Board in
+resolution EB43.R9 (Off. Rec. Wld Hlth Org., 1969, 173, 10).
+1 The title of this publication was changed to WHO Chronicle in January 1959. From 1987 onwards lists of INNs are published in WHO Drug
+
+Information.
+
+
+
+
+356
+WHO Drug Information, Vol. 18, No. 4, 2004                                                                                           Proposed INN: List 92
+
+
+
+          (ii) state his interest in the name;
+
+          (iii) set forth the reasons for his objection to the name proposed.
+
+6. Where there is a formal objection under article 5, the World Health Organization may either reconsider the proposed
+name or use its good offices to attempt to obtain withdrawal of the objection. Without prejudice to the consideration by the
+World Health Organization of a substitute name or names, a name shall not be selected by the World Health Organization
+as a recommended international nonproprietary name while there exists a formal objection thereto filed under article 5 which
+has not been withdrawn.
+
+7. Where no objection has been filed under article 5, or all objections previously filed have been withdrawn, the Director-
+General of the World Health Organization shall give notice in accordance with subsection A of article 3 that the name has
+been selected by the World Health Organization as a recommended international nonproprietary name.
+
+8. In forwarding a recommended international nonproprietary name to Member States under article 7, the Director-General
+of the World Health Organization shall:
+
+A. request that it be recognized as the nonproprietary name for the substance; and
+
+B. request that Member States take such steps as are necessary to prevent the acquisition of proprietary rights in the name,
+including prohibiting registration of the name as a trade-mark or trade-name.
+
+
+
+                                                                          Annex 2
+
+            GENERAL PRINCIPLES FOR GUIDANCE IN DEVISING INTERNATIONAL
+             NONPROPRIETARY NAMES FOR PHARMACEUTICAL SUBSTANCES*
+1. International Nonproprietary Names (INN) should be distinctive in sound and spelling. They should not be inconveniently
+long and should not be liable to confusion with names in common use.
+
+2. The INN for a substance belonging to a group of pharmacologically related substances should, where appropriate, show
+this relationship. Names that are likely to convey to a patient an anatomical, physiological, pathological or therapeutic
+suggestion should be avoided.
+
+These primary principles are to be implemented by using the following secondary principles:
+
+3. In devising the INN of the first substance in a new pharmacological group, consideration should be given to the possibility
+of devising suitable INN for related substances, belonging to the new group.
+
+4. In devising INN for acids, one-word names are preferred; their salts should be named without modifying the acid name,
+e.g. ”oxacillin” and “oxacillin sodium”, “ibufenac” and “ibufenac sodium”.
+
+5. INN for substances which are used as salts should in general apply to the active base or the active acid. Names for
+different salts or esters of the same active substance should differ only in respect of the name of the inactive acid or the
+inactive base.
+
+For quaternary ammonium substances, the cation and anion should be named appropriately as separate components of a
+quaternary substance and not in the amine-salt style.
+
+
+
+__________________
+* In its twentieth report (WHO Technical Report Series, No. 581, 1975), the WHO Expert Committee on Nonproprietary Names for Pharmaceutical Substances
+reviewed the general principles for devising, and the procedures for selecting, international nonproprietary names (INN) in the light of developments in
+pharmaceutical compounds in recent years. The most significant change has been the extension to the naming of synthetic chemical substances of the practice
+previously used for substances originating in or derived from natural products. This practice involves employing a characteristic “stem” indicative of a common
+property of the members of a group. The reasons for, and the implications of, the change are fully discussed.
+
+
+
+
+                                                                                                                                                                  357
+Proposed INN: List 92                                                               WHO Drug Information, Vol. 18, No. 4, 2004
+
+
+
+
+6. The use of an isolated letter or number should be avoided; hyphenated construction is also undesirable.
+
+7. To facilitate the translation and pronunciation of INN, “f” should be used instead of “ph”, “t” instead of “th”, “e” instead of
+“ae” or “oe”, and “i” instead of “y”; the use of the letters “h” and “k” should be avoided.
+
+8. Provided that the names suggested are in accordance with these principles, names proposed by the person discovering
+or first developing and marketing a pharmaceutical preparation, or names already officially in use in any country, should
+receive preferential consideration.
+
+9. Group relationship in INN (see Guiding Principle 2) should if possible be shown by using a common stem. The following
+list contains examples of stems for groups of substances, particularly for new groups. There are many other stems in active
+use.1 Where a stem is shown without any hyphens it may be used anywhere in the name.
+
+Latin            English
+
+-acum                      -ac                     anti-inflammatory agents, ibufenac derivatives
+-adolum                    -adol }                 analgesics
+-adol-                     -adol-}
+-astum                     -ast                    anti-asthmatic, anti-allergic substances not acting primarily                   as
+                                                   antihistaminics
+-astinum                   -astine                 antihistaminics
+-azepamum                  -azepam                 diazepam derivatives
+bol                        bol                     steroids, anabolic
+-cain-                     -cain-                  class I antiarrhythmics, procainamide and lidocaine derivatives
+-cainum                    -caine                  local anaesthetics
+cef-                       cef-                    antibiotics, cefalosporanic acid derivatives
+-cillinum                  -cillin                 antibiotics, 6-aminopenicillanic acid derivatives
+-conazolum                 -conazole               systemic antifungal agents, miconazole derivatives
+cort                       cort                    corticosteroids, except prednisolone derivatives
+-coxibum                   -coxib                  selective cyclo-oxygenase inhibitors
+-entanum                   -entan                  endothelin receptor antagonists
+gab                        gab                     gabamimetic agents
+gado-                      gado-                   diagnostic agents, gadolinium derivatives
+-gatranum                  -gatran                 thrombin inhibitors, antithrombotic agents
+gest                       gest                    steroids, progestogens
+gli                        gli                     antihyperglycaemics
+io-                        io-                     iodine-containing contrast media
+-metacinum                 -metacin                anti-inflammatory, indometacin derivatives
+-mycinum                   -mycin                  antibiotics, produced by Streptomyces strains
+-nidazolum                 -nidazole               antiprotozoal substances, metronidazole derivatives
+-ololum                    -olol                   β-adrenoreceptor antagonists
+-oxacinum                  -oxacin                 antibacterial agents, nalidixic acid derivatives
+-platinum                  -platin                 antineoplastic agents, platinum derivatives
+-poetinum                  -poetin                 erythropoietin type blood factors
+-pril(at)um                -pril(at)               angiotensin-converting enzyme inhibitors
+-profenum                  -profen                 anti-inflammatory substances, ibuprofen derivatives
+prost                      prost                   prostaglandins
+-relinum                   -relin                  pituitary hormone release-stimulating peptides
+-sartanum                  -sartan                 angiotensin II receptor antagonists, antihypertensive (non-peptidic)
+-vaptanum                  -vaptan                 vasopressin receptor antagonists
+vin-                       vin- }                  vinca-type alkaloids
+-vin-                      -vin-}
+
+
+
+
+__________________
+1A more extensive listing of stems is contained in the working document WHO/EDM/QSM 2004.5 which is regularly updated and can be
+requested from the INN Programme, WHO, Geneva.
+
+
+358
+WHO Drug Information, Vol. 18, No. 4, 2004                                                                      Proposed INN: List 92
+
+
+
+                                                             Annexe 1
+
+                    PROCEDURE A SUIVRE EN VUE DU CHOIX DE
+                  DENOMINATIONS COMMUNES INTERNATIONALES
+             RECOMMANDEES POUR LES SUBSTANCES PHARMACEUTIQUES*
+L’Organisation mondiale de la Santé observe la procédure exposée ci-dessous pour l’attribution de dénominations
+communes internationales recommandées pour les substances pharmaceutiques, conformément à la résolution WHA3.11
+de l’Assemblée mondiale de la Santé:
+
+1. Les propositions de dénominations communes internationales recommandées sont soumises à l’Organisation mondiale
+de la Santé sur la formule prévue à cet effet.
+
+2. Ces propositions sont soumises par le Directeur général de l’Organisation mondiale de la Santé aux experts désignés à
+cette fin parmi les personnalités inscrites au Tableau d’experts de la Pharmacopée internationale et des Préparations
+pharmaceutiques; elles sont examinées par les experts conformément aux “Directives générales pour la formation des
+dénominations communes internationales”, reproduites ci-après. La dénomination acceptée est la dénomination employée
+par la personne qui découvre ou qui, la première, fabrique et lance sur le marché une substance pharmaceutique, à moins
+que des raisons majeures n’obligent à s’écarter de cette règle.
+
+3. Après l’examen prévu à l’article 2, le Directeur général de l’Organisation mondiale de la Santé notifie qu’un projet de
+dénomination commune internationale est à l’étude.
+
+    A. Cette notification est faite par une insertion dans la Chronique de l’Organisation mondiale de la Santé1 et par l’envoi
+    d’une lettre aux Etats Membres et aux commissions nationales de pharmacopée ou autres organismes désignés par les
+    Etats Membres.
+
+        (i) Notification peut également être faite à toute personne portant à la dénomination mise à l’étude un
+        intérêt notoire.
+
+    B. Cette notification contient les indications suivantes:
+
+        (i) dénomination mise à l’étude;
+
+        (ii) nom de l’auteur de la proposition tendant à attribuer une dénomination à la substance, si cette personne
+        le demande;
+
+        (iii) définition de la substance dont la dénomination est mise à l’étude;
+
+        (iv) délai pendant lequel seront reçues les observations et les objections à l’égard de cette dénomination;
+        nom et adresse de la personne habilitée à recevoir ces observations et objections;
+
+        (v) mention des pouvoirs en vertu desquels agit l’Organisation mondiale de la Santé et référence au présent
+        règlement.
+
+    C. En envoyant cette notification, le Directeur général de l’Organisation mondiale de la Santé demande aux Etats
+    Membres de prendre les mesures nécessaires pour prévenir l’acquisition de droits de propriété sur la dénomination
+    proposée pendant la période au cours de laquelle cette dénomination est mise à l’étude par l’Organisation mondiale de
+    la Santé.
+
+
+
+
+* Le texte reproduit ici a été adopté par le Conseil exécutif dans la résolution EB15.R7 (Actes off. Org. mond. Santé, 1955, 60, 3) qui l’a
+ultérieurement amendé par la résolution EB43.R9 (Actes off. Org. mond. Santé, 1969, 173, 10).
+
+
+
+
+                                                                                                                                      359
+Proposed INN: List 92                                                                                 WHO Drug Information, Vol. 18, No. 4, 2004
+
+
+
+
+4. Des observations sur la dénomination proposée peuvent être adressées à l’Organisation mondiale de la Santé par toute
+personne, dans les quatre mois qui suivent la date de publication de la dénomination dans la Chronique de l’Organisation
+mondiale de la Santé1 (voir l’article 3).
+
+5. Toute personne intéressée peut formuler une objection formelle contre la dénomination proposée dans les quatre mois
+qui suivent la date de publication de la dénomination dans la Chronique de l’Organisation mondiale de la Santé1 (voir
+l’article 3).
+
+    A. Cette objection doit s’accompagner des indications suivantes:
+
+          i)    nom de l’auteur de l’objection;
+
+          ii)   intérêt qu’il porte à la dénomination en cause;
+
+          iii) raisons motivant l’objection contre la dénomination proposée.
+
+6. Lorsqu’une objection formelle est formulée en vertu de l’article 5, l’Organisation mondiale de la Santé peut soit soumettre
+la dénomination proposée à un nouvel examen, soit intervenir pour tenter d’obtenir le retrait de l’objection. Sans préjudice
+de l’examen par elle d’une ou de plusieurs appellations de remplacement, l’Organisation mondiale de la Santé n’adopte pas
+d’appellation comme dénomination commune internationale recommandée tant qu’une objection formelle présentée
+conformément à l’article 5 n’est pas levée.
+
+7. Lorsqu’il n’est formulé aucune objection en vertu de l’article 5 ou que toutes les objections présentées ont été levées, le
+Directeur général de l’Organisation mondiale de la Santé fait une notification conformément aux dispositions de la sous-
+section A de l’article 3, en indiquant que la dénomination a été choisie par l’Organisation mondiale de la Santé en tant que
+dénomination commune internationale recommandée.
+
+8. En communiquant aux Etats Membres, conformément à l’article 7, une dénomination commune internationale
+recommandée, le Directeur général de l’Organisation mondiale de la Santé:
+
+      A. demande que cette dénomination soit reconnue comme dénomination commune de la substance considérée, et
+
+      B. demande aux Etats Membres de prendre les mesures nécessaires pour prévenir l’acquisition de droits de propriété
+         sur cette dénomination, notamment en interdisant le dépôt de cette dénomination comme marque ou appellation
+         commerciale.
+
+                                                                        Annexe 2
+
+            DIRECTIVES GENERALES POUR LA FORMATION DE DENOMINATIONS
+                   COMMUNES INTERNATIONALES APPLICABLES AUX
+                          SUBSTANCES PHARMACEUTIQUES*
+1. Les dénominations communes internationales (DCI) devront se distinguer les unes des autres par leur consonance et
+leur orthographe. Elles ne devront pas être d’une longueur excessive, ni prêter à confusion avec des appellations déjà
+couramment employées.
+
+2. La DCI de chaque substance devra, si possible, indiquer sa parenté pharmacologique. Les dénominations susceptibles
+d’évoquer pour les malades des considérations anatomiques, physiologiques, pathologiques ou thérapeutiques devront être
+évitées dans la mesure du possible.
+__________________
+* Dans son vingtième rapport (Série de Rapports techniques de l’OMS, No. 581, 1975), le Comité OMS d’experts des Dénominations communes pour les
+Substances pharmaceutiques a examiné les directives générales pour la formation des dénominations communes internationales et la procédure à suivre en vue de
+leur choix, compte tenu de l’évolution du secteur pharmaceutique au cours des dernières années. La modification la plus importante a été l’extension aux substances
+de synthèse de la pratique normalement suivie pour désigner les substances tirées ou dérivées de produits naturels. Cette pratique consiste à employer des syllabes
+communes ou groupes de syllabes communes (segments clés) qui sont caractéristiques et indiquent une propriété commune aux membres du groupe des
+substances pour lequel ces segments clés ont été retenus. Les raisons et les conséquences de cette modification ont fait l’objet de discussions approfondies.
+1 Depuis janvier 1959, cette publication porte le titre de Chronique OMS. A partir de 1987, les listes des DCI sont publiées dans les Informations pharmaceutiques
+OMS.
+
+
+
+360
+WHO Drug Information, Vol. 18, No. 4, 2004                                                                 Proposed INN: List 92
+
+
+
+Outre ces deux principes fondamentaux, on respectera les principes secondaires suivants:
+
+3. Lorsqu’on formera la DCI de la première substance d’un nouveau groupe pharmacologique, on tiendra compte de la
+possibilité de former ultérieurement d’autres DCI appropriées pour les substances apparentées du même groupe.
+
+4. Pour former des DCI des acides, on utilisera de préférence un seul mot. Leurs sels devront être désignés par un terme
+qui ne modifie pas le nom de l’acide d’origine: par exemple “oxacilline” et “oxacilline sodique”, “ibufénac” et “ibufénac
+sodique”.
+
+5. Les DCI pour les substances utilisées sous forme de sels devront en général s’appliquer à la base active (ou à l’acide
+actif). Les dénominations pour différents sels ou esters d’une même substance active ne différeront que par le nom de
+l’acide inactif (ou de la base inactive).
+
+En ce qui concerne les substances à base d’ammonium quaternaire, la dénomination s’appliquera de façon appropriée au
+cation et à l’anion en tant qu’éléments distincts d’une substance quaternaire. On évitera de choisir une désignation
+évoquant un sel aminé.
+
+6. On évitera d’ajouter une lettre ou un chiffre isolé; en outre, on renoncera de préférence au trait d’union.
+
+7. Pour simplifier la traduction et la prononciation des DCI, la lettre ”f” sera utilisée à la place de “ph”, “t” à la place de “th”,
+“e” à la place de “ae” ou “oe” et “i” à la place de “y”; l’usage des lettres “h” et “k” sera aussi évité.
+
+8. On retiendra de préférence, pour autant qu’elles respectent les principes énoncés ici, les dénominations proposées par
+les personnes qui ont découvert ou qui, les premières, ont fabriqué et lancé sur le marché les préparations pharma-
+ceutiques considérées, ou les dénominations déjà officiellement adoptées par un pays.
+
+9. La parenté entre substances d’un même groupe (voir Directive générale 2) sera si possible indiquée dans les DCI par
+l’emploi de segments clés communs. La liste ci-après contient des exemples de segments clés pour des groupes de
+substances, surtout pour des groupes récents. Il y a beaucoup d’autres segments clés en utilisation active.1 Les segments
+clés indiqués sans trait d’union pourront être insérés n’importe où dans une dénomination.
+
+Latin            Français
+
+-acum            -ac                           substances anti-inflammatoires dérivées de l'ibufénac
+-adolum          -adol }                       analgésiques
+-adol-           -adol – }
+-astum           -ast                          anti-asthmatiques, anti-allergiques n'agissant pas principalement en tant
+                                               qu'antihistaminiques
+-astinum         -astine                       antihistaminiques
+-azepamum        -azépam                       substances dérivées du diazépam
+bol               bol                          stéroïdes anabolisants
+-cain-           -caïn-                        antiarythmiques de classe I, dérivés de la procainamide et de la lidocaine
+-cainum          -caïne                        anesthésiques locaux
+cef-             céf-                          antibiotiques dérivés de l'acide céphalosporanique
+-cillinum        -cilline                      antibiotiques dérivés de l'acide amino-6 pénicillanique
+-conazolum       -conazole                     agents antifongiques systémiques dérivés du miconazole
+cort             cort                          corticostéroïdes autres que les dérivés de la prednisolone
+-coxibum         -coxib                        inhibiteurs sélectifs de la cyclo-oxygénase
+-entanum         -entan                        antagonistes du récepteur de l'endothéline
+gab              gab                           agents gabamimétiques
+gado-            gado-                         produits à usage diagnostique dérivés du gadolinium
+-gatranum        -gatran                       antithrombotiques
+gest             gest                          stéroïdes progestogènes
+gli              gli                           agents antihyperglycémiants
+io-              io-                           produits de contraste iodés
+
+
+__________________
+1 Une liste plus complète de segments clés est contenue dans le document de travail WHO/EDM/QSM 2004.5 qui est régulièrement mis à
+jour et qui peut être demandé auprès du Programme des DCI, OMS, Genève.
+
+
+
+
+                                                                                                                                361
+Proposed INN: List 92                                                                   WHO Drug Information, Vol. 18, No. 4, 2004
+
+
+
+
+Latin             Français
+
+-metacinum        -métacine                       substances anti-inflammatoires dérivées de l'indométacine
+-mycinum          -mycine                         antibiotiques produits par des souches de Streptomyces
+-nidazolum        -nidazole                       substances antiprotozoaires dérivées du métronidazole
+-ololum           -olol                           β-bloquants
+-oxacinum         -oxacine                        substances antibactériennes dérivées de l'acide nalidixique
+-platinum         -platin                         antinéoplasiques dérivés du platine
+-poetinum         -poetin                         facteurs sanguins du type de l'érythropoïétine
+-pril(at)um       -pril(ate)                     inhibiteurs de l'enzyme de conversion
+-profenum         -profène                        substances anti-inflammatoires dérivées de l'ibuprofène
+prost             prost                           prostaglandines
+-relinum          -réline                         peptides stimulant la libération d'hormones hypophysaires
+-sartanum         -sartan                         antagonistes du récepteur de l'angiotensine II, antihypertenseurs (non-
+                                                  peptidiques)
+-vaptanum        -vaptan                          antagonistes du récepteur de la vasopressine
+vin-             vin-    }                        alcaloïdes du type vinca
+-vin-           -vin-    }
+
+
+
+
+                                                               Anexo 1
+
+ PROCEDIMIENTO DE SELECCION DE DENOMINACIONES COMUNES INTERNACIONALES
+           RECOMENDADAS PARA LAS SUSTANCIAS FARMACEUTICAS*
+
+La Organización Mundial de la Salud seguirá el procedimiento que se expone a continuación para la selección de
+denominaciones comunes internacionales recomendadas para las sustancias farmacéuticas, de conformidad con lo
+dispuesto en la resolución WHA3.11 de la Asamblea Mundial de la Salud:
+
+1. Las propuestas de denominaciones comunes internacionales recomendadas se presentarán a la Organización Mundial
+de la Salud en los formularios que se proporcionen a estos efectos.
+
+2. Estas propuestas serán sometidas por el Director General de la Organización Mundial de la Salud a los Miembros del
+Cuadro de Expertos de la Farmacopea Internacional y las Preparaciones Farmacéuticas encargados de su estudio, para
+que las examinen de conformidad con los “Principios Generales de Orientación para formar Denominaciones Comunes
+Internacionales para Sustancias Farmacéuticas”, anexos a este Procedimiento. A menos que haya poderosas razones en
+contra, la denominación aceptada será la empleada por la persona que haya descubierto, fabricado o puesto a la venta por
+primera vez una sustancia farmacéutica.
+
+3. Una vez terminado el estudio a que se refiere el artículo 2, el Director General de la Organización Mundial de la Salud
+notificará que está en estudio un proyecto de denominación internacional.
+
+      A. Esta notificación se hará mediante una publicación en la Crónica de la Organización Mundial de la Salud1 y el envío
+         de una carta a los Estados Miembros y a las comisiones nacionales de las farmacopeas u otros organismos
+         designados por los Estados Miembros.
+
+         (i) La notificación puede enviarse también a las personas que tengan un interés especial en una denominación
+             objeto de estudio.
+
+__________________
+* El texto corregido que aquí se reproduce fue adoptado por el Consejo Ejecutivo en la resolución EB15.R7 (Act. of. Org. mund. Salud, 1955,
+
+60, 3) y enmendado por el Consejo en la resolución EB43.R9 (Act. of. Org. mund. Salud, 1969, 173, 10).
+1 Denominada Crónica de la OMS desde enero de 1959. A partir de 1987, las listas de DCI se publican en Información Farmacéutica OMS.
+
+
+
+
+362
+WHO Drug Information, Vol. 18, No. 4, 2004                                                            Proposed INN: List 92
+
+
+
+   B. En estas notificaciones se incluyen los siguientes datos:
+
+       (i) denominación sometida a estudio;
+
+       (ii) nombre de la persona que ha presentado la propuesta de denominación de la sustancia si lo pide
+            esta persona;
+
+       (iii) definición de la sustancia cuya denominación está en estudio;
+
+       (iv) plazo fijado para recibir observaciones y objeciones, así como nombre y dirección de la
+            persona a quien deban dirigirse, y
+
+       (v) mención de los poderes conferidos para el caso a la Organización Mundial de la Salud y
+           referencia al presente procedimiento.
+
+   C. Al enviar esta notificación, el Director General de la Organización Mundial de la Salud solicitará de los Estados
+      Miembros la adopción de todas las medidas necesarias para impedir la adquisición de derechos de propiedad sobre
+      la denominación propuesta, durante el periodo en que la Organización Mundial de la Salud tenga en estudio esta
+      denominación.
+
+4. Toda persona puede formular a la Organización Mundial de la Salud observaciones sobre la denominación propuesta,
+dentro de los cuatro meses siguientes a su publicación en la Crónica de la Organización Mundial de la Salud, conforme a lo
+dispuesto en el artículo 3.
+
+5. Toda persona interesada puede presentar una objeción formal contra la denominación propuesta, dentro de los cuatro
+meses siguientes a su publicación en la Crónica de la Organización Mundial de la Salud, conforme a lo dispuesto en el
+artículo 3.
+
+   A. Esta objeción deberá acompañarse de los siguientes datos:
+
+       i)   nombre de la persona que formula la objeción;
+
+       ii) causas que motivan su interés por la denominación, y
+
+       iii) causas que motivan su objeción a la denominación propuesta.
+
+6. Cuando se haya presentado una objeción formal en la forma prevista en el artículo 5, la Organización Mundial de la
+Salud puede someter a nuevo estudio la denominación propuesta, o bien utilizar sus buenos oficios para lograr que se
+retire la objeción. Sin perjuicio de que la Organización Mundial de la Salud estudie una o varias denominaciones en
+sustitución de la primitiva, ninguna denominación podrá ser seleccionada por la Organización Mundial de la Salud como
+denominación común internacional recomendada en tanto que exista una objeción formal, presentada como previene el
+artículo 5, que no haya sido retirada.
+
+7. Cuando no se haya formulado ninguna objeción en la forma prevista en el artículo 5, o cuando todas las objeciones
+presentadas hayan sido retiradas, el Director de la Organización Mundial de la Salud notificará, conforme a lo dispuesto en
+el párrafo A del artículo 3, que la denominación ha sido seleccionada por la Organización Mundial de la Salud como
+denominación común internacional recomendada.
+
+8. Al comunicar a los Estados Miembros una denominación común internacional conforme a lo previsto en el artículo 7, el
+Director General de la Organización Mundial de la Salud:
+
+   A. solicitará que esta denominación sea reconocida como denominación común para la sustancia de que se trate, y
+   B. solicitará de los Estados Miembros la adopción de todas las medidas necesarias para impedir la adquisición de
+   derechos de propiedad sobre la denominación, incluso la prohibición de registrarla como marca de fábrica o como
+   nombre comercial.
+
+
+
+
+                                                                                                                        363
+Proposed INN: List 92                                                                    WHO Drug Information, Vol. 18, No. 4, 2004
+
+
+
+
+                                                                Anexo 2
+
+        PRINCIPIOS GENERALES DE ORIENTACION PARA FORMAR DENOMINACIONES
+            COMUNES INTERNACIONALES PARA SUSTANCIAS FARMACEUTICAS*
+
+1. Las Denominaciones Comunes Internacionales (DCI) deberán diferenciarse tanto fonética como ortográficamente. No
+deberán ser incómodamente largas, ni dar lugar a confusión con denominaciones de uso común.
+
+2. La DCI de una sustancia que pertenezca a un grupo de sustancias farmacológicamente emparentadas deberá mostrar
+apropiadamente este parentesco. Deberán evitarse los nombres que puedan inducir fácilmente en el paciente sugestiones
+anatómicas, fisiológicas, patológicas o terapéuticas.
+
+Estos principios primarios deberán ser tenidos en cuenta al aplicar los siguientes principios secundarios:
+
+3. Al idear la DCI de la primera sustancia de un nuevo grupo farmacológico, deberá tenerse en cuenta la posibilidad de
+formar DCI convenientes para las sustancias emparentadas que vengan a incrementar el nuevo grupo.
+
+4. Al idear DCI para ácidos, se preferirán las de una sola palabra; sus sales deberán denominarse sin modificar el nombre
+de ácido; p. ej., “oxacilina” y “oxacilina sódica”, “ibufenaco” e “ibufenaco sódico”.
+
+5. Las DCI para las sustancias que se usan en forma de sal, deberán en general aplicarse a la base activa o,
+respectivamente, al ácido activo. Las denominaciones para diferentes sales o ésteres de la misma sustancia activa
+solamente deberán diferir en el nombre de ácido o de la base inactivos.
+
+En los compuestos de amonio cuaternario, el catión y el anión deberán denominarse adecuadamente por separado, como
+componentes independientes de una sustancia cuaternaria y no como sales de una amina.
+
+6. Deberá evitarse el empleo de una letra o un número aislados; también es indeseable el empleo de guiones.
+
+7. Para facilitar la traducción y la pronunciación se emplearán de preferencia las letras “f” en lugar de “ph”, “t” en lugar de
+“th”, “e” en lugar de “ae” u “oe” e “i” en lugar de “y”; se deberá evitar el empleo de las letras “h” y “k”.
+
+8. Siempre que las denominaciones que se sugieran estén de acuerdo con estos principios, recibirán una consideración
+preferente las denominaciones propuestas por la persona que haya descubierto la sustancia, o la que primeramente
+fabrique o ponga a la venta la sustancia farmacéutica, así como las denominaciones oficialmente adoptadas en cualquier
+país.
+
+9. En las DCI, la relación de grupo o parentesco (véanse los Principios Generales de Orientación, apartado 2) se indicará
+en lo posible utilizando una partícula común. En la lista siguiente se dan algunos ejemplos de estas partículas en relación
+con diversos grupos de sustancias, en particular los de nuevo cuño. Hay otras muchas partículas comunes en uso.1
+Cuando la partícula no lleva ningún guión, cabe utilizarla en cualquier parte de la denominación.
+
+
+
+
+__________________
+* En su 20o informe (OMS, Serie de Informes Técnicos, No. 581, 1975) el Comité de Expertos de la OMS en Denominaciones Comunes para
+Sustancias Farmacéuticas examina los principios generales de orientación para formar denominaciones comunes internacionales (DCI) y el
+procedimiento de selección de las mismas, teniendo en cuenta las novedades registradas en los últimos años en materia de preparaciones
+farmacéuticas. Entre las modificaciones, la más importante ha sido la extensión a las sustancias químicas sintéticas de la práctica reservada
+anteriormente para designar sustancias originarias o derivadas de productos naturales. Esta práctica consiste en emplear una partícula
+característica que indique una propiedad común a los miembros de un determinado grupo de sustancias. En el informe se examinan a fondo
+las razones de esta modificación y sus consecuencias.
+1 El documento de trabajo WHO/EDM/QSM 2004.5, que se pone al día regularmente, contiene una lista más extensa de partículas comunes.
+
+Las personas que deseen recibirlo deberán solicitar su envío al Programa DCI, OMS, Ginebra (Suiza).
+
+
+364
+WHO Drug Information, Vol. 18, No. 4, 2004                                                         Proposed INN: List 92
+
+
+
+
+Latin          Español
+
+-acum          -aco           antiinflamatorios derivados del ibufenaco
+-adolum        -adol )        analgésicos
+-adol-         -adol- )
+-astum         -ast           antiasmáticos, sustancias antialérgicas cuya acción principal no es la antihistamínica
+-astinum       -astina        antihistamínicos
+-azepamum      -azepam        derivados del diazepam
+bol            bol            esteroides anabolizantes
+-cain-         -caína-        antiarrítmicos de clase I, derivados de procainamida y lidocaína
+-cainum        -caína-        anestésicos locales
+cef-           cef-           antibióticos, derivados del ácido cefalosporánico
+-cillinum      - cilina       antibióticos derivados del ácido 6-aminopenicilánico
+-conazolum     -conazol       antifúngicos sistémicos derivados del miconazol
+cort           cort           corticosteroides, excepto derivados de prednisolona
+-coxibum       -coxib         inhibidores selectivos de ciclooxigenasa
+-entanum       -entán         antagonistas del receptor de endotelina
+gab            gab            gabamiméticos
+gado-          gado-          agentes para diagnóstico derivados de gadolinio
+-gartranum     -gatrán        inhibidores de la trombina antitrombóticos
+gest           gest           esteroides progestágenos
+gli            gli            hipoglucemiantes, antihiperglucémicos
+io-            io-            medios de contraste iodados
+-metacinum     -metacina      antiinflamatorios derivados de indometacina
+-mycinum       -micina        antibióticos producidos por cepas de Streptomyces
+-nidazolum     -nidazol       antiprotozoarios derivados de metronidazol
+-ololum        -olol          antagonistas de receptores β-adrenérgicos
+-oxacinum      -oxacino       antibacterianos derivados del ácido nalidíxico
+-platinum      -platino       antineoplásicos derivados del platino
+-poetinum      -poetina       factores sanguíneos similares a la eritropoyetina
+-pril(at)um    -pril(at)      inhibidores de la enzima conversora de la angiotensina
+-profenum      -profeno       antiinflamatorios derivados del ibuprofeno
+prost          prost          prostaglandinas
+-relinum       -relina        péptidos estimulantes de la liberación de hormonas hipofisarias
+-sartanum      -sartán        antihipertensivos (no peptídicos) antagonistas del receptorde angiotensina II
+-vaptanum      -vaptán        antagonistas del receptor de vasopresina
+vin-           vin-      )    alcaloides de la vinca
+-vin-          -vin-     )
+
+
+
+
+                                                                                                                       365
+

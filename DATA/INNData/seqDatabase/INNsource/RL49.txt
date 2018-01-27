@@ -1,0 +1,1731 @@
+3   WHO Drug Information, Vol. 17, No. 2, 2003                                                  Recommended INN: List 49
+
+
+
+
+    International Nonproprietary Names for
+    Pharmaceutical Substances (INN)
+
+    RECOMMENDED International Nonproprietary Names
+    (Rec. INN): List 49
+    Notice is hereby given that, in accordance with paragraph 7 of the Procedure for the Selection of Recommended
+    International Nonproprietary Names for Pharmaceutical Substances [Off. Rec. Wld Health Org., 1955, 60, 3 (Resolution
+    EB15.R7); 1969, 173, 10 (Resolution EB43.R9)], the following names are selected as Recommended International
+    Nonproprietary Names. The inclusion of a name in the lists of Recommended International Nonproprietary Names does not
+    imply any recommendation of the use of the substance in medicine or pharmacy.
+    Lists of Proposed (1–85) and Recommended (1–45) International Nonproprietary Names can be found in Cumulative
+    List No. 10, 2002 (available in CD-ROM only).
+
+
+    Dénominations communes internationales
+    des Substances pharmaceutiques (DCI)
+    Dénominations communes internationales RECOMMANDÉES
+    (DCI Rec): Liste 49
+    Il est notifié que, conformément aux dispositions du paragraphe 7 de la Procédure à suivre en vue du choix de Dénominations
+    communes internationales recommandées pour les Substances pharmaceutiques [Actes off. Org. mond. Santé, 1955, 60,
+    3 (résolution EB15.R7); 1969, 173, 10 (résolution EB43.R9)] les dénominations ci-dessous sont choisises par l’Organisation
+    mondiale de la Santé en tant que dénominations communes internationales recommandées. L’inclusion d’une dénomination
+    dans les listes de DCI recommandées n’implique aucune recommandation en vue de l’utilisation de la substance
+    correspondante en médecine ou en pharmacie.
+    On trouvera d’autres listes de Dénominations communes internationales proposées (1–85) et recommandées (1–45)
+    dans la Liste récapitulative No. 10, 2002 (disponible sur CD-ROM seulement).
+
+
+    Denominaciones Comunes Internacionales
+    para las Sustancias Farmacéuticas (DCI)
+    Denominaciones Comunes Internacionales RECOMENDADAS
+    (DCI Rec.): Lista 49
+    De conformidad con lo que dispone el párrafo 7 del Procedimiento de Selección de Denominaciones Comunes
+    Internacionales Recomendadas para las Sustancias Farmacéuticas [Act. Of. Mund. Salud, 1955, 60, 3 (Resolución
+    EB15.R7); 1969, 173, 10 (Resolución EB43.R9)], se comunica por el presente anuncio que las denominaciones que a
+    continuación se expresan han sido seleccionadas como Denominaciones Comunes Internacionales Recomendadas. La
+    inclusión de una denominación en las listas de las Denominaciones Comunes Recomendadas no supone recomendación
+    alguna en favor del empleo de la sustancia respectiva en medicina o en farmacia.
+    Las listas de Denominaciones Comunes Internacionales Propuestas (1–85) y Recomendadas (1–45) se encuentran
+    reunidas en Cumulative List No. 10, 2002 (disponible sólo en CD-ROM).
+
+
+                                                                                                                           115
+Recommended INN: List 49                                                        WHO Drug Information, Vol. 17, No. 2, 2003
+
+
+
+
+Latin, English, French, Spanish:
+Recommended INN         Chemical name or description; Molecular formula; Graphic formula
+
+DCI Recommandée       Nom chimique ou description; Formule brute; Formule développée
+
+DCI Recomendada       Nombre químico o descripción; Fórmula empírica; Fórmula desarrollada
+
+
+albaconazolum
+albaconazole                         7-chloro-3-[(1R,2R)-2-(2,4-difluorophenyl)-2-hydroxy-1-methyl-
+                                     3-(1H-1,2,4-triazol-1-yl)propyl]quinazolin-4(3H)-one
+
+albaconazole                         7-chloro-3-[(1R,2R)-2-(2,4-difluorophényl)-2-hydroxy-1-méthyl-
+                                     3-(1H-1,2,4-triazol-1-yl)propyl]quinazolin-4(3H)-one
+
+albaconazol                          7-cloro-3-[(1R,2R)-2-(2,4-difluorofenil)-2-hidroxi-1-metil-
+                                     3-(1H-1,2,4-triazol-1-il)propil]quinazolin-4(3H)-ona
+
+                                     C20H16ClF2N5O2
+                                                                        F
+
+
+                                    Cl             N       F
+                                                           HO
+                                                       N
+
+                                                   O   H CH3 N
+                                                                        N
+                                                                N
+
+
+alvimopanum
+alvimopan                            [[(2S)-2-[[(3R,4R)-4-(3-hydroxyphenyl)-3,4-dimethylpiperidin-1-yl]methyl]-
+                                     3-phenylpropanoyl]amino]acetic acid
+
+alvimopan                            acide [[(2S)-2-[[(3R,4R)-4-(3-hydroxyphényl)-3,4-diméthylpipéridin-
+                                     1-yl]méthyl]-3-phénylpropanoyl]amino]acétique
+
+alvimopán                            ácido [[(2S)-3-fenil-2-[[(3R,4R)-4-(3-hidroxifenil)-3,4-dimetilpiperidin-
+                                     1-il]metil]propanoil]amino]acético
+
+                                     C25H32N2O4
+                                                                    O
+
+                                                           N                N   CO2H
+                                                                    H       H
+
+                                             H3C
+                                                   H CH3
+                                    HO
+
+
+
+
+116
+3   WHO Drug Information, Vol. 17, No. 2, 2003                                               Recommended INN: List 49
+
+
+
+
+    apaziquonum
+    apaziquone                           5-(aziridin-1-yl)-3-(hydroxymethyl)-2-[(1E)-3-hydroxyprop-1-enyl]-
+                                         1-methyl-1H-indole-4,7-dione
+
+    apaziquone                           5-(aziridin-1-yl)-3-(hydroxyméthyl)-2-[(1E)-3-hydroxyprop-1-ényl]-
+                                         1-méthyl-1H-indole-4,7-dione
+
+    apazicuona                           5-(aziridin-1-il)-3-(hidroximetil)-2-[(1E)-3-hidroxiprop-1-enil]-1-metil-
+                                         1H-indol-4,7-diona
+
+                                         C15H16N2O4
+
+                                                  O       CH3        OH
+                                                         N
+
+
+                                             N
+                                                  O          OH
+
+
+
+
+    apolizumabum
+    apolizumab                           immunoglobulin G1, anti-(human histocompatibility antigen HLA-DR) (human-
+                                         mouse monoclonal Hu1 D10 γ1-chain), disulfide with human-mouse
+                                         monoclonal Hu1D 10 light chain, dimer
+
+    apolizumab                           immunoglobuline G1, anti-(antigène d’histocompatibilité HLA-DR humain)
+                                         (chaîne γ1 de l’anticorps monoclonal de souris Hu1D 10 humanisé), dimère
+                                         du disulfure avec la chaîne légère de l’anticorps monoclonal de souris
+                                         Hu1D 10 humanisé
+
+    apolizumab                           inmunoglobulina G1, anti-(antígeno de histocompatibilidad HLA-DR humano)
+                                         (cadena γ1 del anticuerpo monoclonal humanizado de ratón Hu1D10),
+                                         dímero del disulfuro con la cadena ligera del anticuerpo monoclonal
+                                         humanizado de ratón Hu1D10
+
+
+
+
+    asenapinum
+    asenapine                            (3aRS,12bRS)-5-chloro-2-methyl-2,3,3a,12b-tetrahydro-
+                                         1H-dibenzo[2,3:6,7]oxepino[4,5-c]pyrrole
+
+    asénapine                            (3aRS,12bRS)-5-chloro-2-méthyl-2,3,3a,12b-tétrahydro-
+                                         1H-dibenzo[2,3:6,7]oxépino[4,5-c]pyrrole
+
+    asenapina                            (3aRS,12bRS)-5-cloro-2-metil-2,3,3a,12b-tetrahidro-
+                                         1H-dibenzo[2,3:6,7]oxepino[4,5-c]pirrol
+
+
+
+
+                                                                                                                     117
+Recommended INN: List 49                                                  WHO Drug Information, Vol. 17, No. 2, 2003
+
+
+
+
+                           C17H16ClNO
+
+
+                                                  CH 3
+                                     H       N
+                                                          and enantiomer
+                                                          et énantiomère
+                                             H
+                                 O                        y enantiómero
+
+
+                                                  Cl
+
+
+
+axomadolum
+axomadol                   (1RS,3RS,6RS)-6-[(dimethylamino)methyl]-
+                           1-(3-methoxyphenyl)cyclohexane-1,3-diol
+
+axomadol                   (1RS,3RS,6RS)-6-[(diméthylamino)méthyl]-
+                           1-(3-méthoxyphényl)cyclohexane-1,3-diol
+
+axomadol                   (1RS,3RS,6RS)-6-[(dimetilamino)metil]-
+                           1-(3-metoxifenil)ciclohexano-1,3-diol
+
+                           C26H25NO3
+
+
+                                         CH3
+                                         N
+                                                 CH3
+                                     H
+                                                         and enantiomer
+                                HO
+                                                         et énantiomère
+                                                         y enantiómero
+                                                 H
+                                         OH
+                             OCH3
+
+
+
+
+bifeprunoxum
+bifeprunox                 7-[4-(biphenyl-3-ylmethyl)piperazin-1-yl]benzoxazol-2(3H)-one
+
+biféprunox                 7-[4-(biphényl-3-ylméthyl)pipérazin-1-yl]benzoxazol-2(3H)-one
+
+bifeprunox                 7-[4-(bifenil-3-ilmetil)piperazin-1-il]benzoxazol-2(3H)-ona
+
+                           C24H23N3O2
+
+
+
+
+                           HN            N
+                                 O                   N
+                            O
+
+
+
+
+118
+3   WHO Drug Information, Vol. 17, No. 2, 2003                                                  Recommended INN: List 49
+
+
+
+
+    canertinibum
+    canertinib                           N-[4-[(3-chloro-4-fluorophenyl)amino]-7-[3-(morpholin-
+                                         4-yl)propoxy]quinazolin-6-yl]prop-2-enamide
+
+    canertinib                           N-[4-[(3-chloro-4-fluorophényl)amino]-7-[3-(morpholin-
+                                         4-yl)propoxy]quinazolin-6-yl]prop-2-énamide
+
+    canertinib                           N-[4-[(3-cloro-4-fluorofenil)amino]-7-[3-(morfolin-4-il)propoxi]quinazolin-
+                                         6-il]prop-2-enamida
+
+                                         C24H25ClFN5O3
+
+
+                                                      O                 N
+
+                                            N                               N
+                                                     HN
+                                                                      HN               Cl
+                                            O             O
+                                                 CH2
+                                                                                       F
+
+
+
+
+    cefovecinum
+    cefovecin                            (6R,7R)-7-[[(2Z)-(2-aminothiazol-4-yl)(methoxyimino)acetyl]amino]-8-oxo-
+                                         3-[(2S)-tetrahydrofuran-2-yl)-5-thia-1-azabicyclo[4.2.0]oct-2-ene-
+                                         2-carboxylic acid
+
+    céfovécine                           acide (6R,7R)-7-[[(2Z)-(2-aminothiazol-4-yl)(méthoxyimino)acétyl]amino]-
+                                         8-oxo-3-[(2S)-tétrahydrofuran-2-yl)-5-thia-1-azabicyclo[4.2.0]oct-2-ène-
+                                         2-carboxylique
+
+    cefovecina                           ácido (6R,7R)-7-[[(2Z)-(2-aminotiazol-4-il)(metoxiimino)acetil]amino]-8-oxo-
+                                         3-[(2S)-tetrahidrofuran-2-il)-5-tia-1-azabiciclo[4.2.0]oct-2-eno-2-carboxílico
+
+                                         C17H19N5O6S2
+
+
+                                                              CH3               CO2H
+                                                              O     O
+                                                          N                 N               O
+                                                                  H                    H
+                                                 N                N
+                                          H2N                                   S
+                                                                        H   H
+                                                 S            O
+
+
+
+
+                                                                                                                       119
+Recommended INN: List 49                                                WHO Drug Information, Vol. 17, No. 2, 2003
+
+
+
+
+cethromycinum
+cethromycin                (3aS,4R,7R,9R,10R,11R,13R,15R,15aR)-4-ethyl-3a,7,9,11,13,15-
+                           hexamethyl-11-[[3-(quinolin-3-yl)prop-2-enyl]oxy]-10-[[3,4,6-trideoxy-
+                           3-(dimethylamino)-β-D -xylo-hexopyranosyl]oxy]octahydro-
+                           2H-oxacyclotetradecino[4,3-d]oxazole-2,6,8,14(1H,7H,9H)-tetrone
+
+céthromycine               (3aS,4R,7R,9R,10R,11R,13R,15R,15aR)-4-éthyl-3a,7,9,11,13,15-
+                           hexaméthyl-11-[[3-(quinoléin-3-yl)prop-2-ényl]oxy]-10-[[3,4,6-tridésoxy-
+                           3-(diméthylamino)-β-D -xylo-hexopyranosyl]oxy]octahydro-
+                           2H-oxacyclotétradécino[4,3-d]oxazole-2,6,8,14(1H,7H,9H)-tétrone
+
+cetromicina                (3aS,4R,7R,9R,10R,11R,13R,15R,15aR)-4-etil-3a,7,9,11,13,15-hexametil-
+                           11-[[3-(quinolein-3-il)prop-2-enil]oxi]-10-[[3,4,6-tridesoxi-3-(dimetilamino)-
+                           β-D -xilo-hexopiranosil]oxi]octahidro-2H-oxaciclotetradecino[4,3-d]oxazol-
+                           2,6,8,14(1H,7H,9H)-tetrona
+
+                           C42H59N3O10
+
+
+                                    N                              O
+                                                              H         CH3
+                                                        H3C
+                                                                            H
+                                                                             CH3
+                                                     O             H
+                                                                              O
+                                          CH3      H 3C            HN
+                                                                   H
+                                                O O                  O              O
+                                    H3C       CH3   H             CH3 H
+                                          N                                     CH 3
+                                                          O                 O
+                                                                  H CH3
+                                                   OH
+
+
+dabigatranum etexilatum
+dabigatran etexilate       ethyl 3-[[[2-[[[4-[[[(hexyloxy)carbonyl]amino]iminomethyl]phenyl]amino]=
+                           methyl]-1-methyl-1H-benzimidazol-5-yl]carbonyl](pyridin-
+                           2-yl)amino]propanoate
+
+dabigatran étexilate       3-[[[2-[[[4-[[[(hexyloxy)carbonyl]amino]iminométhyl]phényl]amino]méthyl]-
+                           1-méthyl-1H-benzimidazol-5-yl]carbonyl](pyridin-2-yl)amino]propanoate
+                           d’éthyle
+
+dabigatrán etexilato       3-[[[2-[[[4-[[[(hexiloxi)carbonil]amino]iminometil]fenil]amino]metil]-1-metil-
+                           1H-bencimidazol-5-il]carbonil](piridin-2-il)amino]propanoato de etilo
+
+                           C34H41N7O5
+
+
+                             O                      CH3
+                                   O
+                             N                                          O               O
+                                              NH          N
+                                                                            N               O   CH 3
+                           H2N
+                                                          N             N
+                                                   H3C
+
+
+
+
+120
+3   WHO Drug Information, Vol. 17, No. 2, 2003                                              Recommended INN: List 49
+
+
+
+
+    ecromeximabum
+    ecromeximab                          immunoglobulin G1, anti-(GD3 ganglioside) (human-mouse monoclonal
+                                         KM871 γ1-chain), disulfide with human-mouse monoclonal KM871 κ−chain,
+                                         dimer
+
+    écromeximab                          immunoglobuline G1, anti-(ganglioside GD3) (chaîne γ1 de l’anticorps
+                                         monoclonal chimérique homme-souris KM871), dimère du disulfure avec la
+                                         chaîne κ de l’anticorps monoclonal chimérique homme-souris KM871
+
+    ecromeximab                          inmunoglobulina G1, anti-(gangliósido GD3) (cadena γ1 del anticuerpo
+                                         monoclonal quimérico hombre-atón KM871), dímero del disulfuro con la
+                                         cadena κ del anticuerpo monoclonal quimérico hombre-ratón KM871
+
+
+
+
+    eculizumabum
+    eculizumab                           immunoglobulin, anti-(human complement C5 α-chain) (human-mouse
+                                         monoclonal 5G1.1 heavy chain), disulfide with human-mouse monoclonal
+                                         5G1.1 light chain, dimer
+
+    éculizumab                           immunoglobuline, anti-(chaîne α du complément C5 humain) (chaîne lourde
+                                         de l’anticorps monoclonal de souris 5G1.1 humanisé), dimère du disulfure
+                                         avec la chaîne légère de l’anticorps monoclonal de souris 5G1.1 humanisé
+
+    eculizumab                           inmunoglobulina, anti-(cadena α del complemento C5 humano) (cadena
+                                         pesada del anticuerpo monoclonal humanizado de ratón 5G1.1), dímero del
+                                         disulfuro con la cadena ligera del anticuerpo monoclonal humanizado de
+                                         ratón 5G1.1
+
+
+
+
+    elzasonanum
+    elzasonan                            (2Z)-4-(3,4-dichlorophenyl)-2-[2-(4-methylpiperazin-
+                                         1-yl)benzylidene]thiomorpholin-3-one
+
+    elzasonan                            (2Z)-4-(3,4-dichlorophényl)-2-[2-(4-méthylpipérazin-
+                                         1-yl)benzylidène]thiomorpholin-3-one
+
+    elzasonán                            (2Z)-4-(3,4-diclorofenil)-2-[2-(4-metilpiperazin-1-il)bencilideno]tiomorfolin-
+                                         3-ona
+
+                                         C22H23Cl2N3OS
+
+
+                                            CH3
+                                            N
+                                                                 Cl
+                                                                       Cl
+                                            N            O
+
+                                                             N
+                                                     S
+
+
+
+
+                                                                                                                          121
+Recommended INN: List 49                                                WHO Drug Information, Vol. 17, No. 2, 2003
+
+
+
+
+enecadinum
+enecadin                   4-(4-fluorophenyl)-2-methyl-6-[[5-(piperidin-1-yl)pentyl]oxy]pyrimidine
+
+énécadine                  4-(4-fluorophényl)-2-méthyl-6-[[5-(pipéridin-1-yl)pentyl]oxy]pyrimidine
+
+enecadina                  4-(4-fluorofenil)-2-metil-6-[[5-(piperidin-1-il)pentil]oxi]pirimidina
+
+                           C21H28FN3O
+
+                                                                 CH3
+
+                                                             N     N
+
+                                  N                      O
+
+                                                                               F
+
+ertiprotafibum
+ertiprotafib               (2R)-2-[4-(9-bromo-2,3-dimethylnaphtho[2,3-b]thiophen-4-yl)-
+                           2,6-dimethylphenoxy]-3-phenylpropanoic acid
+
+ertiprotafib               acide (2R)-2-[4-(9-bromo-2,3-diméthylnaphto[2,3-b]thiophén-4-yl)-
+                           2,6-diméthylphénoxy]-3-phénylpropanoïque
+
+ertiprotafib               ácido (2R)-2-[4-(9-bromo-2,3-dimetilnafto[2,3-b]tiofen-4-il)-
+                           2,6-dimetilfenoxi]-3-fenilpropanoico
+
+                           C31H27BrO3S
+
+                                                 CH 3
+                           H3C        CH3                O       CO2H
+
+                              S                           H
+                                                         CH3
+
+                            Br
+
+
+
+
+eszopiclonum
+eszopiclone                (5S)-6-(5-chloropyridin-2-yl)-7-oxo-6,7-dihydro-5H-pyrrolo[3,4-b]pyrazin-
+                           5-yl-4-methylpiperazine-1-carboxylate
+
+eszopiclone                4-méthylpipérazine-1-carboxylate de (5S)-6-(5-chloropyridin-2-yl)-7-oxo-
+                           6,7-dihydro-5H-pyrrolo[3,4-b]pyrazin-5-yle
+
+eszopiclona                4-metilpiperazina-1-carboxilato de (5S)-6-(5-cloropiridin-2-il)-7-oxo-
+                           6,7-dihidro-5H-pirrolo[3,4-b]pirazin-5-ilo
+
+                           C17H17ClN6O3
+
+                                             O
+                                                                   Cl
+                                        N        O
+                                             H
+                                  N
+                           H3C                       N       N
+                                         N
+
+                                                         O
+                                             N
+
+
+
+
+122
+3   WHO Drug Information, Vol. 17, No. 2, 2003                                               Recommended INN: List 49
+
+
+
+
+    fandosentanum
+    fandosentan                          4-(7-ethyl-1,3-benzodioxol-5-yl)-2-[2-(trifluoromethyl)phenyl]-
+                                         2H-1,2-benzothiazine-3-carboxylic acid 1,1-dioxide
+
+    fandosentan                          1,1-dioxyde de l’acide 4-(7-éthyl-1,3-benzodioxol-5-yl)-
+                                         2-[2-(trifluorométhyl)phényl]-2H-1,2-benzothiazine-3-carboxylique
+
+    fandosentán                          1,1-dióxido del ácido 4-(7-etil-1,3-benzodioxol-5-il)-2-[2-(trifluorometil)fenil]-
+                                         2H-1,2-benzotiazina-3-carboxílico
+
+                                         C25H18F3NO6S
+
+                                                                      CH3
+
+                                                                           O
+                                                           CO2H
+
+                                                       N                   O
+
+                                          F 3C O       S
+                                                   O
+
+
+
+
+    fontolizumabum
+    fontolizumab                         immunoglobulin G1, anti-(human interferon γ) (human-mouse monoclonal
+                                         HuZAF γ1-chain), disulfide with human-mouse monoclonal HuZAF light
+                                         chain, dimer
+
+    fontolizumab                         immunoglobuline G1, anti-(interféron γ humain) (chaîne γ1 de l’anticorps
+                                         monoclonal de souris HuZAF humanisé), dimère du disulfure avec la
+                                         chaîne légère de l’anticorps monoclonal de souris HuZAF humanisé
+
+    fontolizumab                         inmunoglobulina G1, anti-(interferón γ humano) (cadena γ1 del anticuerpo
+                                         monoclonal humanizado de ratón HuZAF), dímero del disulfuro con la
+                                         cadena ligera del anticuerpo monoclonal humanizado de ratón HuZAF
+
+
+
+    garenoxacinum
+    garenoxacin                          1-cyclopropyl-8-(difluoromethoxy)-7-[(1R)-1-methyl-2,3-dihydro-
+                                         1H-isoindol-5-yl]-4-oxo-1,4-dihydroquinoline-3-carboxylic acid
+
+    garénoxacine                         acide 1-cyclopropyl-8-(difluorométhoxy)-7-[(1R)-1-méthyl-2,3-dihydro-
+                                         1H-isoindol-5-yl]-4-oxo-1,4-dihydroquinoléine-3-carboxylique
+
+    garenoxacina                         ácido 1-ciclopropil-8-(difluorometoxi)-7-[(1R)-1-metil-2,3-dihidro-
+                                         1H-isoindol-5-il]-4-oxo-1,4-dihidroquinolina-3-carboxílico
+
+                                         C23H20F2N2O4
+
+                                                 HN
+                                           H               F2HC
+                                                                  O
+                                          H3C
+                                                                       N
+
+
+                                                                               CO2H
+                                                                       O
+
+
+
+                                                                                                                        123
+Recommended INN: List 49                                                            WHO Drug Information, Vol. 17, No. 2, 2003
+
+
+
+
+inecalcitolum
+inecalcitol                (7E)-19-nor-9,10-seco-14β-cholesta-5,7-dien-23-yne-1α,3β,25-triol
+
+inécalcitol                (7E)-19-nor-9,10-séco-14β-cholesta-5,7-dién-23-yne-1α,3β,25-triol
+
+inecalcitol                (7E)-19-nor-9,10-seco-14β-colesta-5,7-dien-23-ino-1α,3β,25-triol
+
+                           C26H40O3
+
+                                                H3C H
+                                                CH3
+                                                             H
+                                                                            OH
+                                                                             CH 3
+                                                                     H3C
+                                                H
+
+
+
+
+                           HO                   OH
+                                H           H
+
+iroxanadinum
+iroxanadine                (-)-5-(piperidin-1-ylmethyl)-3-(pyridin-3-yl)-5,6-dihydro-2H-1,2,4-oxadiazine
+
+iroxanadine                (-)-5-(pipéridin-1-ylméthyl)-3-(pyridin-3-yl)-5,6-dihydro-2H-1,2,4-oxadiazine
+
+iroxanadina                (-)-5-(piperidin-1-ilmetil)-3-(piridin-3-il)-5,6-dihidro-2H-1,2,4-oxadiazina
+
+                           C14H20N4O
+
+
+                                                O
+                                                        NH
+                                                                           or enantiomer
+                                    N                                      ou énantiomère
+                                                N
+                                            H                              o enantiómero
+                                                                 N
+
+
+
+lidorestatum
+lidorestat                 [3-[(4,5,7-trifluorobenzothiazol-2-yl)methyl]-1H-indol-1-yl]acetic acid
+
+lidorestat                 acide [3-[(4,5,7-trifluorobenzothiazol-2-yl)méthyl]-1H-indol-1-yl]acétique
+
+lidorestat                 ácido [3-[(4,5,7-trifluorobenzotiazol-2-il)metil]-1H-indol-1-il]acético
+
+                           C18H11F3N2O2S
+
+
+                                                CO2H
+                                        N
+
+                                                                 F
+                                                    N
+                                                                       F
+                                                 S
+
+                                                         F
+
+
+124
+3   WHO Drug Information, Vol. 17, No. 2, 2003                                                              Recommended INN: List 49
+
+
+
+
+    liraglutidum
+    liraglutide                          N26 -(hexadecanoyl-γ-glutamyle)-[34-arginine]GLP-1-(7-37)-peptide
+
+    liraglutide                          N26 -(hexadécanoyl-γ-glutamyle)-[34-arginine]GLP-1-(7-37)-peptide
+
+    liraglutida                          N26-(hexadecanoil-γ-glutamilo)-[34-arginina]GLP-1-(7-37)-péptido
+
+                                         C172H265N43O51
+
+
+                                          H    His        Ala     Glu     Gly    Thr    Phe    Thr    Ser   Asp    Val   Ser
+                                                  7                        10
+
+                                           H3C
+                                                                                                            Glu OH
+                                                                                                        O
+                                               Ser        Tyr      Leu     Glu   Gly     Gln    Ala   Ala Lys     Glu    Phe
+                                                                   20
+                                               Ile        Ala     Trp     Leu    Val    Arg    Gly    Arg   Gly   OH
+                                                          30                                                37
+
+
+
+
+    lubiprostonum
+    lubiprostone                         (-)-7-[(2R,4aR,5R,7aR)-2-(1,1-difluoropentyl)-2-hydroxy-
+                                         6-oxooctahydrocyclopenta[b]pyran-5-yl]heptanoic acid
+
+    lubiprostone                         (-)-acide 7-[(2R,4aR,5R,7aR)-2-(1,1-difluoropentyl)-2-hydroxy-
+                                         6-oxooctahydrocyclopenta[b]pyran-5-yl]heptanoïque
+
+    lubiprostona                         (-)-ácido 7-[(2R,4aR,5R,7aR)-2-(1,1-difluoropentil)-2-hidroxi-
+                                         6-oxooctahidrociclopenta[b]piran-5-il]heptanoico
+
+                                         C20H32F2O5
+
+
+                                              O       H
+                                                                                 CO2H
+
+                                                              H
+                                          H
+                                              O
+
+                                          HO
+                                                  F       F              CH3
+
+
+
+
+    lumiracoxibum
+    lumiracoxib                          [2-[(2-chloro-6-fluorophenyl)amino]-5-methylphenyl]acetic acid
+
+    lumiracoxib                          acide [2-[(2-chloro-6-fluorophényl)amino]-5-méthylphényl]acétique
+
+    lumiracoxib                          ácido [2-[(2-cloro-6-fluorofenil)amino]-5-metilfenil]acético
+
+
+
+
+                                                                                                                                125
+Recommended INN: List 49                                                  WHO Drug Information, Vol. 17, No. 2, 2003
+
+
+
+
+                           C15H13ClFNO2
+
+
+                           H3C
+                                             CO2H
+
+                                            NH
+                                   F                 Cl
+
+
+
+
+merimepodibum
+merimepodib                (3S)-tetrahydrofuran-3-yl [3-[[[3-methoxy-4-(oxazol-
+                           5-yl)phenyl]carbamoyl]amino]benzyl]carbamate
+
+mérimépodib                [3-[[[3-méthoxy-4-(oxazol-5-yl)phényl]carbamoyl]amino]benzyl]carbamate
+                           de (3S)-tétrahydrofuran-3-yle
+
+merimepodib                [3-[[[3-metoxi-4-(oxazol-5-il)fenil]carbamoil]amino]bencil]carbamato de
+                           (3S)-tetrahidrofuran-3-ilo
+
+                           C23H24N4O6
+
+
+                            N
+
+                             O                       O
+                                                                           H
+                                                                           N       O
+                            H3CO                 N        N
+                                                 H        H                        H       O
+                                                                               O
+
+
+
+mozavaptanum
+mozavaptan                 N-[4-[[(5RS)-5-(dimethylamino)-2,3,4,5-tetrahydro-1H-1-benzazepin-
+                           1-yl]carbonyl]phenyl]-2-methylbenzamide
+
+mozavaptan                 N-[4-[[(5RS)-5-(diméthylamino)-2,3,4,5-tétrahydro-1H-1-benzazépin-
+                           1-yl]carbonyl]phényl]-2-méthylbenzamide
+
+mozavaptán                 N-[4-[[(5RS)-5-(dimetilamino)-2,3,4,5-tetrahidro-1H-1-benzazepin-
+                           1-il]carbonil]fenil]-2-metilbenzamida
+
+                           C27H29N3O2
+
+                                                          O
+
+                                   O                          N                    and enantiomer
+                                                                                   et énantiomère
+                                        N                                  CH3     y enantiómero
+                                        H                             N
+                                                                  H
+                                   CH3                                CH 3
+
+
+
+
+126
+3   WHO Drug Information, Vol. 17, No. 2, 2003                                                   Recommended INN: List 49
+
+
+
+
+    nalfurafinum
+    nalfurafine                          (E)-N-[17-(cyclopropylmethyl)-4,5α-epoxy-3,14-dihydroxymorphinan-6β-yl]-
+                                         3-(furan-3-yl)-N-methylprop-2-enamide
+
+    nalfurafine                          (E)-N-[17-(cyclopropylméthyl)-4,5α-époxy-3,14-dihydroxymorphinan-6β-yl]-
+                                         3-(furan-3-yl)-N-méthylprop-2-énamide
+
+    nalfurafina                          (E)-N-[17-(ciclopropilmetil)-4,5α-epoxi-3,14-dihidroximorfinan-6β-il]-
+                                         3-(furan-3-il)-N-metilprop-2-enamida
+
+                                         C28H32N2O5
+
+
+
+                                                    H     N
+
+                                                    HO
+                                                                       O
+
+                                                      O            N
+                                          HO              H H
+                                                                   CH3             O
+
+
+    naminidilum
+    naminidil                            N-cyano-N’-(4-cyanophenyl)-N’’-[(1R)-1,2,2-trimethylpropyl]guanidine
+
+    naminidil                            N-cyano-N’-(4-cyanophényl)-N’’-[(1R)-1,2,2-triméthylpropyl]guanidine
+
+    naminidil                            N-ciano-N’-(4-cianofenil)-N’’-[(1R)-1,2,2-trimetilpropil]guanidina
+
+                                         C15H19N5
+
+
+                                                              CN
+                                          NC
+                                                              N    H CH3
+                                                                            CH 3
+                                                          N        N
+                                                          H        HH C    CH 3
+                                                                     3
+
+
+
+    nemifitidum
+    nemifitide                           4-fluoro- L -phenylalanyl-trans-4-hydroxy- L -prolyl- L -arginylglycyl-
+                                         L -tryptophanamide
+
+
+    némifitide                           (4-fluoro- L -phénylalanyl)-(trans-4-hydroxy-L -prolyl)- L -arginyl-glycyl-
+                                         L -tryptophanamide
+
+
+    nemifitida                           (4-fluoro- L-fenilalanil)-(trans-4-hidroxi-L -prolil)- L-arginilglicil- L-triptofanamida
+
+
+
+
+                                                                                                                              127
+Recommended INN: List 49                                                          WHO Drug Information, Vol. 17, No. 2, 2003
+
+
+
+
+                           C33H43FN10O6
+
+
+                                                                    NH2
+                                                       HN
+                                                                    NH                     NH
+
+
+                                                  O            H              O        H
+                                     O                               H
+                                             H
+                                                                     N                      NH2
+                           H2N                         N                           N
+                                         N
+                                                       H                           H
+                                 H                             O                        O
+
+                                                  OH
+                                             H
+
+
+                           F
+
+
+
+
+nortopixantronum
+nortopixantrone            2-[2-[(2-hydroxyethyl)amino]ethyl]-
+                           5-[[2-(methylamino)ethyl]amino]indazolo[4,3-gh]isoquinolin-6(2H)-one
+
+nortopixantrone            2-[2-[(2-hydroxyéthyl)amino]éthyl]-
+                           5-[[2-(méthylamino)éthyl]amino]indazolo[4,3-gh]isoquinoléin-6(2H)-one
+
+nortopixantrona            2-[2-[(2-hidroxietil)amino]etil]-
+                           5-[[2-(metilamino)etil]amino]indazolo[4,3-gh]isoquinolin-6(2H)-ona
+
+                           C20H24N6O2
+
+
+                                                           H
+                                                           N
+                                         N N                             OH
+
+                           N
+
+
+
+                                     O       HN                    CH3
+                                                           N
+                                                           H
+
+
+
+
+128
+3   WHO Drug Information, Vol. 17, No. 2, 2003                                                 Recommended INN: List 49
+
+
+
+
+    oblimersenum
+    oblimersen                           P-thiothymidylyl-(3'→5')-2'-deoxy-P-thiocytidylyl-(3'→5')-P-thiothymidylyl-
+                                         (3'→5')-2'-deoxy-P-thiocytidylyl-(3'→5')-2'-deoxy-P-thiocytidylyl-(3'→5')-
+                                         2'-deoxy-P-thiocytidylyl-(3'→5')-2'-deoxy-P-thioadenylyl-(3'→5')-2'-deoxy-
+                                         P-thioguanylyl-(3'→5')-2'-deoxy-P-thiocytidylyl-(3'→5')-2'-deoxy-
+                                         P-thioguanylyl-(3'→5')-P-thiothymidylyl-(3'→5')-2'-deoxy-P-thioguanylyl-
+                                         (3'→5')-2'-deoxy-P-thiocytidylyl-(3'→5')-2'-deoxy-P-thioguanylyl-(3'→5')-
+                                         2'-deoxy-P-thiocytidylyl-(3'→5')-2'-deoxy-P-thiocytidylyl-(3'→5')-2'-deoxy-
+                                         P-thioadenylyl-(3'→5')-thymidine
+
+    oblimersen                           P-thiothymidylyl-(3'→5')-2'-désoxy-P-thiocytidylyl-(3'→5')-P-thiothymidylyl-
+                                         (3'→5')-2'-désoxy-P-thiocytidylyl-(3'→5')-2'-désoxy-P-thiocytidylyl-(3'→5')-
+                                         2'-désoxy-P-thiocytidylyl-(3'→5')-2'-désoxy-P-thioadénylyl-(3'→5')-
+                                         2'-désoxy-P-thioguanylyl-(3'→5')-2'-désoxy-P-thiocytidylyl-(3'→5')-
+                                         2'-désoxy-P-thioguanylyl-(3'→5')-P-thiothymidylyl-(3'→5')-2'-désoxy-
+                                         P-thioguanylyl-(3'→5')-2'-désoxy-P-thiocytidylyl-(3'→5')-2'-désoxy-
+                                         P-thioguanylyl-(3'→5')-2'-désoxy-P-thiocytidylyl-(3'→5')-2'-désoxy-
+                                         P-thiocytidylyl-(3'→5')-2'-désoxy-P-thioadénylyl-(3'→5')-thymidine
+
+    oblimerseno                          P-tiotimidilil-(3'→5')-2'-desoxi-P-tiocitidilil-(3'→5')-P-tiotimidilil-(3'→5')-
+                                         2'-desoxi-P-tiocitidilil-(3'→5')-2'-desoxi-P-tiocitidilil-(3'→5')-2'-desoxi-
+                                         P-tiocitidilil-(3'→5')-2'-desoxi-P-tioadenilil-(3'→5')-2'-desoxi-P-tioguanilil-
+                                         (3'→5')-2'-desoxi-P-tiocitidilil-(3'→5')-2'-desoxi-P-tioguanilil-(3'→5')-
+                                         P-tiotimidilil-(3'→5')-2'-desoxi-P-tioguanilil-(3'→5')-2'-desoxi-P-tiocitidilil-
+                                         (3'→5')-2'-desoxi-P-tioguanilil-(3'→5')-2'-desoxi-P-tiocitidilil-(3'→5')-
+                                         2'-desoxi-P-tiocitidilil-(3'→5')-2'-desoxi-P-tioadenilil-(3'→5')-timidina
+
+                                         C172H221N62O91P17S17
+
+
+
+
+    ortataxelum
+    ortataxel                            (3aS,4R,5E,7R,8aS,9S,10aR,12aS,12bR,13S,13aS)-7,12a-bis(acetyloxy)-
+                                         13-(benzoyloxy)-9-hydroxy-5,8a,14,14-tetramethyl-2,8-dioxo-
+                                         3a,4,7,8,8a,9,10,10a,12,12a,12b,13-dodecahydro-6,13a-methano-
+                                         13aH-oxeto[2'’,3'’:5',6']benzo[1',2':4,5]cyclodeca[1,2-d]-1,3-dioxol-4-yl
+                                         (2R,3S)-3-[[(1,1-dimethylethoxy)carbonyl]amino]-2-hydroxy-
+                                         5-methylhexanoate
+
+    ortataxel                            (2R,3S)-3-[[(1,1-diméthyléthoxy)carbonyl]amino]-2-hydroxy-
+                                         5-méthylhexanoate de (3aS,4R,5E,7R,8aS,9S,10aR,12aS,12bR,13S,13aS)-
+                                         7,12a-bis(acétyloxy)-13-(benzoyloxy)-9-hydroxy-5,8a,14,14-tétraméthyl-
+                                         2,8-dioxo-3a,4,7,8,8a,9,10,10a,12,12a,12b,13-dodécahydro-
+                                         6,13a-méthano-13aH-oxéto[2'’,3'’:5',6']benzo[1',2':4,5]cyclodéca[1,2-d]-
+                                         1,3-dioxol-4-yle
+
+    ortataxel                            (2R,3S)-3-[[(1,1-dimetiletoxi)carbonil]amino]-2-hidroxi-5-metilhexanoato de
+                                         (3aS,4R,5E,7R,8aS,9S,10aR,12aS,12bR,13S,13aS)-7,12a-bis(acetiloxi)-
+                                         13-(benzoiloxi)-9-hidroxi-5,8a,14,14-tetrametil-2,8-dioxo-
+                                         3a,4,7,8,8a,9,10,10a,12,12a,12b,13-dodecahidro-6,13a-metano-
+                                         13aH-oxeto[2'’,3'’:5',6']benzo[1',2':4,5]ciclodeca[1,2-d]-1,3-dioxol-4-ilo
+
+
+
+
+                                                                                                                            129
+Recommended INN: List 49                                                  WHO Drug Information, Vol. 17, No. 2, 2003
+
+
+
+
+                           C44H57NO17
+
+                                                        O         CH3
+                                                                  H       O
+                                                             O                   OH
+                                                H3C                           CH3 H
+                                         H OH
+                           H 3C                 O                      CH3
+                                                                                  H     H
+                                                H                      CH3
+                                  CH3 H NH O        H
+                                    O                                         O         O
+                                                        O         O
+                                         O                            H O
+                                  H3 C                                   O        CH3
+                                                                  O
+                                  H3 C                      O
+                                         CH 3
+
+
+
+
+osemozotanum
+osemozotan                 3-(1,3-benzodioxol-5-yloxy)-N-[[(2S)-2,3-dihydro-1,4-benzodioxin-
+                           2-yl]methyl]propan-1-amine
+
+osémozotan                 3-(1,3-benzodioxol-5-yloxy)-N-[[(2S)-2,3-dihydro-1,4-benzodioxin-
+                           2-yl]méthyl]propan-1-amine
+
+osemozotán                 3-(1,3-benzodioxol-5-iloxi)-N-[[(2S)-2,3-dihidro-1,4-benzodioxin-
+                           2-il]metil]propan-1-amina
+
+                           C19H21NO5
+
+
+                                                            H H           O
+                             O            O                 N
+                                                                      O
+                             O
+
+
+
+
+pascolizumabum
+pascolizumab               immunoglobulin G1, anti-(human interleukin 4) (human-mouse monoclonal
+                           SB-240683 γ1-chain), disulfide with human-mouse monoclonal SB-240683
+                           κ−chain, dimer
+
+pascolizumab               immunoglobuline G1, anti-(interleukine 4 humaine) (chaîne γ1 de l’anticorps
+                           monoclonal de souris SB-240683 humanisé), dimère du disulfure avec la
+                           chaîne κ de l’anticorps monoclonal de souris SB-240683 humanisé
+
+pascolizumab               inmunoglobulina G1, anti-(interleukina 4 humana) (cadena γ1 del anticuerpo
+                           monoclonal humanizado de ratón SB-240683), dímero del disulfuro con la
+                           cadena κ del anticuerpo monoclonal humanizado de ratón SB-240683
+
+
+
+
+130
+3   WHO Drug Information, Vol. 17, No. 2, 2003                                                  Recommended INN: List 49
+
+
+
+
+    pegaptanibum
+    pegaptanib                           5'-ester of (2'-deoxy-2'-fluoro)C-Gm-Gm-A-A-(2'-deoxy-2'-fluoro)U-
+                                         (2'-deoxy-2'-fluoro)C-Am-Gm-(2'-deoxy-2'-fluoro)U-Gm-Am-Am-(2'-deoxy-
+                                         2'-fluoro)U-Gm-(2'-deoxy-2'-fluoro)C-(2'-deoxy-2'-fluoro)U-(2'-deoxy-
+                                         2'-fluoro)U-Am-(2'-deoxy-2'-fluoro)U-Am-(2'-deoxy-2'-fluoro)C-Am-
+                                         (2'-deoxy-2'-fluoro)U-(2'-deoxy-2'-fluoro)C-(2'-deoxy-2'-fluoro)C-Gm-
+                                         (3'→3')-dT with α,α’-[[(1S)-1-[[5-(phosphonooxy)pentyl]carbamoyl]pentane-
+                                         1,5-diyl]bis(iminocarbonyl)]bis[ω-methoxypoly(oxyethane-1,2-diyl)]
+
+    pégaptanib                           (2'-désoxy-2'-fluoro)C-Gm-Gm-A-A-(2'-désoxy-2'-fluoro)U-(2'-désoxy-
+                                         2'-fluoro)C-Am-Gm-(2'-désoxy-2'-fluoro)U-Gm-Am-Am-(2'-désoxy-
+                                         2'-fluoro)U-Gm-(2'-désoxy-2'-fluoro)C-(2'-désoxy-2'-fluoro)U-(2'-désoxy-
+                                         2'-fluoro)U-Am-(2'-désoxy-2'-fluoro)U-Am-(2'-désoxy-2'-fluoro)C-Am-
+                                         (2'-désoxy-2'-fluoro)U-(2'-désoxy-2'-fluoro)C-(2'-désoxy-2'-fluoro)C-Gm-
+                                         (3'→3')-dT 5'-estérifié par α,α’-[[(1S)-1-[[5-phosphonooxy)pentyl]=
+                                         carbamoyl]pentane-1,5-diyl]bis(iminocarbonyl)]bis[ω-méthoxypoly=
+                                         (oxyéthane-1,2-diyl)]
+
+    pegaptanib                           (2'-desoxi-2'-fluoro)C-Gm-Gm-A-A-(2'-desoxi-2'-fluoro)U-(2'-desoxi-
+                                         2'-fluoro)C-Am-Gm-(2'-desoxi-2'-fluoro)U-Gm-Am-Am-(2'-desoxi-
+                                         2'-fluoro)U-Gm-(2'-desoxi-2'-fluoro)C-(2'-desoxi-2'-fluoro)U-(2'-desoxi-
+                                         2'-fluoro)U-Am-(2'-desoxi-2'-fluoro)U-Am-(2'-desoxi-2'-fluoro)C-Am-
+                                         (2'-desoxi-2'-fluoro)U-(2'-desoxi-2'-fluoro)C-(2'-desoxi-2'-fluoro)C-Gm-
+                                         (3'→3')-dT 5'-esterificado con α,α’-[[(1S)-1-[[5-(fosfonooxi)pentil]=
+                                         carbamoil]pentano-1,5-diil]bis(iminocarbonil)]bis[ω-metoxipoli(oxietano-
+                                         1,2-diilo)]
+
+                                         C294H370F13N107O188P28[C2H4O]n
+
+
+                                                 x+y=n                            O
+                                                                                          O
+                                                                              N       O        CH 3
+                                                                              H           y
+                                                             O
+                                                                 H        H                           RNA
+                                                 O                        N               O
+                                          H3C            O     N                               P
+                                                             x H
+                                                                      O                       O OH
+
+
+
+
+    pegsunerceptum
+    pegsunercept                         pegylated L-methionyl-1-105-human tumor necrosis factor receptor p55
+
+    pegsunercept                         L-méthionyl-1-105-récepteur p55 du facteur de nécrose tumorale humain,
+                                         pegylé
+
+    pegsunercept                         L-metionil-1-105-receptor p55 del factor de necrosis tumoral humano,
+                                         pegilado
+
+
+
+
+                                                                                                                    131
+Recommended INN: List 49                                             WHO Drug Information, Vol. 17, No. 2, 2003
+
+
+
+
+                           C502H758N154O165S16 (protein portion)
+
+
+
+
+perflubrodecum
+perflubrodec               1-bromohenicosafluorodecane
+
+perflubrodec               1-bromohénicosafluorodécane
+
+perflubrodec               1-bromohenicosafluorodecano
+
+                           C10BrF21
+
+                                      F   F F   F F   F F   F
+                           F3C                                  Br
+
+                                 F    F F   F F   F F   F F     F
+
+
+                                                                                                                  DSVCPQGKY
+
+                                                                                                                  CRECESGSFT
+
+                                                                                                                  RDTVCGCRKN
+picoplatinum
+picoplatin                 (SP-4-3)-amminedichloro(2-methylpyridine)platinium
+
+picoplatine                (SP-4-3)-amminedichloro(2-méthylpyridine)platine
+
+picoplatino                (SP-4-3)-aminodicloro(2-metilpiridina)platino
+
+                           C6H10Cl2N2Pt
+
+
+                            H3 C
+
+                           Cl         N
+                                 Pt
+                           Cl         NH3
+
+
+
+
+132
+3   WHO Drug Information, Vol. 17, No. 2, 2003                                               Recommended INN: List 49
+
+
+
+
+    plevitrexedum
+    plevitrexed                          (2S)-2-[[4-[[(2,7-dimethyl-4-oxo-1,4-dihydroquinazolin-6-yl)methyl](prop-
+                                         2-ynyl)amino]-2-fluorobenzoyl]amino]-4-(1H-tetrazol-5-yl)butanoic acid
+
+    plévitrexed                          acide (2S)-2-[[4-[[(2,7-diméthyl-4-oxo-1,4-dihydroquinazolin-
+                                         6-yl)méthyl](prop-2-ynyl)amino]-2-fluorobenzoyl]amino]-4-(1H-tétrazol-
+                                         5-yl)butanoïque
+
+    plevitrexed                          ácido (2S)-2-[[4-[[(2,7-dimetil-4-oxo-1,4-dihidroquinazolin-6-il)metil](prop-
+                                         2-inil)amino]-2-fluorobenzoil]amino]-4-(1H-tetrazol-5-il)butanoico
+
+                                         C26H25FN8O4
+
+
+                                                                                O   H CO2H
+
+                                                     O                              N
+                                                                                    H        H
+                                                                                             N
+                                                 N                 N            F
+                                                                                                 N
+                                                                                         N N
+                                          H 3C       N           CH3
+                                                     H                     CH
+
+
+    pumosetragum
+    pumosetrag                           N-[(3R)-1-azabicyclo[2.2.2]oct-3-yl]-7-oxo-4,7-dihydrothieno[3,2-b]pyridine-
+                                         6-carboxamide
+
+    pumosétrag                           N-[(3R)-1-azabicyclo[2.2.2]oct-3-yl]-7-oxo-4,7-dihydrothiéno[3,2-b]pyridine-
+                                         6-carboxamide
+
+    pumosetrag                           N-[(3R)-1-azabiciclo[2.2.2]oct-3-il]-7-oxo-4,7-dihidrotieno[3,2-b]piridina-
+                                         6-carboxamida
+
+                                         C15H17N3O2S
+
+
+                                                     H
+                                                     N
+                                                             H
+                                                             N
+                                           S
+                                                             H
+                                                     O   O             N
+
+
+
+    siplizumabum
+    siplizumab                           immunolobulin G1, anti-(human CD2 (antigen)) (human-rat monoclonal
+                                         MEDI-507 γ1-chain), disulfide with human-rat monoclonal MEDI-507 light
+                                         chain, dimer
+
+    siplizumab                           immunolobuline G1, anti-(antigène humain CD2) (chaîne γ1 de l’anticorps
+                                         monoclonal de rat MEDI-507 humanisé), dimère du disulfure avec la chaîne
+                                         légère de l’anticorps monoclonal de rat MEDI-507 humanisé
+
+    siplizumab                           inmunolobulina G1, anti-(antígeno humano CD2) (cadena γ1 del anticuerpo
+                                         monoclonal de rata humanizado MEDI-507), dímero del disulfuro con la
+                                         cadena ligera del anticuerpo monoclonal de rata humanizado MEDI-507
+
+
+
+
+                                                                                                                         133
+Recommended INN: List 49                                              WHO Drug Information, Vol. 17, No. 2, 2003
+
+
+
+
+soraprazanum
+soraprazan                 (7R,8R,9R)-7-(2-methoxyethoxy)-2,3-dimethyl-9-phenyl-
+                           7,8,9,10-tetrahydroimidazo[1,2-h][1,7]naphtyridin-8-ol
+
+soraprazan                 (7R,8R,9R)-7-(2-méthoxyéthoxy)-2,3-diméthyl-9-phényl-
+                           7,8,9,10-tétrahydroimidazo[1,2-h][1,7]naphtyridin-8-ol
+
+soraprazán                 (7R,8R,9R)-9-fenil-2,3-dimetil-7-(2-metoxietoxi)-
+                           7,8,9,10-tetrahidroimidazo[1,2-h][1,7]naftiridin-8-ol
+
+                           C21H25N3O3
+
+
+                                                              CH3
+                                                      N
+                                          H H
+                                            N                   CH3
+                                                          N
+                                      H
+                                     HO
+                                                  H
+                           H3C                O
+                                 O
+
+
+
+
+tapentadolum
+tapentadol                 3-[(1R,2R)-3-(dimethylamino)-1-ethyl-2-methylpropyl]phenol
+
+tapentadol                 3-[(1R,2R)-3-(diméthylamino)-1-éthyl-2-méthylpropyl]phénol
+
+tapentadol                 3-[(1R,2R)-3-(dimetilamino)-1-etil-2-metilpropil]fenol
+
+                           C14H23NO
+
+
+                                   H 3C       CH3
+                                          N
+                                     H
+                              H3 C
+                                          H
+                                              CH3
+
+
+                              OH
+
+
+
+
+tecadenosonum
+tecadenoson                9-β-D -ribofuranosyl-N-[(3R)-tetrahydrofuran-3-yl]-9H-purin-6-amine
+
+técadénoson                9-β-D -ribofuranosyl-N-[(3R)-tétrahydrofuran-3-yl]-9H-purin-6-amine
+
+tecadenosón                9-β-D -ribofuranosil-N-[(3R)-tetrahidrofuran-3-il]-9H-purin-6-amina
+
+
+
+
+134
+3   WHO Drug Information, Vol. 17, No. 2, 2003                                            Recommended INN: List 49
+
+
+
+
+                                         C14H19N5O5
+
+
+
+                                                     H
+                                                 HN            O
+
+                                                           N
+                                                 N
+
+                                          HO         N     N
+                                                      O
+
+
+
+
+                                                 OH       OH
+
+
+
+
+    tecalcetum
+    tecalcet                             3-(2-chlorophenyl)-N-[(1R)-1-(3-methoxyphenyl)ethyl]propan-1-amine
+
+    técalcet                             3-(2-chlorophényl)-N-[(1R)-1-(3-méthoxyphényl)éthyl]propan-1-amine
+
+    tecalcet                             3-(2-clorofenil)-N-[(1R)-1-(3-metoxifenil)etil]propan-1-amina
+
+                                         C18H22ClNO
+
+                                                               H CH3
+                                                                        OCH3
+                                                               N
+                                                               H
+                                                     Cl
+
+
+
+
+    teneliximabum
+    teneliximab                          immunoglobulin G1, anti-(human CD40 (antigen)) (human-mouse monoclonal
+                                         chi220 γ1-chain), disulfide with human-mouse monoclonal chi220 light
+                                         chain, dimer
+
+    ténéliximab                          immunoglobuline G1, anti-(antigène CD40 humain) (chaîne γ1 de l’anticorps
+                                         monoclonal chimérique homme souris chi220), dimère du disulfure avec la
+                                         chaîne légère de l’anticorps monoclonal chimérique homme souris chi220
+
+    teneliximab                          inmunoglobulina G1, anti-(antígeno CD40 humano) (cadena γ1 del
+                                         anticuerpo monoclonal quimérico hombre ratón chi220), dímero del disulfuro
+                                         con la cadena ligera del anticuerpo monoclonal quimèrico hombre ratón
+                                         chi220
+
+
+
+
+                                                                                                                135
+Recommended INN: List 49                                                  WHO Drug Information, Vol. 17, No. 2, 2003
+
+
+
+
+topixantronum
+topixantrone               5-[[2-(dimethylamino)ethyl]amino]-
+                           2-[2-[(2-hydroxyethyl)amino]ethyl]indazolo[4,3-gh]isoquinolin-6(2H)-one
+
+topixantrone               5-[[2-(diméthylamino)éthyl]amino]-
+                           2-[2-[(2-hydroxyéthyl)amino]éthyl]indazolo[4,3-gh]isoquinoléin-6(2H)-one
+
+topixantrona               5-[[2-(dimetilamino)etil]amino]-
+                           2-[2-[(2-hidroxietil)amino]etil]indazolo[4,3-gh]isoquinolin-6(2H)-ona
+
+                           C21H26N6O2
+
+                                                        H
+                                                        N
+                                        N N                         OH
+
+                           N
+
+
+
+                                    O      HN               CH3
+                                                        N
+                                                        CH3
+
+
+
+toralizumabum
+toralizumab                immunoglobulin G1, anti-(human CD40 ligand) (human-mouse monoclonal
+                           IDEC-131 γ1-chain), disulfide with human-mouse monoclonal IDEC-131
+                           κ−chain, dimer
+
+toralizumab                immunoglobuline G1, anti-(ligand CD40 humain) (chaîne γ1 de l’anticorps
+                           monoclonal de souris IDEC-131 humanisé), dimère du disulfure avec la
+                           chaîne κ de l’anticorps monoclonal de souris IDEC-131 humanisé
+
+toralizumab                inmunoglobulina G1, anti-(ligando CD40 humano) (cadena γ1 del anticuerpo
+                           monoclonal humanizado de ratón IDEC-131), dímero del disulfuro con la
+                           cadena κ del anticuerpo monoclonal humanizado de ratón IDEC-131
+
+
+
+torcetrapibum
+torcetrapib                ethyl (2R,4S)-4-[[3,5-bis(trifluoromethyl)benzyl](methoxycarbonyl)amino]-
+                           2-ethyl-6-(trifluoromethyl)-3,4-dihydroquinoline-1(2H)-carboxylate
+
+torcétrapib                (2R,4S)-4-[[3,5-bis(trifluorométhyl)benzyl](méthoxycarbonyl)amino]-2-éthyl-
+                           6-(trifluorométhyl)-3,4-dihydroquinoléine-1(2H)-carboxylate d’éthyle
+
+torcetrapib                (2R,4S)-4-[[3,5-bis(trifluorometil)bencil](metoxicarbonil)amino]-2-etil-
+                           6-(trifluorometil)-3,4-dihidroquinolina-1(2H)-carboxilato de etilo
+
+                           C26H25F9N2O4
+
+                                          F3C
+                                                                O
+
+                                                            N       O     CH3
+                                                                H
+                           F3 C                                     CH3
+                                                N
+                                                    H
+                                                        CH3
+                                           O        O
+                                   CF 3
+
+136
+3   WHO Drug Information, Vol. 17, No. 2, 2003                                            Recommended INN: List 49
+
+
+
+
+    torcitabinum
+    torcitabine                          4-amino-1-(2-deoxy-β-L -erythro-pentofuranosyl)pyrimidin-2(1H)-one
+
+    torcitabine                          4-amino-1-(2-désoxy-β-L -érythro-pentofuranosyl)pyrimidin-2(1H)-one
+
+    torcitabina                          4-amino-1-(2-desoxi-β-L -eritro-pentofuranosil)pirimidin-2(1H)-ona
+
+                                         C9H13N3O4
+
+
+                                                          O
+                                                   OH
+
+                                          HO                  N       O
+
+                                                                  N
+
+                                                              NH2
+
+
+
+
+    treprostinilum
+    treprostinil                         [[(1R,2R,3aS,9aS)-2-hydroxy-1-[(3S)-3-hydroxyoctyl]-2,3,3a,4,9,9a-
+                                         hexahydro-1H-cyclopenta[b]naphthalen-5-yl]oxy]acetic acid
+
+    tréprostinil                         acide [[(1R,2R,3aS,9aS)-2-hydroxy-1-[(3S)-3-hydroxyoctyl]-2,3,3a,4,9,9a-
+                                         hexahydro-1H-cyclopenta[b]naphtalén-5-yl]oxy]acétique
+
+    treprostinilo                        ácido [[(1R,2R,3aS,9aS)-2-hidroxi-1-[(3S)-3-hidroxioctil]-2,3,3a,4,9,9a-
+                                         hexahidro-1H-ciclopenta[b]naftalen-5-il]oxi]acético
+
+                                         C23H34O5
+
+
+
+                                                                  O       CO 2H
+                                                          H
+                                          HO
+                                           H
+                                               H          H
+
+
+                                                 HO
+                                                                          CH3
+                                                      H
+
+
+
+
+    triplatinum tetranitras
+    triplatin tetranitrate               trans-[bis[trans-diamminechloroplatinium(µ-hexane-
+                                         1,6-diamine)]]diammineplatinium tetranitrate
+
+    tétranitrate de triplatine           tétranitrate de trans-[bis[trans-diamminechloroplatine(µ-hexane-
+                                         1,6-diamine)]]diammineplatine
+
+    tetranitrato de triplatino           tetranitrato de trans-[bis[trans-diaminacloroplatino(µ-hexano-
+                                         1,6-diamina)]]diaminaplatino
+
+
+
+                                                                                                                    137
+Recommended INN: List 49                                          WHO Drug Information, Vol. 17, No. 2, 2003
+
+
+
+
+                           C12H50Cl2N14O12Pt3
+
+
+                                                                                                     4+
+                                                                  H2              H 3N         Cl
+                                                     H3N          N                       Pt
+                                        H2
+                                                             Pt                      N         NH3
+                              Cl        N                                            H2
+                                   Pt                   N         NH3
+                            H3N         NH3             H2
+
+
+                                                           4 NO3 -
+
+
+
+
+tulathromycinum
+tulathromycin              Mixture of two compounds (in equilibrium in solution):
+                           tulathromycinum A
+                           (2R,3S,4R,5R,8R,10R,11R,12S,13S,14R)-13-[(2,6-dideoxy-3-C-methyl-
+                           3-O-methyl-4-C-[(propylamino)methyl]-α-L -ribo-hexopyranosyl)oxy]-2-ethyl-
+                           3,4,10-trihydroxy-3,5,8,10,12,14-hexamethyl-11-[[3,4,6-trideoxy-
+                           3-(dimethylamino)-β-D -xylo-hexopyranosyl]oxy]-1-oxa-
+                           6-azacyclopentadecan-15-one
+                           tulathromycinum B
+                           (2R,3R,6R,8R,9R,10S,11S,12R)-11-[(2,6-dideoxy-3-C-methyl-3-O-methyl-
+                           4-C-[(propylamino)methyl]-α-L -ribo-hexopyranosyl)oxy]-2-[(1R,2R)-
+                           1,2-dihydroxy-1-methylbutyl]-8-hydroxy-3,6,8,10,12-pentamethyl-
+                           9-[[3,4,6-trideoxy-3-(dimethylamino)-β-D-xylo-hexopyranosyl]oxy]-1-oxa-
+                           4-azacyclotridecan-13-one
+
+tulathromycine             Mélange de deux composés (en équilibre en solution):
+                           tulathromycinum A
+                           (2R,3S,4R,5R,8R,10R,11R,12S,13S,14R)-13-[(2,6-didésoxy-3-C-méthyl-
+                           3-O-méthyl-4-C-[(propylamino)méthyl]-α-L -ribo-hexopyranosyl)oxy]-2-éthyl-
+                           3,4,10-trihydroxy-3,5,8,10,12,14-hexaméthyl-11-[[3,4,6-tridésoxy-
+                           3-(diméthylamino)-β-D -xylo-hexopyranosyl]oxy]-1-oxa-
+                           6-azacyclopentadécan-15-one
+                           tulathromycinum B
+                           (2R,3R,6R,8R,9R,10S,11S,12R)-11-[(2,6-didésoxy-3-C-méthyl-3-O-méthyl-
+                           4-C-[(propylamino)méthyl]-α-L -ribo-hexopyranosyl)oxy]-2-[(1R,2R)-
+                           1,2-dihydroxy-1-méthylbutyl]-8-hydroxy-3,6,8,10,12-pentaméthyl-
+                           9-[[3,4,6-tridésoxy-3-(diméthylamino)-β-D -xylo-hexopyranosyl]oxy]-1-oxa-
+                           4-azacyclotridécan-13-one
+
+tulatromicina              Mezcla de dos componentes (en equilibrio en solución):
+                           tulathromycinum A
+                           (2R,3S,4R,5R,8R,10R,11R,12S,13S,14R)-13-[(2,6-didesoxi-3-C-metil-3-O-
+                           metil-4-C-[(propilamino)metil]-α-L -ribo-hexopiranosil)oxi]-2-etil-3,4,10-
+                           trihidroxi-3,5,8,10,12,14-hexametil-11-[[3,4,6-tridesoxi-3-(dimetilamino)-
+                           β-D -xilo-hexopiranosil]oxi]-1-oxa-6-azaciclopentadecan-15-ona
+                           tulathromycinum B
+                           (2R,3R,6R,8R,9R,10S,11S,12R)-11-[(2,6-didesoxi-3-C-metil-3-O-metil-4-C-[
+                           (propilamino)metil]-α-L -ribo-hexopiranosil)oxi]-2-[(1R,2R)-1,2-dihydroxi-
+                           1-metilbutil]-8-hidroxi-3,6,8,10,12-pentametil-9-[[3,4,6-tridesoxi-3-
+                           (dimetilamino)-β-D -xilo-hexopiranosil]oxi]-1-oxa-4-azaciclotridecan-13-ona
+
+
+
+
+138
+3   WHO Drug Information, Vol. 17, No. 2, 2003                                                          Recommended INN: List 49
+
+
+
+
+                                         C41H79N3O12 tulathromycinum A
+                                         C41H79N3O12 tulathromycinum B
+
+
+                                          tulathromycinum A           H3C              NH CH3
+                                                                       H                   H
+                                                                    H3C              H     OH
+                                                 CH3               HO               HO        CH3
+                                                       O O                           CH3      H
+                                          H3C        CH3                                O
+                                                 N                      H            H          CH3
+                                                                       O O
+                                                            HO
+                                                                                            O
+                                                                 CH3          H
+                                                       OH        OCH3               H CH3
+                                            H3C
+                                                        N
+                                                        H        CH3
+
+
+
+                                          tulathromycinum B                  H 3C
+                                                                             H
+                                                                       H3C                      CH3
+                                                                                      HN
+                                                 CH3               HO                            H OH
+                                                                                                 H
+                                                       O O                           CH3                 CH 3
+                                          H3C        CH3                               O
+                                                 N                      H            H   H        CH3
+                                                                       O O                      OH
+                                                            HO
+                                                                                            O
+                                                                 CH3          H
+                                                       OH        OCH3               H CH3
+                                            H 3C
+                                                        N
+                                                        H        CH3
+
+
+
+
+    vapaliximabum
+    vapaliximab                          immunoglobulin G2, anti-(human vascular adhesion protein VAP-1) (human-
+                                         mouse monoclonal 2D10 γ2-chain), disulfide with human-mouse monoclonal
+                                         2D10 κ−chain, dimer
+
+    vapaliximab                          immunoglobuline G2, anti-(protéine d’adhésion vasculaire humaine VAP-1)
+                                         (chaîne γ2 de l’anticorps monoclonal chimérique homme-souris 2D10),
+                                         dimère du disulfure avec la chaîne κ de l’anticorps monoclonal chimérique
+                                         homme-souris 2D10
+
+    vapaliximab                          inmunoglobulina G2, anti-(proteína de adhesión vascular humana VAP-1)
+                                         (cadena γ2 del anticuerpo monoclonal quimérico hombre-ratón 2D10),
+                                         dímero del disulfuro con la cadena κ del anticuerpo monoclonal quimérico
+                                         hombre-ratón 2D10
+
+
+
+
+                                                                                                                            139
+Recommended INN: List 49                                        WHO Drug Information, Vol. 17, No. 2, 2003
+
+
+
+
+varespladibum
+varespladib                [[3-(aminooxoacetyl)-1-benzyl-2-ethyl-1H-indol-4-yl]oxy]acetic acid
+
+varespladib                acide [[3-(aminooxoacétyl)-1-benzyl-2-éthyl-1H-indol-4-yl]oxy]acétique
+
+varespladib                ácido [[3-(aminooxoacetil)-1-bencil-2-etil-1H-indol-4-il]oxi]acético
+
+                           C21H20N2O5
+
+
+                                        O      NH2
+                             H3C
+                                               O
+                                    N          O     CO2H
+
+
+
+
+140
+3   WHO Drug Information, Vol. 17, No. 2, 2003                                              Recommended INN: List 49
+
+
+
+
+                                AMENDMENTS TO PREVIOUS LISTS
+                        MODIFICATIONS APPORTÉES AUX LISTES ANTÉRIEURES
+                            MODIFICACIONES A LAS LISTAS ANTERIORES
+
+
+
+    Recommended International Nonproprietary Names (Rec. INN): List 46
+    Dénominations communes internationales recommandées (DCI Rec.): Liste 46
+    Denominaciones Comunes Internacionales Recomendadas (DCI Rec.): Lista 46
+    (WHO Drug Information, Vol. 15, No. 3-4, 2001)
+
+
+    p. 208 reglitazarum
+           reglitazar                            sustituyase la descripción por la siguiente:
+                                                 (4RS)-4-[4-[2-fenil-5-metiloxazol-4-il)etoxi]bencil]isoxazolidina-
+                                                 3,5-diona
+
+
+    p. 208 rivoglitazonum
+           rivoglitazona                         sustituyase la descripción por la siguiente:
+                                                 (5RS)-5-[4-[(1-metil-6-metoxi-1H-bencimidazol-
+                                                 2-il)metoxi]bencil]tiazolidina-2,4-diona
+
+
+    p. 217 delete/supprimer/suprimase            insert/insérer/insértese
+
+           tebipenemum                           tebipenemum pivoxilum
+           tebipenem                             tebipenem pivoxil
+           tébipénem                             tébipénem pivoxil
+           tebipenem                             tebipenem pivoxilo
+
+
+
+
+    Recommended International Nonproprietary Names (Rec. INN): List 48
+    Dénominations communes internationales recommandées (DCI Rec.): Liste 48
+    Denominaciones Comunes Internacionales Recomendadas (DCI Rec.): Lista 48
+    (WHO Drug Information, Vol. 16, No. 3, 2002)
+
+
+    p. 255 metelimumabum
+           metelimumab                           replace the description by the following:
+                                                 immunoglobulin G4, anti-(human transforming growth factor β1)
+                                                 (human monoclonal CAT-192 γ4-chain), disulfide with human
+                                                 monoclonal CAT-192 κ-chain, dimer
+
+
+
+
+                                                                                                                      141
+Recommended INN: List 49                                                    WHO Drug Information, Vol. 17, No. 2, 2003
+
+
+
+
+p. 258 paliferminum
+       palifermin                              replace the description and the graphic formula by the following:
+                                               human fibroblast growth factor-(24-163)-peptide
+
+       palifermine                             remplacer la description et la formule developpée par la suivante:
+                                               peptide-(24-163)-facteur de croissance du fibroblaste humain
+
+       palifermina                             sustitúyase la descripción y la fórmula empírica por la siguiente:
+                                               péptido-(24-163)-factor de crecimiento del fibroblasto humano
+
+
+                                                                                       SYDYMEG        GDIRVRRLFC
+                                               RTQWYLRIDK         RGKVKGTQEM        KNNYNIMEIR        TVAVGIVAIK
+                                               GVESEFYLAM         NKEGKLYAKK        ECNEDCNFKE        LILENHYNTY
+                                               ASAKWTHNGG         EMFVALNQKG        IPVRGKKTKK        EQKTAHFLPM
+                                               AIT
+
+
+p. 267 delete/supprimer/suprimase              insert/insérer/insértese
+
+       pitrakinraum                            pitrakinrum
+
+
+
+
+Procedure and Guiding Principles / Procédure et Directives / Procedimientos y principios generales
+The text of the Procedures for the Selection of Recommended International Nonproprietary Names for Pharmaceutical
+Substances and General Principles for Guidance in Devising International Nonproprietary Names for Pharmaceutical
+Substances will be reproduced in uneven numbers of proposed INN lists only.
+Les textes de la Procédure à suivre en vue du choix de dénominations communes internationales recommandées pour
+les substances pharmaceutiques et des Directives générales pour la formation de dénominations communes internatio-
+nales applicables aux substances pharmaceutiques seront publiés seulement dans les numéros impaires des listes
+des DCIs proposées.
+El texto de los Procedimientos de selección de denominaciones comunes internacionales recomendadas para las
+sustancias farmacéuticas y de los Principios generales de orientación para formar denominaciones comunes
+internacionales para sustancias farmacéuticas aparece solamente en los números impares de las listas de DCI propuestas.
+
+
+
+142
+

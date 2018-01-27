@@ -1,0 +1,6 @@
+alacizumab_pegol 0
+domagrozumab 0
+farletuzumab 0
+nesvacumab 0
+orticumab 0
+sarilumab 0

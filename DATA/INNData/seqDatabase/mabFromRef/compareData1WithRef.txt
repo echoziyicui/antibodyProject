@@ -1,0 +1,78 @@
+Number of ab in dataset with sequence 158
+ ['motavizumab', 'bavituximab', 'lexatumumab', 'ibalizumab', 'tenatumomab', 'eta
+racizumab', 'teplizumab', 'gantenerumab', 'anrukinzumab', 'dacetuzumab', 'siltux
+imab', 'figitumumab', 'robatumumab', 'cixutumumab', 'teprotumumab', 'rontalizuma
+b', 'girentuximab', 'rilotumumab', 'daratumumab', 'intetumumab', 'sifalimumab',
+'briakinumab', 'fresolimumab', 'lebrikizumab', 'secukinumab', 'suvizumab', 'mavr
+ilimumab', 'ensituximab', 'olaratumab', 'gevokizumab', 'olokizumab', 'ublituxima
+b', 'roledumab', 'amatuximab', 'enavatuzumab', 'icrucumab', 'carlumab', 'mogamul
+izumab', 'vesencumab', 'namilumab', 'lirilumab', 'pateclizumab', 'tabalumab', 's
+irukumab', 'vatelizumab', 'blosozumab', 'ficlatuzumab', 'brodalumab', 'sarilumab
+', 'crenezumab', 'caplacizumab', 'inclacumab', 'flanvotumab', 'solitomab', 'patr
+itumab', 'placulumab', 'actoxumab', 'demcizumab', 'ocaratuzumab', 'imgatuzumab',
+ 'clazakizumab', 'vorsetuzumab', 'alirocumab', 'simtuzumab', 'orticumab', 'conci
+zumab', 'evolocumab', 'duligotuzumab', 'parsatuzumab', 'ligelizumab', 'dupilumab
+', 'tildrakizumab', 'dusigitumab', 'nesvacumab', 'pidilizumab', 'idarucizumab',
+'ozanezumab', 'seribantumab', 'bimagrumab', 'pritoxaximab', 'setoxaximab', 'lode
+lcizumab', 'eldelumab', 'tosatoxumab', 'codrituzumab', 'guselkumab', 'margetuxim
+ab', 'anifrolumab', 'obiltoxaximab', 'otlertuzumab', 'aducanumab', 'fletikumab',
+ 'bimekizumab', 'diridavumab', 'emibetuzumab', 'varlilumab', 'pasotuxizumab', 'v
+anucizumab', 'lumretuzumab', 'begelomab', 'imalumab', 'lenzilumab', 'firivumab',
+ 'brontictuzumab', 'lokivetmab', 'durvalumab', 'evinacumab', 'brolucizumab', 'de
+ctrekumab', 'pamrevlumab', 'avelumab', 'trevogrumab', 'opicinumab', 'ascrinvacum
+ab', 'monalizumab', 'bleselumab', 'emicizumab', 'cabiralizumab', 'plozalizumab',
+ 'risankizumab', 'xentuzumab', 'rovalpituzumab', 'enoblituzumab', 'tezepelumab',
+ 'refanezumab', 'afasevikumab', 'tisotumab', 'mirvetuximab', 'landogrozumab', 'b
+lontuvetmab', 'tamtuvetmab', 'crotedumab', 'vobarilizumab', 'rozanolixizumab', '
+navicixizumab', 'laprituximab', 'naratuximab', 'vadastuximab', 'carotuximab', 't
+imolumab', 'lupartumab', 'depatuxizumab', 'galcanezumab', 'erenumab', 'fremanezu
+mab', 'burosumab', 'suptavumab', 'eptinezumab', 'crizanlizumab', 'lutikizumab',
+'dezamizumab', 'utomilumab', 'vunakizumab', 'camrelizumab', 'rosmantuzumab', 'sa
+cituzumab', 'tavolixizumab', 'ranevetmab']
+
+
+Number of ab in dataset with no sequence 9
+ ['nimotuzumab', 'ipilimumab', 'ocrelizumab', 'denosumab', 'iratumumab', 'canaki
+numab', 'tanezumab', 'andecaliximab', 'sapelizumab']
+
+
+Number of ab absent 204
+ ['tuvirumab', 'sevirumab', 'imciromab', 'maslimomab', 'nebacumab', 'biciromab',
+ 'enlimomab', 'satumomab', 'altumomab', 'edobacomab', 'detumomab', 'daclizumab',
+ 'votumumab', 'abciximab', 'capromab', 'regavirumab', 'inolimomab', 'priliximab'
+, 'afelimomab', 'odulimomab', 'arcitumomab', 'igovomab', 'edrecolomab', 'faralim
+omab', 'technetium (99mTc) pintumomab', 'bectumomab', 'sulesomab', 'nerelimomab'
+, 'keliximab', 'cedelizumab', 'basiliximab', 'lintuzumab', 'infliximab', 'rituxi
+mab', 'clenoliximab', 'felvizumab', 'trastuzumab', 'morolimumab', 'atorolimumab'
+, 'natalizumab', 'palivizumab', 'vepalimomab', 'minretumomab', 'tositumomab', 'e
+pitumomab', 'adalimumab', 'sibrotuzumab', 'rovelizumab', 'mepolizumab', 'lerdeli
+mumab', 'cetuximab', 'epratuzumab', 'mitumomab', 'bivatuzumab', 'alemtuzumab', '
+ruplizumab', 'bevacizumab', 'gemtuzumab', 'omalizumab', 'lemalesomab', 'visilizu
+mab', 'gavilimomab', 'ziralimumab', 'erlizumab', 'metelimumab', 'matuzumab', 're
+slizumab', 'efalizumab', 'labetuzumab', 'pritumumab', 'technetium (99mTc) fanole
+somab', 'pexelizumab', 'oregovomab', 'vapaliximab', 'apolizumab', 'teneliximab',
+ 'pascolizumab', 'eculizumab', 'toralizumab', 'ecromeximab', 'siplizumab', 'font
+olizumab', 'urtoxazumab', 'aselizumab', 'zanolimumab', 'ranibizumab', 'bertilimu
+mab', 'galiximab', 'talizumab', 'elsilimomab', 'pertuzumab', 'belimumab', 'tocil
+izumab', 'catumaxomab', 'ertumaxomab', 'sontuzumab', 'lumiliximab', 'adecatumuma
+b', 'besilesomab', 'libivirumab', 'golimumab', 'panitumumab', 'tefibazumab', 'ex
+bivirumab', 'raxibacumab', 'volociximab', 'zalutumumab', 'ofatumumab', 'bapineuz
+umab', 'mapatumumab', 'pagibaximab', 'tadocizumab', 'efungumab', 'abagovomab', '
+stamulumab', 'tremelimumab', 'otelixizumab', 'lucatumumab', 'panobacumab', 'mila
+tuzumab', 'veltuzumab', 'ustekinumab', 'tigatuzumab', 'racotumomab', 'blinatumom
+ab', 'conatumumab', 'obinutuzumab', 'rafivirumab', 'foravirumab', 'farletuzumab'
+, 'elotuzumab', 'necitumumab', 'vedolizumab', 'solanezumab', 'ramucirumab', 'iod
+ine (124I) girentuximab', 'fezakinumab', 'glembatumumab', 'dalotuzumab', 'benral
+izumab', 'tralokinumab', 'drozitumab', 'enokizumab', 'etrolizumab', 'samalizumab
+', 'foralumab', 'oxelumab', 'itolizumab', 'ponezumab', 'ganitumab', 'atinumab',
+'radretumab', 'urelumab', 'onartuzumab', 'ozoralizumab', 'fulranumab', 'tregaliz
+umab', 'narnatumab', 'ixekizumab', 'abituzumab', 'ontuxizumab', 'romosozumab', '
+quilizumab', 'enoticumab', 'lampalizumab', 'fasinumab', 'bezlotoxumab', 'futuxim
+ab', 'modotuximab', 'nivolumab', 'perakizumab', 'dinutuximab', 'tarextumab', 'to
+vetumab', 'vantictumab', 'pembrolizumab', 'atezolizumab', 'bococizumab', 'ralpan
+cizumab', 'ulocuplumab', 'abrilumab', 'emactuzumab', 'navivumab', 'inebilizumab'
+, 'lendalizumab', 'elgemtumab', 'tesidolumab', 'nemolizumab', 'isatuximab', 'lil
+otomab', 'indusatumab', 'ifabotuzumab', 'rinucumab', 'rivabazumab', 'prezalumab'
+, 'lanadelumab', 'pogalizumab', 'domagrozumab', 'emapalumab', 'elezanumab', 'rem
+tolumab', 'telisotuzumab', 'aprutumab', 'brazikumab']
+

@@ -1,0 +1,21 @@
+
+Cluster 1
+H100
+H52
+H54
+H56
+H98
+L30A
+L30B
+L32
+L94
+
+Cluster 2
+H19
+H79
+H81
+
+Cluster 3
+H83
+H84
+H85

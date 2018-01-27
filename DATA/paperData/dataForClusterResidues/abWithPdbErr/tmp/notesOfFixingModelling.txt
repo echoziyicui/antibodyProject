@@ -1,0 +1,74 @@
+Fixed: 15   unfixed:10
+-------------------------------------------------------------------------------
+
+***single-chain antibodies: fixed by adding a complementary chain ***
+[Heavy chain only] 6 
+sequence in:
+DATA/paperData/dataForClusterResidues/tmp/abWithPdbErr/tmp/abnum/singleChainSeqPaired/
+
+pdb paired in:
+DATA/paperData/dataForClusterResidues/tmp/abWithPdbErr/tmp/pdb/pdbPaired/H/
+
+pdb corrected in:
+DATA/paperData/dataForClusterResidues/tmp/abWithPdbErr/tmp/pdb/pdbCorrectedForSingleChain/
+
+caplacizumab
+lexatumumab
+otlertuzumab
+ozoralizumab
+palivizumab
+vobarilizumab
+-------------------------------------------------------------------------------
+[Light chain only] 4 
+sequence in:
+DATA/paperData/dataForClusterResidues/tmp/abWithPdbErr/tmp/abnum/singleChainSeqPaired/
+
+pdb paired in:
+DATA/paperData/dataForClusterResidues/tmp/abWithPdbErr/tmp/pdb/pdbPaired/L/
+
+pdb corrected in:
+DATA/paperData/dataForClusterResidues/tmp/abWithPdbErr/tmp/pdb/pdbCorrectedForSingleChain/
+
+emicizumab
+lulizumab_pegol
+naptumomab_estafenatox
+placulumab
+-------------------------------------------------------------------------------
+***fixed by convert the DOS file *** 3
+sequence fixed in:
+DATA/paperData/dataForClusterResidues/tmp/abWithPdbErr/tmp/abnum/DOSSeqCorrected/
+
+pdb corrected in:
+DATA/paperData/dataForClusterResidues/tmp/abWithPdbErr/tmp/pdb/pdbCorrectedForDOSError/
+
+bapineuzumab
+nimotuzumab
+ocrelizumab
+-------------------------------------------------------------------------------
+*** fixed by excluding CA-only model *** 2
+sequence in:
+DATA/paperData/dataForClusterResidues/tmp/abWithPdbErr/tmp/abnum/withCAOnlyModel/
+
+pdb corrected in:
+DATA/paperData/dataForClusterResidues/tmp/abWithPdbErr/tmp/pdb/pdbCorrectedExludingCAOnlyModel/
+
+bimekizumab	H: 4c2i0
+88BV59          H: 4c2i0 
+-------------------------------------------------------------------------------
+***unable to fix *** 10
+sequence in:
+DATA/paperData/dataForClusterResidues/tmp/abWithPdbErr/tmp/abnum/unfixedSeq/
+
+blontuvetmab   /
+clazakizumab   /
+dupilumab      /
+mavrilimumab   /
+rafivirumab    /
+rovalpituzumab /
+tenatumomab    /
+teprotumumab   /
+tovetumab      /
+CDP571         /
+
+
+
